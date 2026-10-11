@@ -2,10 +2,49 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:31:52 AM 12-10-2026",
+  "last_update_time": "04:01:58 AM 12-10-2026",
   "total_matches": 152,
-  "live_match": 24,
+  "live_match": 28,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "New York Rangers Vs Vancouver Canucks",
+      "eventInfo": {
+        "teamA": "New York Rangers",
+        "teamB": "Vancouver Canucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://edgestream6.pro/hls/fghsqdgauduyagz88.m3u8?",
+          "referer": "https://streame.center"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -446,31 +485,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Arouca Vs CF Estrela Amadora",
-      "eventInfo": {
-        "teamA": "FC Arouca",
-        "teamB": "CF Estrela Amadora",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "12/10/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/0010/index.m3u8"
-        },
-        {
-          "channel_name": "BENFICA TV",
-          "stream_url": "https://netanjahu.hls.st/t/59319065af190a4fb85ee668208aeb22/index.m3u8",
-          "referer": "https://iplayer.is/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
       "eventInfo": {
@@ -499,29 +513,6 @@
         {
           "channel_name": "USA NETWROK HD",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Atlanta Dream Vs New York Liberty",
-      "eventInfo": {
-        "teamA": "Atlanta Dream",
-        "teamB": "New York Liberty",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-        "teamBFlag": "n",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "12/10/2026 12:59:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "85b277daf5aae05833fe43a68f587968",
-          "key": "d52d7e9bc0bcd98787efd547ac91eca0"
         }
       ]
     },
@@ -1848,45 +1839,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "New York Rangers Vs Vancouver Canucks",
-      "eventInfo": {
-        "teamA": "New York Rangers",
-        "teamB": "Vancouver Canucks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "12/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://edgestream6.pro/hls/fghsqdgauduyagz88.m3u8?",
-          "referer": "https://streame.center"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Racing Club Vs Club Atlético Belgrano",
       "eventInfo": {
@@ -1976,7 +1928,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "St.Louis City Vs LA Galaxy",
       "eventInfo": {
@@ -2008,7 +1960,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Pacific FC Vs Atlético Ottawa",
       "eventInfo": {
@@ -2030,7 +1982,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Deportes Limache Vs Palestino",
       "eventInfo": {
@@ -2054,7 +2006,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlético San Luis Vs Santos Laguna",
       "eventInfo": {
@@ -2099,7 +2051,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Charlotte Hornets Vs Milwaukee Bucks",
       "eventInfo": {
@@ -2138,7 +2090,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Philadelphia Flyers Vs Carolina Hurricanes",
       "eventInfo": {
@@ -5260,6 +5212,29 @@
     },
     {
       "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Atlanta Dream Vs New York Liberty",
+      "eventInfo": {
+        "teamA": "Atlanta Dream",
+        "teamB": "New York Liberty",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+        "teamBFlag": "n",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "12/10/2026 12:59:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "85b277daf5aae05833fe43a68f587968",
+          "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Real Racing Club Vs Valencia",
       "eventInfo": {
@@ -5378,6 +5353,31 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
           "kid": "332f62eb3cae824e98a4124da29a7d31",
           "key": "d1698cda3d040f9051125a61745b596b"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Arouca Vs CF Estrela Amadora",
+      "eventInfo": {
+        "teamA": "FC Arouca",
+        "teamB": "CF Estrela Amadora",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "12/10/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/0010/index.m3u8"
+        },
+        {
+          "channel_name": "BENFICA TV",
+          "stream_url": "https://netanjahu.hls.st/t/59319065af190a4fb85ee668208aeb22/index.m3u8",
+          "referer": "https://iplayer.is/"
         }
       ]
     }
