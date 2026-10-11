@@ -3,9 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-11 10:33:19 PM (BD Time)
-#  Live Channels Count: 158
+#  Last Updated: 2026-10-11 11:03:23 PM (BD Time)
+#  Live Channels Count: 165
 #=================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Benfica%20Vs%20Vit%C3%B3ria%20SC.jpg" group-title="Football", Benfica Vs Vitória SC - D SPORTS2 + FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Benfica%20Vs%20Vit%C3%B3ria%20SC.jpg" group-title="Football", Benfica Vs Vitória SC - SportDigital Fussball
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bar%C3%A7a%20Basket%20Vs%20Valencia%20Basket.jpg" group-title="Basketball", Barça Basket Vs Valencia Basket - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Betis%20Vs%20Osasuna.jpg" group-title="Football", Real Betis Vs Osasuna - BEIN3 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -273,23 +286,6 @@ http://193.47.62.56/hls/DYYY.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.56/hls/DYYY.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CYCLING%20EVENTO%20Vs%20CYCLING%20EVENTO.jpg" group-title="Other", CYCLING EVENTO Vs CYCLING EVENTO - TNT3UK SPORTS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CYCLING%20EVENTO%20Vs%20CYCLING%20EVENTO.jpg" group-title="Other", CYCLING EVENTO Vs CYCLING EVENTO - TNT4UK SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CYCLING%20EVENTO%20Vs%20CYCLING%20EVENTO.jpg" group-title="Other", CYCLING EVENTO Vs CYCLING EVENTO - TNT1UK SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FK%20Cs%C3%ADkszereda%20Miercurea%20Ciuc%20Vs%20Universitatea%20Craiova.jpg" group-title="Football", FK Csíkszereda Miercurea Ciuc Vs Universitatea Craiova - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
@@ -307,88 +303,6 @@ https://file.genoads.com/ch1.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.56/hls/VRVRVRAAAAAQQQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BK%20H%C3%A4cken%20Vs%20%C3%96rgryte%20IS.jpg" group-title="Football", BK Häcken Vs Örgryte IS - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.56/hls/VRVRVRAAAAAQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rio%20Ave%20Vs%20CD%20Nacional.jpg" group-title="Football", Rio Ave Vs CD Nacional - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/60c45bafb9cb2c33a7fdce4568ecc04f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rio%20Ave%20Vs%20CD%20Nacional.jpg" group-title="Football", Rio Ave Vs CD Nacional - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.56/hls/VRVRVRAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - BEIN3 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - PREMIERE2 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - D SPORTS + FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - HD QUALITY
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-https://www.rtmpcdn.com/live/dc465823-df2b-40b3-9590-f2d71e48c55a.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - ESPN DEPORTES HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57920/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/UFFFAAAAAAQQQA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - DAZN
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/67e017fae9b0f1eef971edf6dafc1e99/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - ARENA PREMIUM
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/67e017fae9b0f1eef971edf6dafc1e99/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20Vs%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", Real Sociedad Vs Deportivo de A Coruña - ZIGGO SPORT
-#EXTVLCOPT:http-referrer=https://iplayer.is/
-https://netanjahu.hls.st/t/3782acf17f06b216cc3cb4b4687d86a5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Almer%C3%ADa%20Vs%20Legan%C3%A9s.jpg" group-title="Football", Almería Vs Leganés - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/UFFFAAAAAAQQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Exeter%20Chiefs%20Vs%20Newcastle%20Red%20Bulls.jpg" group-title="Rugby", Exeter Chiefs Vs Newcastle Red Bulls - TNT1UK SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Exeter%20Chiefs%20Vs%20Newcastle%20Red%20Bulls.jpg" group-title="Rugby", Exeter Chiefs Vs Newcastle Red Bulls - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.56/hls/UFFFAAAAAAQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sale%20Sharks%20Vs%20Harlequin%20FC.jpg" group-title="Rugby", Sale Sharks Vs Harlequin FC - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.56/hls/UFFFAAAAAAQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sale%20Sharks%20Vs%20Harlequin%20FC.jpg" group-title="Rugby", Sale Sharks Vs Harlequin FC - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.56/hls/UFFFAAAAAAQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/India%20Vs%20West%20Indies.jpg" group-title="Cricket", India Vs West Indies - TNT1UK SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -472,99 +386,17 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/DARTS%20PDC%20Vs%20DARTS%20PDC.jpg" group-title="Other", DARTS PDC Vs DARTS PDC - SKY SPORTS
 https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WORLD%20SBK%20%20WORLDSSP%20Vs%20WORLD%20SBK%20%20WORLDSSP.jpg" group-title="Motorsports", WORLD SBK | WORLDSSP Vs WORLD SBK | WORLDSSP - TNT2UK SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Dolphins%20Vs%20Cincinnati%20Bengals.jpg" group-title="American football", Miami Dolphins Vs Cincinnati Bengals - PRIME VEDIO+ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - NFL PASS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbacd3faf04f995b98de0362cfcd29fe:d2f447a855b697c63baf6587ae9550ea
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gygql9ozip/out/v1/12754c36f42e4a568c0b8c0153846a8a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - NFL NETWORK FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - SPORTV2 BR FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - HD QUALITY 1
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57917/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - HD QUALITY NFL
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - HD QUALITY 2
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57918/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - HD QUALITY 3
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57919/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - SERVER + TV
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.59/hls/NCCCAAQQQQA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Philadelphia%20Eagles.jpg" group-title="American football", Jacksonville Jaguars Vs Philadelphia Eagles - SPORT2 TV CZ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SPORTS%20LIVE%20Vs%20SPORTS%20LIVE.jpg" group-title="Other", SPORTS LIVE Vs SPORTS LIVE - NFL SERVER FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL SERVER FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - ESPN4 ARGENTINA FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL HD 1
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57921/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL HD 2
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57922/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL HD 3
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/57923/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL NETWORK + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream4.pro/hls/eyrennte44.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - REDZONE + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream4.pro/hls/jnfezkbfz43.m3u8
+#KODIPROP:inputstream.adaptive.license_key=4a8fb4f7eaa577e151dc2a6f06a15441:6eb7326edc7b0696b44338c99dc61f76
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f4ugzlojfc/out/v1/9f5e1cf62bee42d9b3686b32944c1a0a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Dolphins%20Vs%20Cincinnati%20Bengals.jpg" group-title="American football", Miami Dolphins Vs Cincinnati Bengals - NFL SERVER + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57936/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Dolphins%20Vs%20Cincinnati%20Bengals.jpg" group-title="American football", Miami Dolphins Vs Cincinnati Bengals - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/bengals.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Dolphins%20Vs%20Cincinnati%20Bengals.jpg" group-title="American football", Miami Dolphins Vs Cincinnati Bengals - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
@@ -575,13 +407,34 @@ https://chatgpt.hereisman.net/playlist/57937/load-playlist?&.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream6.pro/hls/sfjnzabacah31.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Dolphins%20Vs%20Cincinnati%20Bengals.jpg" group-title="American football", Miami Dolphins Vs Cincinnati Bengals - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream7.pro/hls/sfjnzabacah31.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Dolphins%20Vs%20Cincinnati%20Bengals.jpg" group-title="American football", Miami Dolphins Vs Cincinnati Bengals - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/HOOO.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20England%20Patriots%20Vs%20Las%20Vegas%20Raiders.jpg" group-title="American football", New England Patriots Vs Las Vegas Raiders - PRIME VEDIO+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f775d0d519858976c3fcfcf57bc57678:22c3c4539832a0c72545a47f3f4ea57d
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20England%20Patriots%20Vs%20Las%20Vegas%20Raiders.jpg" group-title="American football", New England Patriots Vs Las Vegas Raiders - NFL SERVER + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57926/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20England%20Patriots%20Vs%20Las%20Vegas%20Raiders.jpg" group-title="American football", New England Patriots Vs Las Vegas Raiders - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/patriots.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20England%20Patriots%20Vs%20Las%20Vegas%20Raiders.jpg" group-title="American football", New England Patriots Vs Las Vegas Raiders - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57927/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20England%20Patriots%20Vs%20Las%20Vegas%20Raiders.jpg" group-title="American football", New England Patriots Vs Las Vegas Raiders - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream4.pro/hls/jnknjfzbk35.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20England%20Patriots%20Vs%20Las%20Vegas%20Raiders.jpg" group-title="American football", New England Patriots Vs Las Vegas Raiders - SPORTV2 BR FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -593,81 +446,176 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/jnknjfzbk35.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20England%20Patriots%20Vs%20Las%20Vegas%20Raiders.jpg" group-title="American football", New England Patriots Vs Las Vegas Raiders - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/SASASAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - PRIME VEDIO+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1d7e04ddd43fda2fc45be3baff5a94f:5c6fedb92845fbf93aeb2560a9b83f45
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uod57n2bll/out/v1/9f825dd687f24e09a90751baf25904b6/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - NFL SERVER + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57930/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/vikings.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57931/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream5.pro/hls/jkhazabcka36.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - SERVER + TV
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream5.pro/hls/jkhazabcka36.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.50/hls/HOOOA.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Saints%20Vs%20Minnesota%20Vikings.jpg" group-title="American football", New Orleans Saints Vs Minnesota Vikings - SPORT2 TV CZ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Green%20Bay%20Packers%20Vs%20Chicago%20Bears.jpg" group-title="American football", Green Bay Packers Vs Chicago Bears - NFL GAMEPASS+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e056e9f9a151f5a9374b36bee3a37173:6f2cde1ccce6e2e1f83b97e645d7d7fe
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Green%20Bay%20Packers%20Vs%20Chicago%20Bears.jpg" group-title="American football", Green Bay Packers Vs Chicago Bears - NFL SERVER + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57924/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Green%20Bay%20Packers%20Vs%20Chicago%20Bears.jpg" group-title="American football", Green Bay Packers Vs Chicago Bears - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/packers.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Green%20Bay%20Packers%20Vs%20Chicago%20Bears.jpg" group-title="American football", Green Bay Packers Vs Chicago Bears - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57925/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Green%20Bay%20Packers%20Vs%20Chicago%20Bears.jpg" group-title="American football", Green Bay Packers Vs Chicago Bears - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Green%20Bay%20Packers%20Vs%20Chicago%20Bears.jpg" group-title="American football", Green Bay Packers Vs Chicago Bears - SERVER + TV
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream1.pro/hls/ysvbxwnbc38.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Green%20Bay%20Packers%20Vs%20Chicago%20Bears.jpg" group-title="American football", Green Bay Packers Vs Chicago Bears - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/SASASA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Jets%20Vs%20Cleveland%20Browns.jpg" group-title="American football", New York Jets Vs Cleveland Browns - PRIME VEDIO+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb7adc1d3e4686c81a3f0058af82102:6d23f1c8c74819970d69ec74f23a680b
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3yukueoibc/out/v1/07d1e7a2df604a70bdd7bb2e1bf79d16/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Jets%20Vs%20Cleveland%20Browns.jpg" group-title="American football", New York Jets Vs Cleveland Browns - NFL SERVER + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57932/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Jets%20Vs%20Cleveland%20Browns.jpg" group-title="American football", New York Jets Vs Cleveland Browns - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/browns.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Jets%20Vs%20Cleveland%20Browns.jpg" group-title="American football", New York Jets Vs Cleveland Browns - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57933/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Jets%20Vs%20Cleveland%20Browns.jpg" group-title="American football", New York Jets Vs Cleveland Browns - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream5.pro/hls/qsdnajbq32.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Jets%20Vs%20Cleveland%20Browns.jpg" group-title="American football", New York Jets Vs Cleveland Browns - SERVER + TV
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream4.pro/hls/qsdnajbq32.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Jets%20Vs%20Cleveland%20Browns.jpg" group-title="American football", New York Jets Vs Cleveland Browns - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/SASASAAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tennessee%20Titans%20Vs%20Houston%20Texans.jpg" group-title="American football", Tennessee Titans Vs Houston Texans - PRIME VEDIO+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd1c5091e5aa3d5ceaecd735dbd79d80:9cbb20826e097123163447471227afb3
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qydmdhqoiq/out/v1/53b9013dc88c463cafe4a8e708f4a191/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tennessee%20Titans%20Vs%20Houston%20Texans.jpg" group-title="American football", Tennessee Titans Vs Houston Texans - NFL SERVER + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57938/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tennessee%20Titans%20Vs%20Houston%20Texans.jpg" group-title="American football", Tennessee Titans Vs Houston Texans - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/texans.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tennessee%20Titans%20Vs%20Houston%20Texans.jpg" group-title="American football", Tennessee Titans Vs Houston Texans - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57939/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tennessee%20Titans%20Vs%20Houston%20Texans.jpg" group-title="American football", Tennessee Titans Vs Houston Texans - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream5.pro/hls/oipozuezeji33.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tennessee%20Titans%20Vs%20Houston%20Texans.jpg" group-title="American football", Tennessee Titans Vs Houston Texans - SERVER + TV
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/oipozuezeji33.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tennessee%20Titans%20Vs%20Houston%20Texans.jpg" group-title="American football", Tennessee Titans Vs Houston Texans - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/SASASAAAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Commanders%20Vs%20New%20York%20Giants.jpg" group-title="American football", Washington Commanders Vs New York Giants - PRIME VEDIO+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ddd466263fb864a59327dac4e0bb836:a7d9ed9df1bf62118246e48f1f7df151
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ivbn4gk6dy/out/v1/8de5800fa87245bbb63b50c015a2ff01/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Commanders%20Vs%20New%20York%20Giants.jpg" group-title="American football", Washington Commanders Vs New York Giants - NFL SERVER + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57934/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Commanders%20Vs%20New%20York%20Giants.jpg" group-title="American football", Washington Commanders Vs New York Giants - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/giants.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Commanders%20Vs%20New%20York%20Giants.jpg" group-title="American football", Washington Commanders Vs New York Giants - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57935/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Commanders%20Vs%20New%20York%20Giants.jpg" group-title="American football", Washington Commanders Vs New York Giants - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream3.pro/hls/yetehznecs37.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Commanders%20Vs%20New%20York%20Giants.jpg" group-title="American football", Washington Commanders Vs New York Giants - SERVER + TV
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream5.pro/hls/yetehznecs37.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Commanders%20Vs%20New%20York%20Giants.jpg" group-title="American football", Washington Commanders Vs New York Giants - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/HOOOAAA.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pittsburgh%20Steelers%20Vs%20Indianapolis%20Colts.jpg" group-title="American football", Pittsburgh Steelers Vs Indianapolis Colts - TSN1 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pittsburgh%20Steelers%20Vs%20Indianapolis%20Colts.jpg" group-title="American football", Pittsburgh Steelers Vs Indianapolis Colts - PRIME VEDIO+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a52a830e1b76c34e09037b79b6875f3a:9c297b707638fc8b498754d4bb68771a
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/s7pn4tqrvk/out/v1/f4716182ceae4d98b5f402688bbebf1b/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pittsburgh%20Steelers%20Vs%20Indianapolis%20Colts.jpg" group-title="American football", Pittsburgh Steelers Vs Indianapolis Colts - TSN4 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -685,6 +633,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57928/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pittsburgh%20Steelers%20Vs%20Indianapolis%20Colts.jpg" group-title="American football", Pittsburgh Steelers Vs Indianapolis Colts - NFL LIVE + HD
+https://veltristream.s3.us-east-1.amazonaws.com/steelers.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pittsburgh%20Steelers%20Vs%20Indianapolis%20Colts.jpg" group-title="American football", Pittsburgh Steelers Vs Indianapolis Colts - NFL SERVER + HD2
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57929/load-playlist?&.m3u8
@@ -694,18 +645,66 @@ https://chatgpt.hereisman.net/playlist/57929/load-playlist?&.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream1.pro/hls/uheyztezgj34.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Benfica%20Vs%20Vit%C3%B3ria%20SC.jpg" group-title="Football", Benfica Vs Vitória SC - D SPORTS2 + FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pittsburgh%20Steelers%20Vs%20Indianapolis%20Colts.jpg" group-title="American football", Pittsburgh Steelers Vs Indianapolis Colts - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream1.pro/hls/uheyztezgj34.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Benfica%20Vs%20Vit%C3%B3ria%20SC.jpg" group-title="Football", Benfica Vs Vitória SC - SportDigital Fussball
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pittsburgh%20Steelers%20Vs%20Indianapolis%20Colts.jpg" group-title="American football", Pittsburgh Steelers Vs Indianapolis Colts - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.50/hls/HOOOAA.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bar%C3%A7a%20Basket%20Vs%20Valencia%20Basket.jpg" group-title="Basketball", Barça Basket Vs Valencia Basket - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - REDZONE FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL SERVER FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - DAZN SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807641c517ec54c502629ef43fbbfb83:95ec4926bfdc14e93b6c9f0e909add20
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lusdrmoly2/out/v1/ae7bf2a2a0a2455fab14b7465b476889/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL NETWORK + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream4.pro/hls/eyrennte44.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - REDZONE + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream4.pro/hls/jnfezkbfz43.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/SASASAAAAA.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL HD 1
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/57921/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL HD 2
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/57922/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - NFL HD 3
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/57923/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="American football", NFL REDZONE Vs NFL REDZONE - ESPN4 ARGENTINA FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SPORTS%20LIVE%20Vs%20SPORTS%20LIVE.jpg" group-title="Other", SPORTS LIVE Vs SPORTS LIVE - NFL SERVER FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Horse%20Racing%20Vs%20Horse%20Racing.jpg" group-title="Other", Horse Racing Vs Horse Racing - SKY RACING - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -734,4 +733,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1
 https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Modena%20Vs%20Hellas%20Verona.jpg" group-title="Football", Modena Vs Hellas Verona - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Universidad%20T%C3%A9cnica%20de%20Cajamarca%20Vs%20Club%20Sporting%20Cristal.jpg" group-title="Football", Universidad Técnica de Cajamarca Vs Club Sporting Cristal - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Shabab%20Vs%20Al-Taawoun.jpg" group-title="Football", Al-Shabab Vs Al-Taawoun - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FCV%20Farul%20Constan%C8%9Ba%20Vs%20FC%20Petrolul%20Ploie%C8%99ti.jpg" group-title="Football", FCV Farul Constanța Vs FC Petrolul Ploiești - STREAM TV + HD
 https://file.genoads.com/ch1.m3u8
