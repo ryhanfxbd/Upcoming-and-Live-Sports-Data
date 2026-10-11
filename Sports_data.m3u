@@ -3,9 +3,42 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-11 05:03:25 PM (BD Time)
-#  Live Channels Count: 75
+#  Last Updated: 2026-10-11 05:33:37 PM (BD Time)
+#  Live Channels Count: 96
 #=================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WCL%202026%20Vs%20WCL%202026.jpg" group-title="Cricket", WCL 2026 Vs WCL 2026 - STARZPLAY FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://dfus5rb42if6f.cloudfront.net/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/CWCW-PreRoll-Live-DASH/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?aws.sessionId=a5905909-7a94-41e4-adfb-d978f53fbe72
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WCL%202026%20Vs%20WCL%202026.jpg" group-title="Cricket", WCL 2026 Vs WCL 2026 - WILLOW FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WCL%202026%20Vs%20WCL%202026.jpg" group-title="Cricket", WCL 2026 Vs WCL 2026 - FANCODE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WCL%202026%20Vs%20WCL%202026.jpg" group-title="Cricket", WCL 2026 Vs WCL 2026 - STAR SPORTS HD
+http://51.75.127.199:3141/starsports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WCL%202026%20Vs%20WCL%202026.jpg" group-title="Cricket", WCL 2026 Vs WCL 2026 - WILLOW SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20St.%20Pauli%20Vs%20Karlsruher%20SC.jpg" group-title="Football", FC St. Pauli Vs Karlsruher SC - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/VfL%20Bochum%201848%20Vs%20Arminia%20Bielefeld.jpg" group-title="Football", VfL Bochum 1848 Vs Arminia Bielefeld - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Standard%20Li%C3%A8ge%20Vs%20RC%20Sporting%20Charleroi.jpg" group-title="Football", Standard Liège Vs RC Sporting Charleroi - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/DARTS%20PDC%20Vs%20DARTS%20PDC.jpg" group-title="Other", DARTS PDC Vs DARTS PDC - Nova2 Sports FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,15 +48,28 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/DARTS%20PDC%20Vs%20DARTS%20PDC.jpg" group-title="Other", DARTS PDC Vs DARTS PDC - SKY SPORTS
 https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motherwell%20Vs%20Celtic.jpg" group-title="Football", Motherwell Vs Celtic - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/DFFFF.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motherwell%20Vs%20Celtic.jpg" group-title="Football", Motherwell Vs Celtic - SPORT DIGITAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motherwell%20Vs%20Celtic.jpg" group-title="Football", Motherwell Vs Celtic - FOOTBALL + HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/57902/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motherwell%20Vs%20Celtic.jpg" group-title="Football", Motherwell Vs Celtic - FOOTBALL +HD
+https://admin2.formaturamaxi.com.br/foot.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Motherwell%20Vs%20Celtic.jpg" group-title="Football", Motherwell Vs Celtic - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/DFFFF.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Southampton%20Vs%20Portsmouth.jpg" group-title="Football", Southampton Vs Portsmouth - PARAMOUNT+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab0c064f4fb085fa674060547e8f21be:5fced2c272348cf39fa9ff0ef37b7252
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xcg9kf5reo/out/v1/82ba136bd7f8422ebb92e7a157347fea/86890ed8-7b1f-455b-8d69-39594d7f91a9-cenc.mpd?aws_sessionId=9ece69c5-29fd-47e0-a2e2-81c5afd5aa7b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Southampton%20Vs%20Portsmouth.jpg" group-title="Football", Southampton Vs Portsmouth - BEIN3 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -43,15 +89,28 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/V333AAAQA.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Akhmat%20Grozny%20Vs%20Baltika%20Kaliningrad.jpg" group-title="Football", Akhmat Grozny Vs Baltika Kaliningrad - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.59/hls/GUUUA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Southampton%20Vs%20Portsmouth.jpg" group-title="Football", Southampton Vs Portsmouth - CBS SPORTS HD
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Akhmat%20Grozny%20Vs%20Baltika%20Kaliningrad.jpg" group-title="Football", Akhmat Grozny Vs Baltika Kaliningrad - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/GUUUA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - PARAMOUNT+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a6f01c059887e5c4535bd4d4582809:805e2210c0e69a014aa61259a46097ff
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fqjt8xo6on/out/v1/bbe512dcfc304c359887f535783b81d1/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - DAZN ITALY FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f217682db5b92cab13201a34b96412c:cd2f607eeb4cae95dd080c3def175ecf
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/vrwl2tttth/out/v1/bd02c8eaf3c3497bb2e8dff7ba6f725f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9tyrr4wtlq/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/c9eb6aca-cd76-4546-8085-4565053505b2-cenc.mpd?aws_sessionId=fd6f8818-4891-41f5-9fd0-4a8c5a39cbd0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - TNT1UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -74,6 +133,38 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/GUUUA.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - HD QUALITY
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/57901/load-playlist&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - HD QUALITY 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/c54b2cec-839b-4899-85e0-9d691e6b611b.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - DAZN
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/1103a23ad77c2f0ca7d3995caf83c077/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - SPORTV 🇵🇹
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/74ef09dd63af14ebb5f0c0c37dd1b2a0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - ELEVEN SPORTS
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/8b6c5c96f499474a12afa90457fad60f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - ZIGGO SPORTS
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/0524919d89c63a5783a0d59a3f2210ba/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - ARENA PREMIUM
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/b7eece7ca4d33ed0fd24372d535df50e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Como%20Vs%20AS%20Roma.jpg" group-title="Football", Como Vs AS Roma - ARENA SPORTS
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/42eaff07f20ee163a03bb6ca53b46996/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Konyaspor%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Konyaspor Vs Başakşehir FK - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
@@ -83,9 +174,6 @@ http://193.47.62.59/hls/GUUU.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/GUUU.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UCAM%20Murcia%20Vs%20La%20Laguna%20Tenerife.jpg" group-title="Basketball", UCAM Murcia Vs La Laguna Tenerife - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Utrecht%20Vs%20Willem%20II%20Tilburg.jpg" group-title="Football", FC Utrecht Vs Willem II Tilburg - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -115,9 +203,6 @@ http://193.47.62.59/hls/GCCCAAAAQQQ.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Madrid%20Vs%20Kids%26Us%20Manresa.jpg" group-title="Basketball", Real Madrid Vs Kids&Us Manresa - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg" group-title="Motorsports", Formula 1 Vs Formula 1 - TSN5 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -143,6 +228,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg" group-title="Motorsports", Formula 1 Vs Formula 1 - TSN SPORTS D
 https://tedesco.formaturamaxi.com.br/tsn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg" group-title="Motorsports", Formula 1 Vs Formula 1 - SPORTSCAST F1 HD
+https://tedesco.formaturamaxi.com.br/f1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Formula%201%20Vs%20Formula%201.jpg" group-title="Motorsports", Formula 1 Vs Formula 1 - FORMULA 1 FHD
 https://admin2.formaturamaxi.com.br/f1.m3u8
@@ -337,15 +425,6 @@ http://193.47.62.55/hls/NUUUQQ.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20St.%20Pauli%20Vs%20Karlsruher%20SC.jpg" group-title="Football", FC St. Pauli Vs Karlsruher SC - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/VfL%20Bochum%201848%20Vs%20Arminia%20Bielefeld.jpg" group-title="Football", VfL Bochum 1848 Vs Arminia Bielefeld - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Standard%20Li%C3%A8ge%20Vs%20RC%20Sporting%20Charleroi.jpg" group-title="Football", Standard Liège Vs RC Sporting Charleroi - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Elche%20Vs%20Celta%20Vigo.jpg" group-title="Football", Elche Vs Celta Vigo - PREMIERE2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -363,3 +442,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hammarby%20IF%20Vs%20Djurg%C3%A5rdens%20IF.jpg" group-title="Football", Hammarby IF Vs Djurgårdens IF - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/HUHUHU.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/India%20Vs%20Russia.jpg" group-title="Football", India Vs Russia - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SC%20Telstar%20Vs%20ADO%20Den%20Haag.jpg" group-title="Football", SC Telstar Vs ADO Den Haag - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
