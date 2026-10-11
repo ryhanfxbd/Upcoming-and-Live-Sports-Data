@@ -2,10 +2,97 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:31:35 PM 11-10-2026",
+  "last_update_time": "06:01:53 PM 11-10-2026",
   "total_matches": 146,
-  "live_match": 28,
+  "live_match": 36,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Elche Vs Celta Vigo",
+      "eventInfo": {
+        "teamA": "Elche",
+        "teamB": "Celta Vigo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "11/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f836853d8eac19446ed9535f5fc568b1",
+          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "CAZE TV FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "34475edab991ad5e92548aebd710410a",
+          "key": "501b209cccd323ac00bf5ac15b406cb4"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Andorra Vs CD Castellón",
+      "eventInfo": {
+        "teamA": "FC Andorra",
+        "teamB": "CD Castellón",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/324871/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "11/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LALIGA HYP HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LALIGA HYP HD2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hammarby IF Vs Djurgårdens IF",
+      "eventInfo": {
+        "teamA": "Hammarby IF",
+        "teamB": "Djurgårdens IF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1758/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1759/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "11/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/HUHUHU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -70,8 +157,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "STREAM TV + HD..",
+          "stream_url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "kid": "50a7f3afc00a40b38face4db639d0e4c",
+          "key": "ad7000691326064706281a700b7d6714"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/JMMMAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -90,8 +185,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "STREAM TV + HD....",
+          "stream_url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+          "kid": "6477160076644679af1028534f03f67e",
+          "key": "1267f99705113a62c7782c4d5281a7eb"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/JMMMAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -109,6 +212,18 @@
         "startTime": "11/10/2026 05:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "FHD QUALITY...",
+          "stream_url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd",
+          "kid": "2b6f6b340aa8467785e4e82f9320fb5a",
+          "key": "8889701d704078c4d910ed1409413d9b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/JMMMAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
           "channel_name": "FOX SPORTS HD",
           "stream_url": ""
@@ -131,7 +246,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.59/hls/JMMMAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/JMMMAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -741,57 +864,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Australia Women Vs Bangladesh Women",
-      "eventInfo": {
-        "teamA": "Australia Women",
-        "teamB": "Bangladesh Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-        "eventName": "ICC Women's Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark",
-        "startTime": "11/10/2026 09:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd",
-          "kid": "7d9a00a9fc737d5ef4e05c9649eae1b4",
-          "key": "58fd9a8122f34cef93c6c4ac432bc1e5"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd",
-          "kid": "7d9a00a9fc737d5ef4e05c9649eae1b4",
-          "key": "58fd9a8122f34cef93c6c4ac432bc1e5"
-        },
-        {
-          "channel_name": "LOW QUALITY",
-          "stream_url": "http://193.47.62.44/hls/ZZZZ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "FANCODE (IND)",
-          "stream_url": "https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8",
-          "referer": "https://fancode.com/",
-          "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WILLOW2 SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WILLOW2 HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "GOLF EVENTO Vs GOLF EVENTO",
       "eventInfo": {
@@ -1169,89 +1241,53 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Elche Vs Celta Vigo",
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Australia Women Vs Bangladesh Women",
       "eventInfo": {
-        "teamA": "Elche",
-        "teamB": "Celta Vigo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "11/10/2026 06:00:00 PM"
+        "teamA": "Australia Women",
+        "teamB": "Bangladesh Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+        "eventName": "ICC Women's Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+        "startTime": "14/10/2026 09:50:00 AM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd",
+          "kid": "7d9a00a9fc737d5ef4e05c9649eae1b4",
+          "key": "58fd9a8122f34cef93c6c4ac432bc1e5"
         },
         {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f836853d8eac19446ed9535f5fc568b1",
-          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd",
+          "kid": "7d9a00a9fc737d5ef4e05c9649eae1b4",
+          "key": "58fd9a8122f34cef93c6c4ac432bc1e5"
         },
         {
-          "channel_name": "CAZE TV FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "34475edab991ad5e92548aebd710410a",
-          "key": "501b209cccd323ac00bf5ac15b406cb4"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Andorra Vs CD Castellón",
-      "eventInfo": {
-        "teamA": "FC Andorra",
-        "teamB": "CD Castellón",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "11/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LALIGA HYP HD",
-          "stream_url": ""
+          "channel_name": "LOW QUALITY",
+          "stream_url": "http://193.47.62.44/hls/ZZZZ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         },
         {
-          "channel_name": "LALIGA HYP HD2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hammarby IF Vs Djurgårdens IF",
-      "eventInfo": {
-        "teamA": "Hammarby IF",
-        "teamB": "Djurgårdens IF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1758/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1759/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "11/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
+          "channel_name": "FANCODE (IND)",
+          "stream_url": "https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8",
+          "referer": "https://fancode.com/",
+          "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/HUHUHU.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW2 SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW2 HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
         }
       ]
     },
@@ -1316,7 +1352,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Piast Gliwice Vs Widzew Łódź",
       "eventInfo": {
@@ -1343,7 +1379,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "PAK Vs Sri Lanka",
       "eventInfo": {
@@ -1381,7 +1417,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Crystal Palace Vs Nottingham Forest",
       "eventInfo": {
@@ -1422,7 +1458,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hull City Vs Everton",
       "eventInfo": {
@@ -1456,7 +1492,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Lecce Vs Bologna",
       "eventInfo": {
@@ -1478,7 +1514,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Lazio Vs Monza",
       "eventInfo": {
@@ -1506,7 +1542,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Nice Vs RC Strasbourg",
       "eventInfo": {
@@ -1530,7 +1566,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Aberdeen Vs St. Johnstone",
       "eventInfo": {
@@ -1552,7 +1588,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Gaziantep FK Vs Çorum FK",
       "eventInfo": {
