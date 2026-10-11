@@ -2,10 +2,115 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:02:06 AM 12-10-2026",
+  "last_update_time": "05:31:52 AM 12-10-2026",
   "total_matches": 152,
   "live_match": 24,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cusco FC Vs Alianza Lima",
+      "eventInfo": {
+        "teamA": "Cusco FC",
+        "teamB": "Alianza Lima",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2311/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "12/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LIGA1 MAX ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "CF Pachuca Vs Club Necaxa",
+      "eventInfo": {
+        "teamA": "CF Pachuca",
+        "teamB": "Club Necaxa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1936/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "12/10/2026 05:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "763ce1ebcaf23502c8cf357c6ef423e1",
+          "key": "0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "kid": "d695093ea3e66d75a4d213a3e2cbf360",
+          "key": "01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Boyacá Chicó FC Vs Cúcuta Deportivo",
+      "eventInfo": {
+        "teamA": "Boyacá Chicó FC",
+        "teamB": "Cúcuta Deportivo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6108/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "12/10/2026 05:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN PLUS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS+",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN2 SPORTS HD",
+          "stream_url": ""
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -365,38 +470,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Jaguares de Córdoba Vs Deportes Tolima",
-      "eventInfo": {
-        "teamA": "Jaguares de Córdoba",
-        "teamB": "Deportes Tolima",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/89370/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "12/10/2026 03:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WIN PLUS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN SPORTS+",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN SPORTS",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN2 SPORTS HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Washington Capitals Vs Seattle Kraken",
       "eventInfo": {
@@ -570,39 +643,6 @@
         {
           "channel_name": "HD QUALITY 2",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
-      "eventInfo": {
-        "teamA": "NASCAR CUP SERIES",
-        "teamB": "NASCAR CUP SERIES",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "eventName": "NASCAR",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "startTime": "12/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "USA NETWROK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
         }
       ]
     },
@@ -1929,111 +1969,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CF Pachuca Vs Club Necaxa",
-      "eventInfo": {
-        "teamA": "CF Pachuca",
-        "teamB": "Club Necaxa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1936/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "12/10/2026 05:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "763ce1ebcaf23502c8cf357c6ef423e1",
-          "key": "0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "kid": "d695093ea3e66d75a4d213a3e2cbf360",
-          "key": "01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Boyacá Chicó FC Vs Cúcuta Deportivo",
-      "eventInfo": {
-        "teamA": "Boyacá Chicó FC",
-        "teamB": "Cúcuta Deportivo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6108/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "12/10/2026 05:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WIN PLUS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN SPORTS+",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN SPORTS",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WIN2 SPORTS HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cusco FC Vs Alianza Lima",
-      "eventInfo": {
-        "teamA": "Cusco FC",
-        "teamB": "Alianza Lima",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/63760/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2311/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "12/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA1 MAX ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA1 MAX 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Milwaukee Brewers Vs Los Angeles Dodgers",
       "eventInfo": {
@@ -2079,7 +2014,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Atlanta Falcons Vs Baltimore Ravens",
       "eventInfo": {
@@ -2152,7 +2087,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CA Talleres Vs CA Independiente",
       "eventInfo": {
@@ -5027,6 +4962,39 @@
     },
     {
       "status": "ENDED",
+      "Category": "Motorsports",
+      "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
+      "eventInfo": {
+        "teamA": "NASCAR CUP SERIES",
+        "teamB": "NASCAR CUP SERIES",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "eventName": "NASCAR",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "startTime": "12/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "USA NETWROK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Real Racing Club Vs Valencia",
       "eventInfo": {
@@ -5378,6 +5346,38 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
           "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Jaguares de Córdoba Vs Deportes Tolima",
+      "eventInfo": {
+        "teamA": "Jaguares de Córdoba",
+        "teamB": "Deportes Tolima",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/89370/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "12/10/2026 03:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN PLUS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS+",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN2 SPORTS HD",
+          "stream_url": ""
         }
       ]
     }
