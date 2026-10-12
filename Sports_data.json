@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:31:56 PM 12-10-2026",
+  "last_update_time": "05:01:59 PM 12-10-2026",
   "total_matches": 95,
-  "live_match": 5,
+  "live_match": 6,
   "matches": [
     {
       "status": "LIVE",
@@ -1462,7 +1462,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Real Valladolid Vs Albacete Balompié",
       "eventInfo": {
