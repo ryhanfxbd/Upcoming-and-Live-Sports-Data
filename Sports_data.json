@@ -2,10 +2,50 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:32 PM 12-10-2026",
+  "last_update_time": "09:02:08 PM 12-10-2026",
   "total_matches": 90,
-  "live_match": 9,
+  "live_match": 12,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Argeș Pitești Vs CFR 1907 Cluj",
+      "eventInfo": {
+        "teamA": "FC Argeș Pitești",
+        "teamB": "CFR 1907 Cluj",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5287/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "12/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "PAOK Vs PS Kalamata",
+      "eventInfo": {
+        "teamA": "PAOK",
+        "teamB": "PS Kalamata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/412056/image",
+        "eventName": "Stoiximan Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
+        "startTime": "12/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -1656,46 +1696,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "FC Argeș Pitești Vs CFR 1907 Cluj",
-      "eventInfo": {
-        "teamA": "FC Argeș Pitești",
-        "teamB": "CFR 1907 Cluj",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5287/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "12/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "PAOK Vs PS Kalamata",
-      "eventInfo": {
-        "teamA": "PAOK",
-        "teamB": "PS Kalamata",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/412056/image",
-        "eventName": "Stoiximan Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
-        "startTime": "12/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Radomiak Radom Vs Motor Lublin",
       "eventInfo": {
         "teamA": "Radomiak Radom",
@@ -1723,7 +1723,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al Wasl Vs Al-Ahli",
       "eventInfo": {
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Tractor FC Vs Al Shamal SC",
       "eventInfo": {
