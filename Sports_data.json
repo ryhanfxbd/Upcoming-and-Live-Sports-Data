@@ -2,10 +2,33 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:02:08 AM 13-10-2026",
+  "last_update_time": "04:31:53 AM 13-10-2026",
   "total_matches": 108,
-  "live_match": 11,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chapecoense Vs Athletico",
+      "eventInfo": {
+        "teamA": "Chapecoense",
+        "teamB": "Athletico",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "13/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -76,54 +99,6 @@
         },
         {
           "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Halifax Wanderers FC Vs Cavalry FC",
-      "eventInfo": {
-        "teamA": "Halifax Wanderers FC",
-        "teamB": "Cavalry FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/309892/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/309889/image",
-        "eventName": "Canadian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
-        "startTime": "13/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad de Chile Vs Ñublense",
-      "eventInfo": {
-        "teamA": "Universidad de Chile",
-        "teamB": "Ñublense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "13/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT SPORTS2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT HD",
           "stream_url": ""
         }
       ]
@@ -2390,29 +2365,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chapecoense Vs Athletico",
-      "eventInfo": {
-        "teamA": "Chapecoense",
-        "teamB": "Athletico",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "13/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERER BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-          "key": "fa38aaa865a57eda7c77444697ba8ed3"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Washington Wizards Vs Brooklyn Nets",
       "eventInfo": {
@@ -2494,7 +2446,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "New York Knicks Vs Minnesota Timberwolves",
       "eventInfo": {
@@ -3592,6 +3544,54 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "385ceb9714b75e0cef61254f80b31002",
           "key": "18dce92a2891fee68d21ede5173230f8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Halifax Wanderers FC Vs Cavalry FC",
+      "eventInfo": {
+        "teamA": "Halifax Wanderers FC",
+        "teamB": "Cavalry FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/309892/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/309889/image",
+        "eventName": "Canadian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "startTime": "13/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Universidad de Chile Vs Ñublense",
+      "eventInfo": {
+        "teamA": "Universidad de Chile",
+        "teamB": "Ñublense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "13/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT HD",
+          "stream_url": ""
         }
       ]
     }
