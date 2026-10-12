@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-13 02:03:52 AM (BD Time)
-#  Live Channels Count: 82
+#  Last Updated: 2026-10-13 02:33:23 AM (BD Time)
+#  Live Channels Count: 77
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Portland%20Trail%20Blazers%20Vs%20London%20Lions.jpg" group-title="Basketball", Portland Trail Blazers Vs London Lions - STREAM TV+ HD
@@ -301,36 +301,11 @@ http://162.251.160.53:8089/787/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/HHHHa.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Universitatea%20Cluj%20Vs%20FC%20Rapid%20Bucure%C8%99ti.jpg" group-title="Football", FC Universitatea Cluj Vs FC Rapid București - STREAM TV + HD
-http://162.251.160.53:8089/2231/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Universitatea%20Cluj%20Vs%20FC%20Rapid%20Bucure%C8%99ti.jpg" group-title="Football", FC Universitatea Cluj Vs FC Rapid București - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.41/hls/I888AA.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Snooker%20Vs%20Snooker.jpg" group-title="Other", Snooker Vs Snooker - TNT2UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Montreal%20Alouettes%20Vs%20Saskatchewan%20Roughriders.jpg" group-title="American football", Montreal Alouettes Vs Saskatchewan Roughriders - TSN3 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Montreal%20Alouettes%20Vs%20Saskatchewan%20Roughriders.jpg" group-title="American football", Montreal Alouettes Vs Saskatchewan Roughriders - TSN1 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Montreal%20Alouettes%20Vs%20Saskatchewan%20Roughriders.jpg" group-title="American football", Montreal Alouettes Vs Saskatchewan Roughriders - SERVER + TV
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buffalo%20Sabres%20Vs%20Florida%20Panthers.jpg" group-title="Hockey", Buffalo Sabres Vs Florida Panthers - PREMIER2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
