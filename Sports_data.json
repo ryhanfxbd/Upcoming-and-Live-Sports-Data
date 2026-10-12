@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:31:35 AM 13-10-2026",
+  "last_update_time": "04:02:08 AM 13-10-2026",
   "total_matches": 108,
-  "live_match": 10,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -147,68 +147,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Canada W Vs Denmark W",
-      "eventInfo": {
-        "teamA": "Canada W",
-        "teamB": "Denmark W",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/164600/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35832/image",
-        "eventName": "Women's Friendly Match",
-        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-        "startTime": "13/10/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "abc5b2883121012850ebda05b528c5ec",
-          "key": "e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Famalicão Vs FC Alverca",
-      "eventInfo": {
-        "teamA": "Famalicão",
-        "teamB": "FC Alverca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "13/10/2026 01:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/666/index.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -2474,7 +2412,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Washington Wizards Vs Brooklyn Nets",
       "eventInfo": {
@@ -2495,7 +2433,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Atlanta Hawks Vs Oklahoma City Thunder",
       "eventInfo": {
@@ -2516,7 +2454,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "New Jersey Devils Vs Ottawa Senators",
       "eventInfo": {
@@ -3592,6 +3530,68 @@
         {
           "channel_name": "AMAZON HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Famalicão Vs FC Alverca",
+      "eventInfo": {
+        "teamA": "Famalicão",
+        "teamB": "FC Alverca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "13/10/2026 01:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/666/index.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Canada W Vs Denmark W",
+      "eventInfo": {
+        "teamA": "Canada W",
+        "teamB": "Denmark W",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/164600/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35832/image",
+        "eventName": "Women's Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "13/10/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "abc5b2883121012850ebda05b528c5ec",
+          "key": "e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
         }
       ]
     }
