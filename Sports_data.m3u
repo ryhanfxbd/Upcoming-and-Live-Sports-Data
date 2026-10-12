@@ -3,9 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-12 06:33:48 PM (BD Time)
-#  Live Channels Count: 32
+#  Last Updated: 2026-10-12 07:03:33 PM (BD Time)
+#  Live Channels Count: 34
 #=================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Valladolid%20Vs%20Albacete%20Balompi%C3%A9.jpg" group-title="Football", Real Valladolid Vs Albacete Balompié - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/sd-1-4567311.m3u8?txSecret=ff6c5aac96c7f8dfb7e6a7139a63ea1a&txTime=6ACCDDE5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Valladolid%20Vs%20Albacete%20Balompi%C3%A9.jpg" group-title="Football", Real Valladolid Vs Albacete Balompié - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -157,3 +161,8 @@ http://193.47.62.44/hls/CTTTT.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakhtakor%20Tashkent%20Vs%20Al-Qadsiah.jpg" group-title="Football", Pakhtakor Tashkent Vs Al-Qadsiah - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/YFFFAAAA.m3u8
