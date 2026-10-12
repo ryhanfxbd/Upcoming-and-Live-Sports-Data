@@ -2,10 +2,80 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:32:12 AM 13-10-2026",
+  "last_update_time": "02:02:14 AM 13-10-2026",
   "total_matches": 108,
   "live_match": 20,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Halifax Wanderers FC Vs Cavalry FC",
+      "eventInfo": {
+        "teamA": "Halifax Wanderers FC",
+        "teamB": "Cavalry FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/309892/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/309889/image",
+        "eventName": "Canadian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "startTime": "13/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Universidad de Chile Vs Ñublense",
+      "eventInfo": {
+        "teamA": "Universidad de Chile",
+        "teamB": "Ñublense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "13/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT HD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Portland Trail Blazers Vs London Lions",
+      "eventInfo": {
+        "teamA": "Portland Trail Blazers",
+        "teamB": "London Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3616/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "13/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV+ HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -645,28 +715,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/I888AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hapoel Jerusalem Vs Maccabi Haifa",
-      "eventInfo": {
-        "teamA": "Hapoel Jerusalem",
-        "teamB": "Maccabi Haifa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/86406/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5197/image",
-        "eventName": "Israeli Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/266/image/dark",
-        "startTime": "12/10/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/BEEE.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -2903,76 +2951,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Halifax Wanderers FC Vs Cavalry FC",
-      "eventInfo": {
-        "teamA": "Halifax Wanderers FC",
-        "teamB": "Cavalry FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/309892/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/309889/image",
-        "eventName": "Canadian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
-        "startTime": "13/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad de Chile Vs Ñublense",
-      "eventInfo": {
-        "teamA": "Universidad de Chile",
-        "teamB": "Ñublense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "13/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT SPORTS2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT HD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Portland Trail Blazers Vs London Lions",
-      "eventInfo": {
-        "teamA": "Portland Trail Blazers",
-        "teamB": "London Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3616/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "13/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "Milwaukee Brewers Vs Los Angeles Dodgers",
       "eventInfo": {
@@ -3590,6 +3568,28 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/F666AAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Hapoel Jerusalem Vs Maccabi Haifa",
+      "eventInfo": {
+        "teamA": "Hapoel Jerusalem",
+        "teamB": "Maccabi Haifa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/86406/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5197/image",
+        "eventName": "Israeli Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/266/image/dark",
+        "startTime": "12/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/BEEE.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
