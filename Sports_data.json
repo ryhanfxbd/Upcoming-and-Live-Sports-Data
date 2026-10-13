@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:32:02 PM 13-10-2026",
+  "last_update_time": "03:02:16 PM 13-10-2026",
   "total_matches": 98,
-  "live_match": 5,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -1349,7 +1349,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Pohang Steelers Vs Johor Darul Ta'zim",
       "eventInfo": {
@@ -1369,7 +1369,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Kyoto Sanga FC Vs Ratchaburi",
       "eventInfo": {
@@ -1389,7 +1389,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Shanghai Port Vs Daejeon Hana Citizen",
       "eventInfo": {
