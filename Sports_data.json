@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:31:58 AM 13-10-2026",
+  "last_update_time": "07:02:11 AM 13-10-2026",
   "total_matches": 108,
-  "live_match": 13,
+  "live_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -106,29 +106,6 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chapecoense Vs Athletico",
-      "eventInfo": {
-        "teamA": "Chapecoense",
-        "teamB": "Athletico",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "13/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERER BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-          "key": "fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     },
@@ -379,6 +356,27 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Utah Jazz Vs San Antonio Spurs",
+      "eventInfo": {
+        "teamA": "Utah Jazz",
+        "teamB": "San Antonio Spurs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "13/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV+ HD",
+          "stream_url": "https://edgestream7.pro/hls/wxqsdafzaengfgu97.m3u8?",
+          "referer": "https://streamscenter.online/"
         }
       ]
     },
@@ -1354,27 +1352,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Utah Jazz Vs San Antonio Spurs",
-      "eventInfo": {
-        "teamA": "Utah Jazz",
-        "teamB": "San Antonio Spurs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "13/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://edgestream7.pro/hls/wxqsdafzaengfgu97.m3u8?",
-          "referer": "https://streamscenter.online/"
         }
       ]
     },
@@ -3592,6 +3569,29 @@
         {
           "channel_name": "TNT SPORTS ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Chapecoense Vs Athletico",
+      "eventInfo": {
+        "teamA": "Chapecoense",
+        "teamB": "Athletico",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "13/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+          "key": "fa38aaa865a57eda7c77444697ba8ed3"
         }
       ]
     }
