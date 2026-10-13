@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:31:39 AM 13-10-2026",
+  "last_update_time": "08:01:56 AM 13-10-2026",
   "total_matches": 108,
   "live_match": 12,
   "matches": [
@@ -23,48 +23,6 @@
         {
           "channel_name": "STREAM TV+ HD",
           "stream_url": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?",
-          "referer": "https://streamscenter.online/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Washington Wizards Vs Brooklyn Nets",
-      "eventInfo": {
-        "teamA": "Washington Wizards",
-        "teamB": "Brooklyn Nets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "13/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://edgestream5.pro/hls/hfsdqtaxvb67.m3u8?",
-          "referer": "https://streamscenter.online/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Atlanta Hawks Vs Oklahoma City Thunder",
-      "eventInfo": {
-        "teamA": "Atlanta Hawks",
-        "teamB": "Oklahoma City Thunder",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "13/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?",
           "referer": "https://streamscenter.online/"
         }
       ]
@@ -660,7 +618,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
       "eventInfo": {
@@ -905,7 +863,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "SPORTS LIVE Vs SPORTS LIVE",
       "eventInfo": {
@@ -3592,6 +3550,48 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
           "key": "fa38aaa865a57eda7c77444697ba8ed3"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Washington Wizards Vs Brooklyn Nets",
+      "eventInfo": {
+        "teamA": "Washington Wizards",
+        "teamB": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "13/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV+ HD",
+          "stream_url": "https://edgestream5.pro/hls/hfsdqtaxvb67.m3u8?",
+          "referer": "https://streamscenter.online/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Atlanta Hawks Vs Oklahoma City Thunder",
+      "eventInfo": {
+        "teamA": "Atlanta Hawks",
+        "teamB": "Oklahoma City Thunder",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "13/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV+ HD",
+          "stream_url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?",
+          "referer": "https://streamscenter.online/"
         }
       ]
     }
