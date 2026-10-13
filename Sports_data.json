@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:02:11 AM 14-10-2026",
-  "total_matches": 93,
-  "live_match": 31,
+  "last_update_time": "02:32:07 AM 14-10-2026",
+  "total_matches": 105,
+  "live_match": 26,
   "matches": [
     {
       "status": "LIVE",
@@ -643,142 +643,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Walsall Vs Fulham U21",
-      "eventInfo": {
-        "teamA": "Walsall",
-        "teamB": "Fulham U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36548/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "14/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/YY666AAQQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Oldham Athletic Vs Leeds United U21",
-      "eventInfo": {
-        "teamA": "Oldham Athletic",
-        "teamB": "Leeds United U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/65/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/202954/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "14/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/YY666AAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Notts County Vs Nottingham Forest U21",
-      "eventInfo": {
-        "teamA": "Notts County",
-        "teamB": "Nottingham Forest U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/324738/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "14/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/YY666AAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Reading Vs Chelsea U21",
-      "eventInfo": {
-        "teamA": "Reading",
-        "teamB": "Chelsea U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/28/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36539/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "14/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/YY666AAQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Gillingham Vs Brighton & Hove Albion U21",
-      "eventInfo": {
-        "teamA": "Gillingham",
-        "teamB": "Brighton & Hove Albion U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/20/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/169150/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "14/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/YY666AAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cheltenham Town Vs Tottenham U21",
-      "eventInfo": {
-        "teamA": "Cheltenham Town",
-        "teamB": "Tottenham U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/69/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77865/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "14/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/YY666AAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Al-Ittihad Vs Shabab Al-Ahli Dubai",
       "eventInfo": {
         "teamA": "Al-Ittihad",
@@ -883,9 +747,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/H333AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://live3.dyrur1.com/live/14069044_89cefbae1dbda3d94f9ff12f24314f99_540p.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -911,9 +773,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/H333AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://live3.dyrur1.com/live/14069043_40509fad4a0aa369d20948563f29b588_540p.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -967,9 +827,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/H333AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://live3.dyrur1.com/live/14069041_31befe8f97c1c94fca9ab5133f005880_540p.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -1014,6 +872,10 @@
           "stream_url": "http://193.47.62.50/hls/H333AAAAAQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD2 QUALITY ",
+          "stream_url": "https://live3.dyrur1.com/live/14069039_7773558efcd7d78781e856c55c327625_540p.m3u8"
         }
       ]
     },
@@ -1062,9 +924,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/H333AAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://live3.dyrur1.com/live/14069045_cfe6a64c9ce9e5814e656ac0bab8603e_540p.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -1301,6 +1161,29 @@
         {
           "channel_name": "DAZN SPORTS HD",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Corinthians U17 Vs Flamengo U17",
+      "eventInfo": {
+        "teamA": "Corinthians U17",
+        "teamB": "Flamengo U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/504366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/342892/image",
+        "eventName": "U17 Campeonato Brasileiro",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/22794/image/dark",
+        "startTime": "14/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+          "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
         }
       ]
     },
@@ -2249,11 +2132,18 @@
       },
       "streams": [
         {
-          "channel_name": "beIN ENGLISH FHD",
+          "channel_name": "BEIN3 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "7995c724a13748ed970840a8ab5bb9b3",
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f836853d8eac19446ed9535f5fc568b1",
+          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
         },
         {
           "channel_name": "SportDigital Fussball",
@@ -2268,6 +2158,18 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "34475edab991ad5e92548aebd710410a",
           "key": "501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "D SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2300,12 +2202,20 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
           "stream_url": ""
         }
       ]
@@ -2326,7 +2236,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/zeafwqvhfe69.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2339,6 +2249,14 @@
           "stream_url": "https://edgestream1.pro/hls/zeafwqvhfe69.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2358,7 +2276,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/wfazgsqtrezu66.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2371,6 +2289,14 @@
           "stream_url": "https://edgestream4.pro/hls/wfazgsqtrezu66.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2397,7 +2323,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2410,6 +2336,14 @@
           "stream_url": "https://edgestream5.pro/hls/mlkijfezag65.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2436,7 +2370,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/zayrtezafgvdv68.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2449,6 +2383,14 @@
           "stream_url": "https://edgestream5.pro/hls/zayrtezafgvdv68.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2468,7 +2410,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2481,6 +2423,14 @@
           "stream_url": "https://edgestream6.pro/hls/hfsdqtaxvb67.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2520,6 +2470,14 @@
           "stream_url": "https://edgestream4.pro/hls/lmdsjkfgv52.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2558,6 +2516,14 @@
           "stream_url": "https://edgestream7.pro/hls/bnvcxwhfg54.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2577,7 +2543,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/hjksgdfauzy51.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2590,6 +2556,14 @@
           "stream_url": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2609,7 +2583,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream3.pro/hls/rtzaeyvhb53.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2622,6 +2596,14 @@
           "stream_url": "https://edgestream7.pro/hls/rtzaeyvhb53.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2648,7 +2630,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2661,6 +2643,14 @@
           "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2680,7 +2670,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/earzfddshg58.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2693,6 +2683,14 @@
           "stream_url": "https://edgestream1.pro/hls/earzfddshg58.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2732,6 +2730,14 @@
           "stream_url": "https://edgestream1.pro/hls/poiryezafv56.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2758,7 +2764,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/bvnzadfvyt59.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2771,6 +2777,14 @@
           "stream_url": "https://edgestream4.pro/hls/bvnzadfvyt59.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2790,7 +2804,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/sdezqfza55.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2803,6 +2817,14 @@
           "stream_url": "https://edgestream7.pro/hls/sdezqfza55.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2822,7 +2844,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/rzavbdyua57.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2835,6 +2857,14 @@
           "stream_url": "https://edgestream4.pro/hls/rzavbdyua57.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2854,7 +2884,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream3.pro/hls/wxcgfaiiog63.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2867,6 +2897,14 @@
           "stream_url": "https://edgestream5.pro/hls/wxcgfaiiog63.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2886,7 +2924,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream4.pro/hls/gfsqdqsjhdaiu64.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2899,6 +2937,14 @@
           "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2918,7 +2964,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream4.pro/hls/gfhfgsqda61.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2931,6 +2977,14 @@
           "stream_url": "https://edgestream5.pro/hls/gfhfgsqda61.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2956,6 +3010,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2983,7 +3045,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/wxdaztfhd62.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -2996,6 +3058,14 @@
           "stream_url": "https://edgestream7.pro/hls/wxdaztfhd62.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -3015,7 +3085,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/hflfkrtib42.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -3054,6 +3124,293 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Spain Women's Vs USA Women's",
+      "eventInfo": {
+        "teamA": "Spain Women's",
+        "teamB": "USA Women's",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/164622/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6141/image",
+        "eventName": "Women's Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "14/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN MX",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "UNIVERSO ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "UNIVERSO HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN MX HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "UNIVERSO HD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Brazil Women's Vs Argentina Women's",
+      "eventInfo": {
+        "teamA": "Brazil Women's",
+        "teamB": "Argentina Women's",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "eventName": "Women's Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "14/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+          "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Atlético Bucaramanga Vs Rionegro Águilas Doradas",
+      "eventInfo": {
+        "teamA": "Atlético Bucaramanga",
+        "teamB": "Rionegro Águilas Doradas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6103/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48244/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "14/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN SPORTS Plus",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Independiente Santa Fe Vs Jaguares de Córdoba",
+      "eventInfo": {
+        "teamA": "Independiente Santa Fe",
+        "teamB": "Jaguares de Córdoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/89370/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "15/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN SPORTS PLUS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Independiente Santa Fe Vs Atlético Bucaramanga",
+      "eventInfo": {
+        "teamA": "Independiente Santa Fe",
+        "teamB": "Atlético Bucaramanga",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6103/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "15/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN SPORTS PLUS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Junior Barranquilla Vs Deportivo Pereira",
+      "eventInfo": {
+        "teamA": "Junior Barranquilla",
+        "teamB": "Deportivo Pereira",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6105/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6109/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "15/10/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN SPORTS PLUS",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Millonarios Vs Once Caldas",
+      "eventInfo": {
+        "teamA": "Millonarios",
+        "teamB": "Once Caldas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6117/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6118/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "14/10/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN SPORTS Plus",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WIN SPORTS",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Missouri State Bears Vs Kennesaw State Owls",
+      "eventInfo": {
+        "teamA": "Missouri State Bears",
+        "teamB": "Kennesaw State Owls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296497/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296494/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Middle Tennessee Blue Raiders Vs Delaware Blue Hens",
+      "eventInfo": {
+        "teamA": "Middle Tennessee Blue Raiders",
+        "teamB": "Delaware Blue Hens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4360/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/46643/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Jacksonville State Gamecocks Vs Florida Intl Golden Panthers",
+      "eventInfo": {
+        "teamA": "Jacksonville State Gamecocks",
+        "teamB": "Florida Intl Golden Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/305180/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47353/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/sfjnzabacah31.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Sam Houston State Bearkats Vs Western Kentucky Hilltoppers",
+      "eventInfo": {
+        "teamA": "Sam Houston State Bearkats",
+        "teamB": "Western Kentucky Hilltoppers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/327216/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86009/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -3437,6 +3794,142 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.50/hls/I888AAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Walsall Vs Fulham U21",
+      "eventInfo": {
+        "teamA": "Walsall",
+        "teamB": "Fulham U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36548/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "14/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/YY666AAQQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Oldham Athletic Vs Leeds United U21",
+      "eventInfo": {
+        "teamA": "Oldham Athletic",
+        "teamB": "Leeds United U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/65/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/202954/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "14/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YY666AAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Notts County Vs Nottingham Forest U21",
+      "eventInfo": {
+        "teamA": "Notts County",
+        "teamB": "Nottingham Forest U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/324738/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "14/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/YY666AAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Reading Vs Chelsea U21",
+      "eventInfo": {
+        "teamA": "Reading",
+        "teamB": "Chelsea U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/28/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36539/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "14/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/YY666AAQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Gillingham Vs Brighton & Hove Albion U21",
+      "eventInfo": {
+        "teamA": "Gillingham",
+        "teamB": "Brighton & Hove Albion U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/20/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/169150/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "14/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/YY666AAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Cheltenham Town Vs Tottenham U21",
+      "eventInfo": {
+        "teamA": "Cheltenham Town",
+        "teamB": "Tottenham U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/69/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77865/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "14/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/YY666AAQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
