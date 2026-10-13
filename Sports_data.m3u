@@ -3,7 +3,7 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-14 05:04:05 AM (BD Time)
+#  Last Updated: 2026-10-14 05:32:57 AM (BD Time)
 #  Live Channels Count: 38
 #=================================
 
@@ -110,10 +110,10 @@ https://edgestream2.pro/hls/uyopzarf50.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="Boxing", WWE NXT Vs WWE NXT - WWE TV4 + HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg" group-title="Boxing", WWE NXT Vs WWE NXT - WWE TV4 + HD
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="Boxing", WWE NXT Vs WWE NXT - WWE TV5 + HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20NXT%20Vs%20WWE%20NXT.jpg" group-title="Boxing", WWE NXT Vs WWE NXT - WWE TV5 + HD
 https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Cleveland%20Guardians.jpg" group-title="Baseball", Tampa Bay Rays Vs Cleveland Guardians - TNT SPORTS FHD
