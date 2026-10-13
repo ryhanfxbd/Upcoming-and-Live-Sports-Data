@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:31:47 PM 13-10-2026",
-  "total_matches": 97,
-  "live_match": 4,
+  "last_update_time": "01:02:15 PM 13-10-2026",
+  "total_matches": 98,
+  "live_match": 5,
   "matches": [
     {
       "status": "LIVE",
@@ -118,6 +118,65 @@
     },
     {
       "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "South Africa Vs Australia",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "eventName": "TEST International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "13/10/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
+          "kid": "abceab2f1340be6c70c54b7176d30608",
+          "key": "9c281b70e5626752d2481f498677b3df"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
+          "kid": "abceab2f1340be6c70c54b7176d30608",
+          "key": "9c281b70e5626752d2481f498677b3df"
+        },
+        {
+          "channel_name": "FOX CRICKET HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/HHHHRX.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW2 SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "SPORTS LIVE Vs SPORTS LIVE",
       "eventInfo": {
@@ -199,6 +258,29 @@
         {
           "channel_name": "WILLOW1  HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Oman Vs Nepal",
+      "eventInfo": {
+        "teamA": "Oman",
+        "teamB": "Nepal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/199279/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+        "eventName": "ICC CWC League 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+        "startTime": "13/10/2026 11:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791897463~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=7c1b6f8851a091df792cf337efdb8d76c4c0fad4e88b05a156241fc6bf19436f/manifest.mpd?vcfilter=3381d5e4-3a87-48d3-a524-8b0e11b75516",
+          "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+          "kid": "39bd302cdeed3710a89fb004d232ab67",
+          "key": "9869f804ba18d7e508cbff781829221c"
         }
       ]
     },
@@ -416,10 +498,6 @@
           "stream_url": ""
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": ""
-        },
-        {
           "channel_name": "WWE TV4 + HD",
           "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
         },
@@ -470,65 +548,6 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Australia",
-      "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "eventName": "TEST International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "13/10/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
-          "kid": "abceab2f1340be6c70c54b7176d30608",
-          "key": "9c281b70e5626752d2481f498677b3df"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "kid": "82dfca238e8c4b430a3269db71965db9",
-          "key": "a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
-          "kid": "abceab2f1340be6c70c54b7176d30608",
-          "key": "9c281b70e5626752d2481f498677b3df"
-        },
-        {
-          "channel_name": "FOX CRICKET HD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/HHHHRX.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW2 SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
         }
       ]
     },
@@ -912,8 +931,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -932,8 +951,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -952,8 +971,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -972,8 +999,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1012,8 +1039,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1032,8 +1059,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1052,8 +1087,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1072,8 +1107,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1652,8 +1687,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
