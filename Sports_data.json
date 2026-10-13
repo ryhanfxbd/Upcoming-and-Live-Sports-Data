@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:31:59 PM 13-10-2026",
-  "total_matches": 98,
-  "live_match": 12,
+  "last_update_time": "06:01:53 PM 13-10-2026",
+  "total_matches": 96,
+  "live_match": 13,
   "matches": [
     {
       "status": "LIVE",
@@ -243,9 +243,15 @@
         },
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd",
-          "kid": "fb6564bd84e4d819a92ca9abf6ad4077",
-          "key": "b4f83a12e123f3abef6a298c1497c22d"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd",
+          "kid": "f68ee17bb04e91269fe9b7aa25638467",
+          "key": "ea4b416e8694fa1dcf92e3b4b318c7d8"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+          "key": "22a1444b3da18e139191665b3d652835"
         },
         {
           "channel_name": "FANCODE FHD",
@@ -307,6 +313,26 @@
         {
           "channel_name": "WILLOW1  HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Galatasaray U19 Vs Barcelona U19",
+      "eventInfo": {
+        "teamA": "Galatasaray U19",
+        "teamB": "Barcelona U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/120868/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/90128/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "13/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8"
         }
       ]
     },
@@ -988,7 +1014,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Inter U20 Vs Club Brugge U19",
       "eventInfo": {
@@ -1006,26 +1032,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd",
           "kid": "7313f38125a3fefd00cf7d6567ff333b",
           "key": "87b49a0329febb10eef514fd0f044ee2"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Galatasaray U19 Vs Barcelona U19",
-      "eventInfo": {
-        "teamA": "Galatasaray U19",
-        "teamB": "Barcelona U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/120868/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90128/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "13/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8"
         }
       ]
     },
@@ -1477,7 +1483,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
         }
       ]
     },
@@ -1497,27 +1503,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "East Bengal FC Vs Al-Shorta",
-      "eventInfo": {
-        "teamA": "East Bengal FC",
-        "teamB": "Al-Shorta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "13/10/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://162.251.160.53:8089/1201/index.m3u8"
         }
       ]
     },
@@ -1537,27 +1523,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Seeb SC Vs Al-Hussein Irbid",
-      "eventInfo": {
-        "teamA": "Al Seeb SC",
-        "teamB": "Al-Hussein Irbid",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "13/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
         }
       ]
     },
@@ -1777,7 +1743,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
         }
       ]
     },
