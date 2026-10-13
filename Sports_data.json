@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:01:46 PM 13-10-2026",
+  "last_update_time": "09:32:04 PM 13-10-2026",
   "total_matches": 99,
-  "live_match": 9,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -214,28 +214,6 @@
         {
           "channel_name": "WILLOW2 SPORTS HD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Inter U20 Vs Club Brugge U19",
-      "eventInfo": {
-        "teamA": "Inter U20",
-        "teamB": "Club Brugge U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/826804/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/231976/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "13/10/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "INTER TV",
-          "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd",
-          "kid": "7313f38125a3fefd00cf7d6567ff333b",
-          "key": "87b49a0329febb10eef514fd0f044ee2"
         }
       ]
     },
@@ -2636,6 +2614,28 @@
         {
           "channel_name": "ESPN HD 2",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Inter U20 Vs Club Brugge U19",
+      "eventInfo": {
+        "teamA": "Inter U20",
+        "teamB": "Club Brugge U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/826804/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/231976/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "13/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "INTER TV",
+          "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd",
+          "kid": "7313f38125a3fefd00cf7d6567ff333b",
+          "key": "87b49a0329febb10eef514fd0f044ee2"
         }
       ]
     },
