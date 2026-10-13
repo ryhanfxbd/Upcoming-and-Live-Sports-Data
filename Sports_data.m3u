@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-13 06:33:57 PM (BD Time)
-#  Live Channels Count: 37
+#  Last Updated: 2026-10-13 07:04:16 PM (BD Time)
+#  Live Channels Count: 43
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg" group-title="Other", TENNIS | EVENTO  Vs TENNIS | EVENTO - SKY TENNIS - FHD.
@@ -161,22 +161,47 @@ http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Bangladesh.jpg" group-title="Cricket", Afghanistan Vs Bangladesh - WILLOW HD
 https://baila-lentoo.pages.dev/all-sp/809386.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Galatasaray%20U19%20Vs%20Barcelona%20U19.jpg" group-title="Football", Galatasaray U19 Vs Barcelona U19 - STREAM TV + HD
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i%20Vs%20Kashima%20Antlers.jpg" group-title="Football", Công An Hà Nội Vs Kashima Antlers - STREAM TV + HD
-http://162.251.160.53:8089/1003/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buriram%20United%20Vs%20Beijing%20Guoan.jpg" group-title="Football", Buriram United Vs Beijing Guoan - STREAM TV + HD
-http://162.251.160.53:8089/1201/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oman%20Vs%20Nepal.jpg" group-title="Cricket", Oman Vs Nepal - STREAM TV + HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791897463~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=7c1b6f8851a091df792cf337efdb8d76c4c0fad4e88b05a156241fc6bf19436f/manifest.mpd?vcfilter=3381d5e4-3a87-48d3-a524-8b0e11b75516
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Inter%20U20%20Vs%20Club%20Brugge%20U19.jpg" group-title="Football", Inter U20 Vs Club Brugge U19 - INTER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2
 https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Galatasaray%20U19%20Vs%20Barcelona%20U19.jpg" group-title="Football", Galatasaray U19 Vs Barcelona U19 - STREAM TV + HD
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i%20Vs%20Kashima%20Antlers.jpg" group-title="Football", Công An Hà Nội Vs Kashima Antlers - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4621516.m3u8?txSecret=8f6298c1905ae201ae734afe9b492b16&txTime=6ACE3435
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i%20Vs%20Kashima%20Antlers.jpg" group-title="Football", Công An Hà Nội Vs Kashima Antlers - HD QUALITY 2
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/sd-1-4621516.m3u8?txSecret=a03fea51124ec538a2a9e11cc33b450e&txTime=6ACE3435
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i%20Vs%20Kashima%20Antlers.jpg" group-title="Football", Công An Hà Nội Vs Kashima Antlers - STREAM TV + HD
+http://162.251.160.53:8089/1003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i%20Vs%20Kashima%20Antlers.jpg" group-title="Football", Công An Hà Nội Vs Kashima Antlers - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/FJJJAAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buriram%20United%20Vs%20Beijing%20Guoan.jpg" group-title="Football", Buriram United Vs Beijing Guoan - HD QUICK
+https://www.rtmpcdn.com/live/6b650563-7fe5-4273-9b24-8d78baa1dd52.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buriram%20United%20Vs%20Beijing%20Guoan.jpg" group-title="Football", Buriram United Vs Beijing Guoan - STREAM TV + HD
+http://162.251.160.53:8089/1201/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buriram%20United%20Vs%20Beijing%20Guoan.jpg" group-title="Football", Buriram United Vs Beijing Guoan - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/FJJJAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="Cricket", Pakistan Vs Sri Lanka - WILLOW FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="Cricket", Pakistan Vs Sri Lanka - WILLOW ALT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd
