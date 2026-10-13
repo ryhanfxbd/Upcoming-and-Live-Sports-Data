@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-13 10:04:56 PM (BD Time)
-#  Live Channels Count: 42
+#  Last Updated: 2026-10-13 10:33:33 PM (BD Time)
+#  Live Channels Count: 40
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg" group-title="Other", TENNIS | EVENTO  Vs TENNIS | EVENTO - SKY TENNIS - FHD.
@@ -116,16 +116,6 @@ http://51.75.127.199:3141/starsports2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/East%20Bengal%20FC%20Vs%20Al-Shorta.jpg" group-title="Football", East Bengal FC Vs Al-Shorta - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/emmm.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/East%20Bengal%20FC%20Vs%20Al-Shorta.jpg" group-title="Football", East Bengal FC Vs Al-Shorta - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/emmm.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Sadd%20Vs%20Al-Hilal.jpg" group-title="Football", Al-Sadd Vs Al-Hilal - STREAM TV + HD
 http://162.251.160.53:8089/1003/index.m3u8
 
@@ -156,26 +146,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Villarreal%20U19%20Vs%20Napoli%20U19.jpg" group-title="Football", Villarreal U19 Vs Napoli U19 - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/emmmAAAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Villarreal%20U19%20Vs%20Napoli%20U19.jpg" group-title="Football", Villarreal U19 Vs Napoli U19 - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/emmmAAAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20U19%20Vs%20Manchester%20United%20U19.jpg" group-title="Football", Atlético Madrid U19 Vs Manchester United U19 - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/emmmAAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20U19%20Vs%20Manchester%20United%20U19.jpg" group-title="Football", Atlético Madrid U19 Vs Manchester United U19 - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/emmmAAA.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark" group-title="Football", Simba Vs Mashujaa - Link 1
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -213,3 +183,15 @@ https://www.rtmpcdn.com/live/6683df5e-b1a0-4833-970d-756f530bea18.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.41/hls/H999.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Richards%20Bay%20FC%20Vs%20Mamelodi%20Sundowns.jpg" group-title="Football", Richards Bay FC Vs Mamelodi Sundowns - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Orlando%20Pirates%20Vs%20TS%20Galaxy.jpg" group-title="Football", Orlando Pirates Vs TS Galaxy - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kaizer%20Chiefs%20Vs%20Stellenbosch.jpg" group-title="Football", Kaizer Chiefs Vs Stellenbosch - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Durban%20City%20FC%20Vs%20AmaZulu%20FC.jpg" group-title="Football", Durban City FC Vs AmaZulu FC - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
