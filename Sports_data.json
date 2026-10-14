@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:30:44 AM 14-10-2026",
+  "last_update_time": "12:01:00 PM 14-10-2026",
   "total_matches": 118,
-  "live_match": 5,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
@@ -216,58 +216,6 @@
           "stream_url": "https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8",
           "referer": "https://fancode.com/",
           "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Los Angeles Kings Vs Edmonton Oilers",
-      "eventInfo": {
-        "teamA": "Los Angeles Kings",
-        "teamB": "Edmonton Oilers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "14/10/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58025/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net/new-stream-embed/58025?ad=111",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/gfsqdqsjhdaiu64.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f2ab64fe-2a87-4572-9bda-88954d935fe6/master.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
         }
       ]
     },
@@ -3002,6 +2950,58 @@
         {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream5.pro/hls/wxcgfaiiog63.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Los Angeles Kings Vs Edmonton Oilers",
+      "eventInfo": {
+        "teamA": "Los Angeles Kings",
+        "teamB": "Edmonton Oilers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "14/10/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58025/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net/new-stream-embed/58025?ad=111",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/gfsqdqsjhdaiu64.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f2ab64fe-2a87-4572-9bda-88954d935fe6/master.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
