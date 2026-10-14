@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:01:02 AM 15-10-2026",
+  "last_update_time": "02:31:05 AM 15-10-2026",
   "total_matches": 107,
-  "live_match": 18,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -232,34 +232,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Anadolu Efes Vs Bayern München",
-      "eventInfo": {
-        "teamA": "Anadolu Efes",
-        "teamB": "Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "14/10/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/088a2775-adff-4275-9b2f-b9204139a1ac.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/O666AA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -1073,54 +1045,6 @@
         },
         {
           "channel_name": "DISNEY HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CSKA Moskva Vs FC Rostov",
-      "eventInfo": {
-        "teamA": "CSKA Moskva",
-        "teamB": "FC Rostov",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2325/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2326/image",
-        "eventName": "Russian Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark",
-        "startTime": "14/10/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS2 + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
-          "key": "ea07b87acdf2e45be824cde4a1cf3504"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BGBGBG.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "União Santarém Vs Gil Vicente",
-      "eventInfo": {
-        "teamA": "União Santarém",
-        "teamB": "Gil Vicente",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/324377/image",
-        "teamBFlag": " https://img.sofascore.com/api/v1/team/3010/image",
-        "eventName": "Taça de Portugal",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
-        "startTime": "15/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WIN PLUS",
           "stream_url": ""
         }
       ]
@@ -2008,7 +1932,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Junior Barranquilla Vs Deportivo Pereira",
       "eventInfo": {
@@ -3994,6 +3918,34 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
+      "event_name": "Anadolu Efes Vs Bayern München",
+      "eventInfo": {
+        "teamA": "Anadolu Efes",
+        "teamB": "Bayern München",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "14/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/088a2775-adff-4275-9b2f-b9204139a1ac.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/O666AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
       "event_name": "Hapoel Tel-Aviv Vs Beşiktaş JK",
       "eventInfo": {
         "teamA": "Hapoel Tel-Aviv",
@@ -4201,6 +4153,54 @@
         },
         {
           "channel_name": "DISNEY HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CSKA Moskva Vs FC Rostov",
+      "eventInfo": {
+        "teamA": "CSKA Moskva",
+        "teamB": "FC Rostov",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2325/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2326/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "14/10/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BGBGBG.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "União Santarém Vs Gil Vicente",
+      "eventInfo": {
+        "teamA": "União Santarém",
+        "teamB": "Gil Vicente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/324377/image",
+        "teamBFlag": " https://img.sofascore.com/api/v1/team/3010/image",
+        "eventName": "Taça de Portugal",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
+        "startTime": "15/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN PLUS",
           "stream_url": ""
         }
       ]
