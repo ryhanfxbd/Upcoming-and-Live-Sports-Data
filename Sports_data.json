@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:30:55 PM 14-10-2026",
-  "total_matches": 87,
-  "live_match": 16,
+  "last_update_time": "10:01:05 PM 14-10-2026",
+  "total_matches": 86,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -196,6 +196,26 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Al-Muharraq SC Vs Gol Gohar Sirjan",
+      "eventInfo": {
+        "teamA": "Al-Muharraq SC",
+        "teamB": "Gol Gohar Sirjan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/45474/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "14/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1310/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Nasaf Qarshi Vs Al-Wahda FC",
       "eventInfo": {
         "teamA": "Nasaf Qarshi",
@@ -220,6 +240,66 @@
           "stream_url": "http://193.47.62.59/hls/f333AA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Jazira Vs Arkadag FK",
+      "eventInfo": {
+        "teamA": "Al-Jazira",
+        "teamB": "Arkadag FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "14/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1456/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al Kuwait SC Vs Al Khaldiya",
+      "eventInfo": {
+        "teamA": "Al Kuwait SC",
+        "teamB": "Al Khaldiya",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/32525/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "14/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/109/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Taawoun Vs Al-Rayyan",
+      "eventInfo": {
+        "teamA": "Al-Taawoun",
+        "teamB": "Al-Rayyan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "14/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1200/index.m3u8"
         }
       ]
     },
@@ -257,6 +337,28 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Hapoel Tel-Aviv Vs Beşiktaş JK",
+      "eventInfo": {
+        "teamA": "Hapoel Tel-Aviv",
+        "teamB": "Beşiktaş JK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/82179/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6678/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "14/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Real Betis U19 Vs FC Porto U19",
       "eventInfo": {
@@ -280,6 +382,28 @@
           "stream_url": "http://193.47.62.59/hls/bzzzqqq.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chertanovo Moscow Vs Tekstilshchik Ivanovo",
+      "eventInfo": {
+        "teamA": "Chertanovo Moscow",
+        "teamB": "Tekstilshchik Ivanovo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/163326/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7528/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "14/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -1226,46 +1350,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Muharraq SC Vs Gol Gohar Sirjan",
-      "eventInfo": {
-        "teamA": "Al-Muharraq SC",
-        "teamB": "Gol Gohar Sirjan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/45474/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1310/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Jazira Vs Arkadag FK",
-      "eventInfo": {
-        "teamA": "Al-Jazira",
-        "teamB": "Arkadag FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1456/index.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Al Faisaly SC Vs Al Nahda SC",
@@ -1282,46 +1366,6 @@
         {
           "channel_name": "TV QUALITY + HD",
           "stream_url": "http://162.251.160.53:8089/109/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al Kuwait SC Vs Al Khaldiya",
-      "eventInfo": {
-        "teamA": "Al Kuwait SC",
-        "teamB": "Al Khaldiya",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/32525/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/109/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Taawoun Vs Al-Rayyan",
-      "eventInfo": {
-        "teamA": "Al-Taawoun",
-        "teamB": "Al-Rayyan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/1200/index.m3u8"
         }
       ]
     },
@@ -2550,28 +2594,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Hapoel Tel-Aviv Vs Beşiktaş JK",
-      "eventInfo": {
-        "teamA": "Hapoel Tel-Aviv",
-        "teamB": "Beşiktaş JK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/82179/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6678/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Basketball",
       "event_name": "Paris Basketball Vs Virtus Bologna",
@@ -2852,7 +2874,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "LASK Vs Liverpool FC",
       "eventInfo": {
@@ -2942,7 +2964,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Feyenoord Vs Como",
       "eventInfo": {
@@ -3033,7 +3055,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Antalyaspor Vs Kayserispor",
       "eventInfo": {
@@ -3049,28 +3071,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "http://162.251.160.53:8089/1588/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chertanovo Moscow Vs Tekstilshchik Ivanovo",
-      "eventInfo": {
-        "teamA": "Chertanovo Moscow",
-        "teamB": "Tekstilshchik Ivanovo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/163326/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7528/image",
-        "eventName": "Russian Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
-        "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -3093,34 +3093,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Leopards Vs Bandari",
-      "eventInfo": {
-        "teamA": "Leopards",
-        "teamB": "Bandari",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "eventName": "Kenya Premier League",
-        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "startTime": "14/10/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": "http://193.47.62.59/hls/f333.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/f333.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
