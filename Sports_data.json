@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:01:08 AM 15-10-2026",
+  "last_update_time": "01:02:26 AM 15-10-2026",
   "total_matches": 107,
   "live_match": 22,
   "matches": [
@@ -148,11 +148,22 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/exwmclal38/out/v1/b0d2af4c68b941668c3b7787e8b8d8dc/dba45b85-d5ea-44c4-b834-5b52bd6876b9-cenc.mpd?aws_sessionId=a46c4195-4c8c-46bb-9971-dc0f208566c4",
+          "kid": "648a33fb82cd93dbf43940738b88829b",
+          "key": "946cba2f0556bd651af110c5ddd23f05"
+        },
+        {
           "channel_name": "BEIN3 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "7995c724a13748ed970840a8ab5bb9b3",
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "FASTER QUALITY",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4563620.m3u8?txSecret=e92f00e75956b330b0b23866a9d1fd53&txTime=6ACFE0B1",
+          "referer": "https://player.online878.com/"
         },
         {
           "channel_name": "HD QUALITY",
@@ -1298,6 +1309,12 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "4733a461d2ac2e41045bdf6eb4a48d34",
           "key": "b6f731f225351a8029c58624fdf112ad"
+        },
+        {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7",
+          "kid": "9896b6a4790e0fe7d1b1253a5901949a",
+          "key": "49dd5b421ca126b7d46daaebff358f13"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
