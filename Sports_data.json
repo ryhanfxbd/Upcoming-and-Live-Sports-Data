@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:30:58 PM 14-10-2026",
+  "last_update_time": "04:01:01 PM 14-10-2026",
   "total_matches": 97,
   "live_match": 9,
   "matches": [
@@ -242,6 +242,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Kashiwa Reysol Vs Port FC",
+      "eventInfo": {
+        "teamA": "Kashiwa Reysol",
+        "teamB": "Port FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "14/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Melbourne Victory Vs FC Seoul",
       "eventInfo": {
         "teamA": "Melbourne Victory",
@@ -256,6 +278,72 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
+      "eventInfo": {
+        "teamA": "Vissel Kobe",
+        "teamB": "Jeonbuk Hyundai Motors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "14/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "LASK Linz U19 Vs Liverpool U19",
+      "eventInfo": {
+        "teamA": "LASK Linz U19",
+        "teamB": "Liverpool U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "14/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "LASK Linz U19 Vs Liverpool U19",
+      "eventInfo": {
+        "teamA": "LASK Linz U19",
+        "teamB": "Liverpool U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "14/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -875,28 +963,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kashiwa Reysol Vs Port FC",
-      "eventInfo": {
-        "teamA": "Kashiwa Reysol",
-        "teamB": "Port FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Al-Muharraq SC Vs Gol Gohar Sirjan",
@@ -1018,28 +1084,6 @@
         "eventName": "AFC Champions League Two",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
-      "eventInfo": {
-        "teamA": "Vissel Kobe",
-        "teamB": "Jeonbuk Hyundai Motors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
       },
       "streams": [
         {
@@ -1381,28 +1425,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "LASK Linz U19 Vs Liverpool U19",
-      "eventInfo": {
-        "teamA": "LASK Linz U19",
-        "teamB": "Liverpool U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Aston Villa U19 Vs Fenerbahçe U19",
@@ -1436,28 +1458,6 @@
         "eventName": "UEFA Youth League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
         "startTime": "14/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "LASK Linz U19 Vs Liverpool U19",
-      "eventInfo": {
-        "teamA": "LASK Linz U19",
-        "teamB": "Liverpool U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
       },
       "streams": [
         {
