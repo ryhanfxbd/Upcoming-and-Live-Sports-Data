@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:01:00 AM 15-10-2026",
+  "last_update_time": "04:30:55 AM 15-10-2026",
   "total_matches": 107,
-  "live_match": 5,
+  "live_match": 17,
   "matches": [
     {
       "status": "LIVE",
@@ -999,7 +999,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Independiente Santa Fe Vs Jaguares de Córdoba",
       "eventInfo": {
@@ -1055,7 +1055,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Missouri State Bears Vs Kennesaw State Owls",
       "eventInfo": {
@@ -1106,7 +1106,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Rhode Island Union Vs Loudoun United FC",
       "eventInfo": {
@@ -1215,7 +1215,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Inter Miami CF Vs New York City FC",
       "eventInfo": {
@@ -1300,7 +1300,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Cincinnati Vs New England Revolution",
       "eventInfo": {
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "DC United Vs New York Red Bulls",
       "eventInfo": {
@@ -1372,7 +1372,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CF Montréal Vs Atlanta United",
       "eventInfo": {
@@ -1408,7 +1408,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Columbus Crew Vs Charlotte FC",
       "eventInfo": {
@@ -1444,7 +1444,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Toronto FC Vs Orlando City SC",
       "eventInfo": {
@@ -1874,7 +1874,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Boston Celtics Vs Charlotte Hornets",
       "eventInfo": {
@@ -2068,7 +2068,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Miami Heat Vs Brooklyn Nets",
       "eventInfo": {
@@ -2108,7 +2108,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Washington Capitals Vs Montréal Canadiens",
       "eventInfo": {
