@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:01:24 PM 14-10-2026",
-  "total_matches": 97,
-  "live_match": 11,
+  "last_update_time": "06:31:07 PM 14-10-2026",
+  "total_matches": 94,
+  "live_match": 6,
   "matches": [
     {
       "status": "LIVE",
@@ -277,86 +277,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Kashiwa Reysol Vs Port FC",
+      "event_name": "Persib Bandung Vs Thể Công - Viettel",
       "eventInfo": {
-        "teamA": "Kashiwa Reysol",
-        "teamB": "Port FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
+        "teamA": "Persib Bandung",
+        "teamB": "Thể Công - Viettel",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "14/10/2026 06:15:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621538.m3u8?txSecret=68672f72ae79985c109a9ff0fe1adcd5&txTime=6ACF6386",
-          "referer": "https://player.online878.com/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
-      "eventInfo": {
-        "teamA": "Vissel Kobe",
-        "teamB": "Jeonbuk Hyundai Motors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
-      },
-      "streams": [
+          "stream_url": "http://193.47.62.59/hls/bzzzq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621519.m3u8?txSecret=f45df90d9fb95a91fe33353a2ab61d3b&txTime=6ACF634E",
-          "referer": "https://player.online878.com/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "LASK Linz U19 Vs Liverpool U19",
-      "eventInfo": {
-        "teamA": "LASK Linz U19",
-        "teamB": "Liverpool U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "LASK Linz U19 Vs Liverpool U19",
-      "eventInfo": {
-        "teamA": "LASK Linz U19",
-        "teamB": "Liverpool U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/bzzzq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -754,7 +696,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "India Vs West Indies",
       "eventInfo": {
@@ -1031,28 +973,6 @@
         "eventName": "AFC Champions League Two",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "startTime": "14/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Persib Bandung Vs Thể Công - Viettel",
-      "eventInfo": {
-        "teamA": "Persib Bandung",
-        "teamB": "Thể Công - Viettel",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "14/10/2026 06:15:00 PM"
       },
       "streams": [
         {
@@ -1394,28 +1314,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Aston Villa U19 Vs Fenerbahçe U19",
-      "eventInfo": {
-        "teamA": "Aston Villa U19",
-        "teamB": "Fenerbahçe U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90122/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/243800/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Manchester City U19 Vs Paris Saint-Germain U19",
@@ -1431,53 +1329,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Aston Villa U19 Vs Fenerbahçe U19",
-      "eventInfo": {
-        "teamA": "Aston Villa U19",
-        "teamB": "Fenerbahçe U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90122/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/243800/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 07:00:00 PM"
-      },
-      "streams": [
+          "stream_url": "http://193.47.62.59/hls/f333AAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Manchester City U19 Vs Paris Saint-Germain U19",
-      "eventInfo": {
-        "teamA": "Manchester City U19",
-        "teamB": "Paris Saint-Germain U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/120856/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90138/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/f333AAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -2520,6 +2380,34 @@
       ]
     },
     {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Real Betis U19 Vs FC Porto U19",
+      "eventInfo": {
+        "teamA": "Real Betis U19",
+        "teamB": "FC Porto U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/275789/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/78117/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "14/10/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/bzzzqqq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/bzzzqqq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
       "status": "ENDED",
       "Category": "Boxing",
       "event_name": "WWE RAW Vs WWE RAW",
@@ -2673,6 +2561,27 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Kashiwa Reysol Vs Port FC",
+      "eventInfo": {
+        "teamA": "Kashiwa Reysol",
+        "teamB": "Port FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "14/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621538.m3u8?txSecret=68672f72ae79985c109a9ff0fe1adcd5&txTime=6ACF6386",
+          "referer": "https://player.online878.com/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Melbourne Victory Vs FC Seoul",
       "eventInfo": {
         "teamA": "Melbourne Victory",
@@ -2687,6 +2596,49 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
+      "eventInfo": {
+        "teamA": "Vissel Kobe",
+        "teamB": "Jeonbuk Hyundai Motors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "14/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621519.m3u8?txSecret=f45df90d9fb95a91fe33353a2ab61d3b&txTime=6ACF634E",
+          "referer": "https://player.online878.com/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "LASK Linz U19 Vs Liverpool U19",
+      "eventInfo": {
+        "teamA": "LASK Linz U19",
+        "teamB": "Liverpool U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "14/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
