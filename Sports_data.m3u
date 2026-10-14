@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-14 11:03:14 PM (BD Time)
-#  Live Channels Count: 51
+#  Last Updated: 2026-10-14 11:32:52 PM (BD Time)
+#  Live Channels Count: 57
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SPORTS%20LIVE%20Vs%20SPORTS%20LIVE.jpg" group-title="Other", SPORTS LIVE Vs SPORTS LIVE - NFL SERVER FHD
@@ -19,8 +19,8 @@ https://dfus5rb42if6f.cloudfront.net/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WCL%202026%20Vs%20WCL%202026.jpg" group-title="Cricket", WCL 2026 Vs WCL 2026 - WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2nblcfrrf7/out/v1/ac32368934c242f5afaabf2f160b6b53/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WCL%202026%20Vs%20WCL%202026.jpg" group-title="Cricket", WCL 2026 Vs WCL 2026 - FANCODE2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,10 +108,23 @@ https://live.vivo155.com/live/hd-en-1-4621325.m3u8?txSecret=e710520f9571261bb3f9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/T888AAAAQQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Anadolu%20Efes%20Vs%20Bayern%20M%C3%BCnchen.jpg" group-title="Basketball", Anadolu Efes Vs Bayern München - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+https://www.rtmpcdn.com/live/088a2775-adff-4275-9b2f-b9204139a1ac.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Anadolu%20Efes%20Vs%20Bayern%20M%C3%BCnchen.jpg" group-title="Basketball", Anadolu Efes Vs Bayern München - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.59/hls/O666AA.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hapoel%20Tel-Aviv%20Vs%20Be%C5%9Fikta%C5%9F%20JK.jpg" group-title="Basketball", Hapoel Tel-Aviv Vs Beşiktaş JK - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/.m3u8
+https://www.rtmpcdn.com/live/eb04f743-29aa-4a99-a07a-c57117a69512.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hapoel%20Tel-Aviv%20Vs%20Be%C5%9Fikta%C5%9F%20JK.jpg" group-title="Basketball", Hapoel Tel-Aviv Vs Beşiktaş JK - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.59/hls/T888AAAAQQQQA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LASK%20Vs%20Liverpool%20FC.jpg" group-title="Football", LASK Vs Liverpool FC - PARAMOUNT+ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,9 +142,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_key=23c68026a4a92a82c03b3d7e7924b342:0811239285fd4778d325e1d63a66bb2b
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1zyfqt5pka/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd?aws_sessionId=d489c3ec-b204-45c2-bb98-31a187843d01
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LASK%20Vs%20Liverpool%20FC.jpg" group-title="Football", LASK Vs Liverpool FC - DAZN SPORTS HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58029/load-playlist?&.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LASK%20Vs%20Liverpool%20FC.jpg" group-title="Football", LASK Vs Liverpool FC - STAN SPORTS HD
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/d69d420a1fae56d6f80bfb580d0ac48b/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LASK%20Vs%20Liverpool%20FC.jpg" group-title="Football", LASK Vs Liverpool FC - TUDN SPORTS HD
+#EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
+https://edgestream1.pro/hls/377qj1h2727.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LASK%20Vs%20Liverpool%20FC.jpg" group-title="Football", LASK Vs Liverpool FC - PARAMOUNT+ HD
 #EXTVLCOPT:http-referrer=https://iplayer.is/
@@ -160,6 +182,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhtbae2kfy/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Feyenoord%20Vs%20Como.jpg" group-title="Football", Feyenoord Vs Como - CBS SPORTS HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58028/load-playlist?&.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Feyenoord%20Vs%20Como.jpg" group-title="Football", Feyenoord Vs Como - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://player.online878.com/
@@ -227,10 +253,8 @@ http://193.47.62.59/hls/YYYYAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/YYYYAA.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Anadolu%20Efes%20Vs%20Bayern%20M%C3%BCnchen.jpg" group-title="Basketball", Anadolu Efes Vs Bayern München - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al%20Faisaly%20SC%20Vs%20Al%20Nahda%20SC.jpg" group-title="Football", Al Faisaly SC Vs Al Nahda SC - TV QUALITY + HD
+http://162.251.160.53:8089/109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CSKA%20Moskva%20Vs%20FC%20Rostov.jpg" group-title="Football", CSKA Moskva Vs FC Rostov - D SPORTS2 + FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
