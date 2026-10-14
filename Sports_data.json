@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:11 PM 14-10-2026",
-  "total_matches": 92,
-  "live_match": 9,
+  "last_update_time": "09:30:55 PM 14-10-2026",
+  "total_matches": 87,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -106,7 +106,7 @@
         "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
         "eventName": "World Champions Legends 2026 ",
         "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
-        "startTime": "14/10/2026 05:30:00 PM"
+        "startTime": "14/10/2026 09:30:00 PM"
       },
       "streams": [
         {
@@ -208,6 +208,10 @@
       },
       "streams": [
         {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1200/index.m3u8"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8"
         },
@@ -216,34 +220,6 @@
           "stream_url": "http://193.47.62.59/hls/f333AA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Persib Bandung Vs Thể Công - Viettel",
-      "eventInfo": {
-        "teamA": "Persib Bandung",
-        "teamB": "Thể Công - Viettel",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "14/10/2026 06:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/bzzzq.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/bzzzq.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -272,6 +248,10 @@
           "stream_url": "http://193.47.62.59/hls/f333AAAQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1699/index.m3u8"
         }
       ]
     },
@@ -306,26 +286,54 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Leopards Vs Bandari",
+      "event_name": "Dinamo Makhachkala Vs Zenit St. Petersburg",
       "eventInfo": {
-        "teamA": "Leopards",
-        "teamB": "Bandari",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "eventName": "Kenya Premier League",
-        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "startTime": "14/10/2026 07:00:00 PM"
+        "teamA": "Dinamo Makhachkala",
+        "teamB": "Zenit St. Petersburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/362016/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2321/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "14/10/2026 09:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "SD QUALITY ",
-          "stream_url": "http://193.47.62.59/hls/f333.m3u8",
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/YYYYAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/f333.m3u8",
+          "stream_url": "http://193.47.62.59/hls/YYYYAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Akhmat Grozny Vs Dynamo Moscow",
+      "eventInfo": {
+        "teamA": "Akhmat Grozny",
+        "teamB": "Dynamo Moscow",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5131/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2315/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "14/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/YYYYAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/YYYYAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -680,6 +688,177 @@
     {
       "status": "UPCOMING",
       "Category": "Boxing",
+      "event_name": "WWE RAW Vs WWE RAW",
+      "eventInfo": {
+        "teamA": "WWE RAW",
+        "teamB": "WWE RAW",
+        "teamAFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
+        "teamBFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
+        "eventName": "Monday Night RAW",
+        "event_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+        "startTime": "20/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57987/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "WWE SERVER HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/B111AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY 5",
+          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 6 ",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+        },
+        {
+          "channel_name": "RAW 5",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "RAW 4",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUICK 2 ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
+      "eventInfo": {
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "15/10/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD + GOLF",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "Golf Channel - HD",
+          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
+        },
+        {
+          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "ESPN DEPORTES HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "Golf Open de Espana",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Boxing",
+      "event_name": "WWE NXT Vs WWE NXT",
+      "eventInfo": {
+        "teamA": "WWE NXT",
+        "teamB": "WWE NXT",
+        "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "eventName": "WWE NXT",
+        "event_logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "startTime": "21/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WWE LIVE HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WWE TV4 + HD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "WWE TV5 + HD",
+          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "CW USA HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "CW PIX HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/R666A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Boxing",
       "event_name": "TNA iMPACT Vs TNA iMPACT",
       "eventInfo": {
         "teamA": "TNA iMPACT",
@@ -702,6 +881,47 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "South Africa Vs Australia",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "eventName": "TEST International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "18/10/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "FOX CRICKET HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW2 SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
         }
       ]
     },
@@ -947,6 +1167,10 @@
         {
           "channel_name": "WIN SPORTS",
           "stream_url": ""
+        },
+        {
+          "channel_name": "WINNNN",
+          "stream_url": ""
         }
       ]
     },
@@ -966,7 +1190,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -995,14 +1219,14 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Muharraq SC Vs Gol Gohar Sirjan",
       "eventInfo": {
@@ -1016,15 +1240,13 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1310/index.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Jazira Vs Arkadag FK",
       "eventInfo": {
@@ -1038,10 +1260,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1456/index.m3u8"
         }
       ]
     },
@@ -1060,15 +1280,13 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/109/index.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al Kuwait SC Vs Al Khaldiya",
       "eventInfo": {
@@ -1082,15 +1300,13 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/109/index.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Taawoun Vs Al-Rayyan",
       "eventInfo": {
@@ -1104,10 +1320,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/1200/index.m3u8"
         }
       ]
     },
@@ -1131,6 +1345,14 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "7995c724a13748ed970840a8ab5bb9b3",
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/2710/index.m3u8"
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1149,10 +1371,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/2587/index.m3u8"
         }
       ]
     },
@@ -1227,28 +1447,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "SC Jacksonville Vs Birmingham Legion FC",
-      "eventInfo": {
-        "teamA": "SC Jacksonville",
-        "teamB": "Birmingham Legion FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1077312/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/310967/image",
-        "eventName": "USL Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13363/image/dark",
-        "startTime": "15/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Norwich City Vs Southampton",
       "eventInfo": {
         "teamA": "Norwich City",
@@ -1261,32 +1459,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Hartford Athletic Vs Charleston Battery",
-      "eventInfo": {
-        "teamA": "Hartford Athletic",
-        "teamB": "Charleston Battery",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/310968/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22004/image",
-        "eventName": "USL Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13363/image/dark",
-        "startTime": "15/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/2646/index.m3u8"
         }
       ]
     },
@@ -1305,56 +1479,28 @@
       },
       "streams": [
         {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/2366/index.m3u8"
+        },
+        {
           "channel_name": "TNT SPORTS HD",
           "stream_url": ""
         },
         {
           "channel_name": "TNT SPORTS HD2",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Internacional Vs Atlético Mineiro",
-      "eventInfo": {
-        "teamA": "Internacional",
-        "teamB": "Atlético Mineiro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/311632/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/312546/image",
-        "eventName": "Copa do Brasil, Feminino",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/26768/image/dark",
-        "startTime": "15/10/2026 06:00:00 AM"
-      },
-      "streams": [
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Internacional Vs Atlético Mineiro",
-      "eventInfo": {
-        "teamA": "Internacional",
-        "teamB": "Atlético Mineiro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/311632/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/312546/image",
-        "eventName": "Copa do Brasil, Feminino",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/26768/image/dark",
-        "startTime": "15/10/2026 06:00:00 AM"
-      },
-      "streams": [
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TNT SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1406,6 +1552,18 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "kid": "0ad4080cdff8c60b1233b22087f0b340",
           "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "FOX ARGENTINA ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1442,6 +1600,18 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "kid": "0ad4080cdff8c60b1233b22087f0b340",
           "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "D SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1460,13 +1630,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b8f06531_d898_491e_a0da_40e637d1febf/index.m3u8"
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1486,13 +1666,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a6372eb5_1f53_4b3f_aee6_d1e8d671f9a5/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1512,13 +1702,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6e2fa3e3_b94a_4e59_9eb8_4e5a2050796b/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1538,13 +1738,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a342647d_0899_4203_bb45_31fb55328a5f/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1564,13 +1774,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_aa500460_06b6_4465_9985_23a43da9b421/index.m3u8"
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1590,13 +1810,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6453c817_c20e_4618_883d_46fa53192ed9/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1623,7 +1853,23 @@
           "key": "e5250924f4b738905f7163a0134587a7"
         },
         {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_c532cc86_e637_49b6_b6ff_edbf3e7d728d/index.m3u8"
+        },
+        {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1643,13 +1889,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6be55c4d_8445_4506_b5f5_4154bd5abe11/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1669,13 +1925,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_9bda8b84_607f_4373_8764_6b95b3a38094/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1695,13 +1961,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_56f63f99_ea6e_4651_8658_6de9409282ac/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1730,6 +2006,22 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_ccd5536b_49c9_40fc_bfb3_6b52e1304cc1/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
+          "stream_url": ""
         }
       ]
     },
@@ -1748,13 +2040,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_0a573f9c_6150_4a5e_bf37_66e2a766fe2c/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD",
           "stream_url": ""
         }
       ]
@@ -1774,13 +2076,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_035215df_402f_41f4_8f41_04b65d4d5d00/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD ",
           "stream_url": ""
         }
       ]
@@ -1800,13 +2112,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_3d52d1b8_b13d_4f2a_b7d5_d4f8077af828/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV ",
           "stream_url": ""
         }
       ]
@@ -1826,13 +2148,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_fadffb2c_bfbe_46ae_be6a_0dda38700b86/index.m3u8"
+        },
+        {
+          "channel_name": "MLS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "APPLE TV + SD ",
           "stream_url": ""
         }
       ]
@@ -1899,6 +2231,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1924,6 +2264,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1951,6 +2299,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1976,6 +2332,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2003,6 +2367,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2029,6 +2401,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2054,6 +2434,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2088,6 +2476,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "MNMT HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "MNMT SD",
+          "stream_url": ""
         }
       ]
     },
@@ -2120,6 +2516,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS HD SD",
+          "stream_url": ""
         }
       ]
     },
@@ -2146,7 +2550,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Hapoel Tel-Aviv Vs Beşiktaş JK",
       "eventInfo": {
@@ -2212,6 +2616,22 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + SD",
+          "stream_url": ""
         }
       ]
     },
@@ -2230,13 +2650,27 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT MX HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
           "stream_url": ""
         }
       ]
@@ -2264,6 +2698,26 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "FOX ARGENTINA ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2282,13 +2736,23 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "PARAMOUNT + SD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
           "stream_url": ""
         }
       ]
@@ -2323,6 +2787,22 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "FOX ARGENTINA ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT MAX HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2355,6 +2835,18 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
           "stream_url": ""
         }
       ]
@@ -2434,6 +2926,18 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT MAX HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2487,230 +2991,101 @@
       ]
     },
     {
-      "status": "ENDED",
-      "Category": "Boxing",
-      "event_name": "WWE RAW Vs WWE RAW",
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "CSKA Moskva Vs FC Rostov",
       "eventInfo": {
-        "teamA": "WWE RAW",
-        "teamB": "WWE RAW",
-        "teamAFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
-        "teamBFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
-        "eventName": "Monday Night RAW",
-        "event_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
-        "startTime": "13/10/2026 06:00:00 AM"
+        "teamA": "CSKA Moskva",
+        "teamB": "FC Rostov",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2325/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2326/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "14/10/2026 11:45:00 PM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57987/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "União Santarém Vs Gil Vicente",
+      "eventInfo": {
+        "teamA": "União Santarém",
+        "teamB": "Gil Vicente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/324377/image",
+        "teamBFlag": " https://img.sofascore.com/api/v1/team/3010/image",
+        "eventName": "Taça de Portugal",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
+        "startTime": "15/10/2026 12:00:00 AM"
+      },
+      "streams": [
         {
-          "channel_name": "WWE SERVER HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/B111AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME FHD ",
+          "channel_name": "WIN PLUS",
           "stream_url": ""
-        },
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Antalyaspor Vs Kayserispor",
+      "eventInfo": {
+        "teamA": "Antalyaspor",
+        "teamB": "Kayserispor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3056/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3072/image",
+        "eventName": "Trendyol 1.Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
+        "startTime": "14/10/2026 11:00:00 PM"
+      },
+      "streams": [
         {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/1588/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chertanovo Moscow Vs Tekstilshchik Ivanovo",
+      "eventInfo": {
+        "teamA": "Chertanovo Moscow",
+        "teamB": "Tekstilshchik Ivanovo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/163326/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7528/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "14/10/2026 10:00:00 PM"
+      },
+      "streams": [
         {
-          "channel_name": "HD QUALITY 5",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY 6 ",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        },
-        {
-          "channel_name": "RAW 5",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "RAW 4",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUICK 2 ",
-          "stream_url": ""
         }
       ]
     },
     {
-      "status": "ENDED",
-      "Category": "Boxing",
-      "event_name": "WWE NXT Vs WWE NXT",
-      "eventInfo": {
-        "teamA": "WWE NXT",
-        "teamB": "WWE NXT",
-        "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "eventName": "WWE NXT",
-        "event_logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "startTime": "14/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WWE LIVE HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WWE TV4 + HD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "WWE TV5 + HD",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "CW USA HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "CW PIX HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R666A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Sydney Kings Vs New Zealand Breakers",
-      "eventInfo": {
-        "teamA": "Sydney Kings",
-        "teamB": "New Zealand Breakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/122090/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "14/10/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
+      "status": "LIVE",
       "Category": "Football",
-      "event_name": "Kashiwa Reysol Vs Port FC",
+      "event_name": "FC Nizhny Novgorod Vs Shinnik Yaroslavl",
       "eventInfo": {
-        "teamA": "Kashiwa Reysol",
-        "teamB": "Port FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621538.m3u8?txSecret=68672f72ae79985c109a9ff0fe1adcd5&txTime=6ACF6386",
-          "referer": "https://player.online878.com/"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs FC Seoul",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "FC Seoul",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "14/10/2026 01:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
-      "eventInfo": {
-        "teamA": "Vissel Kobe",
-        "teamB": "Jeonbuk Hyundai Motors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621519.m3u8?txSecret=f45df90d9fb95a91fe33353a2ab61d3b&txTime=6ACF634E",
-          "referer": "https://player.online878.com/"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "LASK Linz U19 Vs Liverpool U19",
-      "eventInfo": {
-        "teamA": "LASK Linz U19",
-        "teamB": "Liverpool U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "14/10/2026 04:00:00 PM"
+        "teamA": "FC Nizhny Novgorod",
+        "teamB": "Shinnik Yaroslavl",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/201654/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2330/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "14/10/2026 10:15:00 PM"
       },
       "streams": [
         {
@@ -2723,138 +3098,27 @@
     },
     {
       "status": "ENDED",
-      "Category": "Other",
-      "event_name": "TABEL TENNIS | EVENTO Vs TABEL TENNIS | EVENTO",
+      "Category": "Football",
+      "event_name": "Leopards Vs Bandari",
       "eventInfo": {
-        "teamA": "TABEL TENNIS | EVENTO",
-        "teamB": "TABEL TENNIS | EVENTO ",
-        "teamAFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "eventName": "TABEL TENNIS | EVENTO",
-        "event_logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "startTime": "05/10/2026 04:30:00 PM"
+        "teamA": "Leopards",
+        "teamB": "Bandari",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "eventName": "Kenya Premier League",
+        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "startTime": "14/10/2026 07:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "kid": "9009b7189e3e68cc09d17811f2beb55a",
-          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "11/10/2026 11:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY RACING - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
-          "key": "bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "ITV1 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "30089c52924f037b225b82c616fee2a5",
-          "key": "f55dc8b66ed4fc6753d6035ae7e17144"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Motorsports",
-      "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
-      "eventInfo": {
-        "teamA": "NASCAR CUP SERIES",
-        "teamB": "NASCAR CUP SERIES",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "eventName": "NASCAR",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "startTime": "12/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "USA NETWROK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "12/10/2026 07:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD + GOLF",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "Golf Channel - HD",
-          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-        },
-        {
-          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "channel_name": "SD QUALITY ",
+          "stream_url": "http://193.47.62.59/hls/f333.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
-          "channel_name": "ESPN DEPORTES HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "Golf Open de Espana",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/f333.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -2862,24 +3126,41 @@
     },
     {
       "status": "ENDED",
-      "Category": "Other",
-      "event_name": "Snooker Vs Snooker",
+      "Category": "Cricket",
+      "event_name": "Afghanistan Vs Bangladesh",
       "eventInfo": {
-        "teamA": "Snooker",
-        "teamB": "Snooker",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "eventName": "Snooker",
-        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "startTime": "12/10/2026 11:00:00 PM"
+        "teamA": "Afghanistan",
+        "teamB": "Bangladesh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "eventName": "Test Series",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
+        "startTime": "01/09/2026 09:02:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+          "kid": "a2214fdc084b8b63e81e8538f619028b",
+          "key": "38623ddd2f6879754eb796e7e83778c2"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+          "kid": "a2214fdc084b8b63e81e8538f619028b",
+          "key": "38623ddd2f6879754eb796e7e83778c2"
+        },
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8"
+        },
+        {
+          "channel_name": "WILLOW1  HD",
+          "stream_url": ""
         }
       ]
     },
