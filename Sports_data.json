@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:30:56 PM 14-10-2026",
+  "last_update_time": "03:01:23 PM 14-10-2026",
   "total_matches": 97,
-  "live_match": 5,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -234,12 +234,6 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
         }
@@ -261,9 +255,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8"
         }
       ]
     },
@@ -883,7 +875,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Kashiwa Reysol Vs Port FC",
       "eventInfo": {
@@ -1037,7 +1029,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
       "eventInfo": {
@@ -1389,7 +1381,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "LASK Linz U19 Vs Liverpool U19",
       "eventInfo": {
@@ -1455,7 +1447,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "LASK Linz U19 Vs Liverpool U19",
       "eventInfo": {
