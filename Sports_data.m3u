@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-14 10:03:21 PM (BD Time)
-#  Live Channels Count: 39
+#  Last Updated: 2026-10-14 10:32:27 PM (BD Time)
+#  Live Channels Count: 40
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SPORTS%20LIVE%20Vs%20SPORTS%20LIVE.jpg" group-title="Other", SPORTS LIVE Vs SPORTS LIVE - NFL SERVER FHD
@@ -86,53 +86,55 @@ http://103.114.11.37:8081/Willow-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Muharraq%20SC%20Vs%20Gol%20Gohar%20Sirjan.jpg" group-title="Football", Al-Muharraq SC Vs Gol Gohar Sirjan - TV QUALITY + HD
 http://162.251.160.53:8089/1310/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nasaf%20Qarshi%20Vs%20Al-Wahda%20FC.jpg" group-title="Football", Nasaf Qarshi Vs Al-Wahda FC - TV QUALITY + HD
-http://162.251.160.53:8089/1200/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Muharraq%20SC%20Vs%20Gol%20Gohar%20Sirjan.jpg" group-title="Football", Al-Muharraq SC Vs Gol Gohar Sirjan - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4621320.m3u8?txSecret=fe082b3be3bca22fd85ac1e8c1125273&txTime=6ACFBA1E
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nasaf%20Qarshi%20Vs%20Al-Wahda%20FC.jpg" group-title="Football", Nasaf Qarshi Vs Al-Wahda FC - STREAM TV + HD
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nasaf%20Qarshi%20Vs%20Al-Wahda%20FC.jpg" group-title="Football", Nasaf Qarshi Vs Al-Wahda FC - LOW QUALITY (USE VPN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Muharraq%20SC%20Vs%20Gol%20Gohar%20Sirjan.jpg" group-title="Football", Al-Muharraq SC Vs Gol Gohar Sirjan - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/f333AA.m3u8
+http://193.47.62.59/hls/T888AAAAQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Jazira%20Vs%20Arkadag%20FK.jpg" group-title="Football", Al-Jazira Vs Arkadag FK - TV QUALITY + HD
 http://162.251.160.53:8089/1456/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Jazira%20Vs%20Arkadag%20FK.jpg" group-title="Football", Al-Jazira Vs Arkadag FK - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4621313.m3u8?txSecret=0cbdbd5a2645dac88d05a564f8599b2d&txTime=6ACFB9DD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Jazira%20Vs%20Arkadag%20FK.jpg" group-title="Football", Al-Jazira Vs Arkadag FK - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/T888AAA.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al%20Kuwait%20SC%20Vs%20Al%20Khaldiya.jpg" group-title="Football", Al Kuwait SC Vs Al Khaldiya - TV QUALITY + HD
 http://162.251.160.53:8089/109/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al%20Kuwait%20SC%20Vs%20Al%20Khaldiya.jpg" group-title="Football", Al Kuwait SC Vs Al Khaldiya - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4621307.m3u8?txSecret=9734662d54f74c15b51991cf43c30820&txTime=6ACFBA4A
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al%20Kuwait%20SC%20Vs%20Al%20Khaldiya.jpg" group-title="Football", Al Kuwait SC Vs Al Khaldiya - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/T888AAAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Taawoun%20Vs%20Al-Rayyan.jpg" group-title="Football", Al-Taawoun Vs Al-Rayyan - TV QUALITY + HD
 http://162.251.160.53:8089/1200/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20U19%20Vs%20Paris%20Saint-Germain%20U19.jpg" group-title="Football", Manchester City U19 Vs Paris Saint-Germain U19 - TNT3UK SPORTS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Taawoun%20Vs%20Al-Rayyan.jpg" group-title="Football", Al-Taawoun Vs Al-Rayyan - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4621325.m3u8?txSecret=e710520f9571261bb3f95a69ef8ef759&txTime=6ACFBA3B
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20U19%20Vs%20Paris%20Saint-Germain%20U19.jpg" group-title="Football", Manchester City U19 Vs Paris Saint-Germain U19 - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.59/hls/f333AAAQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20U19%20Vs%20Paris%20Saint-Germain%20U19.jpg" group-title="Football", Manchester City U19 Vs Paris Saint-Germain U19 - TV QUALITY
-http://162.251.160.53:8089/1699/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Taawoun%20Vs%20Al-Rayyan.jpg" group-title="Football", Al-Taawoun Vs Al-Rayyan - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/T888AAAAQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hapoel%20Tel-Aviv%20Vs%20Be%C5%9Fikta%C5%9F%20JK.jpg" group-title="Basketball", Hapoel Tel-Aviv Vs Beşiktaş JK - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Betis%20U19%20Vs%20FC%20Porto%20U19.jpg" group-title="Football", Real Betis U19 Vs FC Porto U19 - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.59/hls/bzzzqqq.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Betis%20U19%20Vs%20FC%20Porto%20U19.jpg" group-title="Football", Real Betis U19 Vs FC Porto U19 - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.59/hls/bzzzqqq.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chertanovo%20Moscow%20Vs%20Tekstilshchik%20Ivanovo.jpg" group-title="Football", Chertanovo Moscow Vs Tekstilshchik Ivanovo - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -149,6 +151,11 @@ http://193.47.62.59/hls/YYYYAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/YYYYAAA.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Nizhny%20Novgorod%20Vs%20Shinnik%20Yaroslavl.jpg" group-title="Football", FC Nizhny Novgorod Vs Shinnik Yaroslavl - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Akhmat%20Grozny%20Vs%20Dynamo%20Moscow.jpg" group-title="Football", Akhmat Grozny Vs Dynamo Moscow - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
@@ -158,6 +165,11 @@ http://193.47.62.59/hls/YYYYAA.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/YYYYAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Anadolu%20Efes%20Vs%20Bayern%20M%C3%BCnchen.jpg" group-title="Basketball", Anadolu Efes Vs Bayern München - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LASK%20Vs%20Liverpool%20FC.jpg" group-title="Football", LASK Vs Liverpool FC - TNT2UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -183,8 +195,3 @@ https://edgestream2.pro/hls/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Antalyaspor%20Vs%20Kayserispor.jpg" group-title="Football", Antalyaspor Vs Kayserispor - STREAM TV + HD
 http://162.251.160.53:8089/1588/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Nizhny%20Novgorod%20Vs%20Shinnik%20Yaroslavl.jpg" group-title="Football", FC Nizhny Novgorod Vs Shinnik Yaroslavl - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/.m3u8
