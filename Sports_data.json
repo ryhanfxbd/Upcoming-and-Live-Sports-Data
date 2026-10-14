@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:01:07 PM 14-10-2026",
+  "last_update_time": "07:31:00 PM 14-10-2026",
   "total_matches": 92,
   "live_match": 8,
   "matches": [
@@ -104,6 +104,68 @@
         {
           "channel_name": "WILLOW2 SPORTS HD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "India Vs West Indies",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "West Indies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "eventName": "T20 International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "14/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "WILLOW - FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd",
+          "kid": "acc7b844fa50775eae013d0c65023b3e",
+          "key": "70fcb8c7000f4f88ee236a8eeda07332"
+        },
+        {
+          "channel_name": "WILLOW - ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd",
+          "kid": "acc7b844fa50775eae013d0c65023b3e",
+          "key": "70fcb8c7000f4f88ee236a8eeda07332"
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "http://103.114.11.37:8081/Willow-TV/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/NCCCAAQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HOTSTAR HIN (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
+          "referer": "https://www.hotstar.com/",
+          "kid": "b9f1cb8a1361457bbd8097f8c2590000",
+          "key": "1960274b7ba344cb899eba2e80916774"
+        },
+        {
+          "channel_name": "HOTSTAR ENG (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?",
+          "referer": "https://www.hotstar.com/",
+          "kid": "e85897bf6e594d698b7c82646c8e0000",
+          "key": "d2dda31234ae40538843e871cd4dcc2a"
         }
       ]
     },
@@ -657,68 +719,6 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "India Vs West Indies",
-      "eventInfo": {
-        "teamA": "India",
-        "teamB": "West Indies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-        "eventName": "T20 International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "14/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "WILLOW - FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd",
-          "kid": "acc7b844fa50775eae013d0c65023b3e",
-          "key": "70fcb8c7000f4f88ee236a8eeda07332"
-        },
-        {
-          "channel_name": "WILLOW - ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd",
-          "kid": "acc7b844fa50775eae013d0c65023b3e",
-          "key": "70fcb8c7000f4f88ee236a8eeda07332"
-        },
-        {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "http://103.114.11.37:8081/Willow-TV/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/NCCCAAQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "HOTSTAR HIN (IND)",
-          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
-          "referer": "https://www.hotstar.com/",
-          "kid": "b9f1cb8a1361457bbd8097f8c2590000",
-          "key": "1960274b7ba344cb899eba2e80916774"
-        },
-        {
-          "channel_name": "HOTSTAR ENG (IND)",
-          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?",
-          "referer": "https://www.hotstar.com/",
-          "kid": "e85897bf6e594d698b7c82646c8e0000",
-          "key": "d2dda31234ae40538843e871cd4dcc2a"
         }
       ]
     },
