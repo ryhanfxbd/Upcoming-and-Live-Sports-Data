@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-15 06:02:37 AM (BD Time)
-#  Live Channels Count: 52
+#  Last Updated: 2026-10-15 06:32:39 AM (BD Time)
+#  Live Channels Count: 51
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/AEW%20Night%20Dynamite%20Vs%20AEW%20Night%20Dynamite.jpg" group-title="Boxing", AEW Night Dynamite Vs AEW Night Dynamite - TSN2 SPORTS FHD
@@ -56,22 +56,13 @@ https://edgestream2.pro/hls/sfjnzabacah31.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sarmiento%20Vs%20River%20Plate.jpg" group-title="Football", Sarmiento Vs River Plate - TV QUALITY + HD
-http://162.251.160.53:8089/2366/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Mineiro%20Vs%20Montevideo%20City%20Torque.jpg" group-title="Football", Atlético Mineiro Vs Montevideo City Torque - BEIN3 SPORTS FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fluminense%20Vs%20Palmeiras.jpg" group-title="Football", Fluminense Vs Palmeiras - BEIN3 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Mineiro%20Vs%20Montevideo%20City%20Torque.jpg" group-title="Football", Atlético Mineiro Vs Montevideo City Torque - D SPORTS + FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Mineiro%20Vs%20Montevideo%20City%20Torque.jpg" group-title="Football", Atlético Mineiro Vs Montevideo City Torque - SportDigital Fussball
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fluminense%20Vs%20Palmeiras.jpg" group-title="Football", Fluminense Vs Palmeiras - SportDigital Fussball
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
@@ -88,6 +79,9 @@ https://live1.dyrur1.com/live/63kv9igrwj8ix7e_c68970984fc12ff53d527d6a587562ec_1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Inter%20Miami%20CF%20Vs%20New%20York%20City%20FC.jpg" group-title="Football", Inter Miami CF Vs New York City FC - TV HD 3
 https://live.vivo155.com/live/sd-1-4460597.m3u8?txSecret=3effb1e16738b3d17b589325134c12e1&txTime=6ACC3F3E
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Fire%20Vs%20Philadelphia%20Union.jpg" group-title="Football", Chicago Fire Vs Philadelphia Union - MLS QUALITY + TV
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a6372eb5_1f53_4b3f_aee6_d1e8d671f9a5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Cincinnati%20Vs%20New%20England%20Revolution.jpg" group-title="Football", FC Cincinnati Vs New England Revolution - MLS QUALITY + TV
 http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6e2fa3e3_b94a_4e59_9eb8_4e5a2050796b/index.m3u8
@@ -109,6 +103,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Toronto%20FC%20Vs%20Orlando%20City%20SC.jpg" group-title="Football", Toronto FC Vs Orlando City SC - MLS QUALITY + TV
 http://162.251.160.53:8089/prime_can_amzn1_dv_gti_c532cc86_e637_49b6_b6ff_edbf3e7d728d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nashville%20SC%20Vs%20Sporting%20Kansas%20City.jpg" group-title="Football", Nashville SC Vs Sporting Kansas City - MLS QUALITY + TV
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6be55c4d_8445_4506_b5f5_4154bd5abe11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Dallas%20Vs%20Seattle%20Sounders%20FC.jpg" group-title="Football", FC Dallas Vs Seattle Sounders FC - MLS QUALITY + TV
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_9bda8b84_607f_4373_8764_6b95b3a38094/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St.Louis%20City%20Vs%20Vancouver%20Whitecaps.jpg" group-title="Football", St.Louis City Vs Vancouver Whitecaps - MLS QUALITY + TV
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_0a573f9c_6150_4a5e_bf37_66e2a766fe2c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Dodgers%20Vs%20Milwaukee%20Brewers.jpg" group-title="Baseball", Los Angeles Dodgers Vs Milwaukee Brewers - TNT1UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -213,29 +216,6 @@ https://edgestream4.pro/hls/uyopzarf50.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/uyopzarf50.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fluminense%20Vs%20Palmeiras.jpg" group-title="Football", Fluminense Vs Palmeiras - BEIN3 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fluminense%20Vs%20Palmeiras.jpg" group-title="Football", Fluminense Vs Palmeiras - SportDigital Fussball
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Fire%20Vs%20Philadelphia%20Union.jpg" group-title="Football", Chicago Fire Vs Philadelphia Union - MLS QUALITY + TV
-http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a6372eb5_1f53_4b3f_aee6_d1e8d671f9a5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nashville%20SC%20Vs%20Sporting%20Kansas%20City.jpg" group-title="Football", Nashville SC Vs Sporting Kansas City - MLS QUALITY + TV
-http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6be55c4d_8445_4506_b5f5_4154bd5abe11/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Dallas%20Vs%20Seattle%20Sounders%20FC.jpg" group-title="Football", FC Dallas Vs Seattle Sounders FC - MLS QUALITY + TV
-http://162.251.160.53:8089/prime_can_amzn1_dv_gti_9bda8b84_607f_4373_8764_6b95b3a38094/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/St.Louis%20City%20Vs%20Vancouver%20Whitecaps.jpg" group-title="Football", St.Louis City Vs Vancouver Whitecaps - MLS QUALITY + TV
-http://162.251.160.53:8089/prime_can_amzn1_dv_gti_0a573f9c_6150_4a5e_bf37_66e2a766fe2c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Avalanche%20Vs%20Dallas%20Stars.jpg" group-title="Hockey", Colorado Avalanche Vs Dallas Stars - PREMIER1 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
@@ -250,3 +230,15 @@ https://edgestream1.pro/hls/hjksgdfauzy51.m3u8
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/hjksgdfauzy51.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Salt%20Lake%20Vs%20San%20Jose%20Earthquakes.jpg" group-title="Football", Real Salt Lake Vs San Jose Earthquakes - MLS QUALITY + TV
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_56f63f99_ea6e_4651_8658_6de9409282ac/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Rapids%20Vs%20Minnesota%20United.jpg" group-title="Football", Colorado Rapids Vs Minnesota United - TSN4 SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Rapids%20Vs%20Minnesota%20United.jpg" group-title="Football", Colorado Rapids Vs Minnesota United - MLS QUALITY + TV
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_ccd5536b_49c9_40fc_bfb3_6b52e1304cc1/index.m3u8
