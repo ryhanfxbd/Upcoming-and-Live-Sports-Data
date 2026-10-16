@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:01:05 PM 16-10-2026",
+  "last_update_time": "06:31:03 PM 16-10-2026",
   "total_matches": 100,
   "live_match": 10,
   "matches": [
@@ -301,6 +301,38 @@
     },
     {
       "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "One Friday Fights Vs One Friday Fights",
+      "eventInfo": {
+        "teamA": "One Friday Fights",
+        "teamB": "One Friday Fights",
+        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "eventName": "One Friday Fights",
+        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "startTime": "16/10/2026 06:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "kid": "308006101c8fd0262c0f529319b9c127",
+          "key": "37683aadc75b1450efa82d62c647984d"
+        },
+        {
+          "channel_name": "Server 2",
+          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+          "kid": "60dc08aae52f4c0b806a8e43f24a12c8",
+          "key": "30d5b579966d822b215ec51a91d8a271"
+        },
+        {
+          "channel_name": "Server 3",
+          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Melbourne Demons Vs Richmond Tigers",
       "eventInfo": {
@@ -325,29 +357,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Australia Vs Samoa",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "Samoa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272011/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/494722/image",
-        "eventName": "World Cup, Women ",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "startTime": "16/10/2026 03:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
         }
       ]
     },
@@ -852,38 +861,6 @@
         {
           "channel_name": "WILLOW SPORTS",
           "stream_url": "http://103.114.11.37:8081/Willow-TV/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "One Friday Fights Vs One Friday Fights",
-      "eventInfo": {
-        "teamA": "One Friday Fights",
-        "teamB": "One Friday Fights",
-        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "eventName": "One Friday Fights",
-        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "startTime": "16/10/2026 06:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "kid": "308006101c8fd0262c0f529319b9c127",
-          "key": "37683aadc75b1450efa82d62c647984d"
-        },
-        {
-          "channel_name": "Server 2",
-          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-          "kid": "60dc08aae52f4c0b806a8e43f24a12c8",
-          "key": "30d5b579966d822b215ec51a91d8a271"
-        },
-        {
-          "channel_name": "Server 3",
-          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
         }
       ]
     },
@@ -1469,7 +1446,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Qadsiah Vs Abha",
       "eventInfo": {
@@ -3028,6 +3005,29 @@
           "stream_url": "http://193.47.62.41/hls/FDFDDFDD.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Australia Vs Samoa",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "Samoa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/494722/image",
+        "eventName": "World Cup, Women ",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
+        "startTime": "16/10/2026 03:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
         }
       ]
     },
