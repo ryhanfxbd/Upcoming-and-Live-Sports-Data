@@ -2,8 +2,8 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:01:03 PM 16-10-2026",
-  "total_matches": 101,
+  "last_update_time": "12:31:03 PM 16-10-2026",
+  "total_matches": 98,
   "live_match": 4,
   "matches": [
     {
@@ -881,6 +881,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -900,6 +908,14 @@
       "streams": [
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1011,6 +1027,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1058,7 +1082,21 @@
           "key": "24bfd75d436cbf73168a2a2dccd40281"
         },
         {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1119,6 +1157,14 @@
       "streams": [
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1351,6 +1397,14 @@
       "streams": [
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1627,6 +1681,10 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "AZTECA HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1645,6 +1703,12 @@
       },
       "streams": [
         {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "kid": "d1a163914db8ffad2c3e94f979896a0d",
+          "key": "9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
           "channel_name": "CANAL MX FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
           "kid": "d695093ea3e66d75a4d213a3e2cbf360",
@@ -1659,6 +1723,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1719,6 +1791,14 @@
         },
         {
           "channel_name": "LALIGA TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2184,13 +2264,21 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "channel_name": "STREAM TV + HD.",
+          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2211,12 +2299,20 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2244,6 +2340,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2269,6 +2373,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2296,6 +2408,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2321,6 +2441,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2348,6 +2476,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2374,6 +2510,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2393,12 +2537,20 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2426,6 +2578,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2451,6 +2611,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2478,6 +2646,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2504,6 +2680,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2529,6 +2713,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2602,6 +2794,14 @@
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -2621,12 +2821,20 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2647,12 +2855,20 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -2756,168 +2972,6 @@
         "startTime": "16/10/2026 06:00:00 AM"
       },
       "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Denver Broncos Vs Seattle Seahawks",
-      "eventInfo": {
-        "teamA": "Denver Broncos",
-        "teamB": "Seattle Seahawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4418/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4430/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "16/10/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "key": "17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "NFL SERVER HD ",
-          "stream_url": "https://tedesco.formaturamaxi.com.br/nfl.m3u8"
-        },
-        {
-          "channel_name": "PRIME VEDIO FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dfimi1k4is/out/v1/2f58a99b6e8c4dbd84a81e558f1284b6/cenc.mpd",
-          "kid": "f270e94fca33e75dd1a0dc10415c75ea",
-          "key": "a42cf097934297beaec3b10d064b409c5f5dfd4732fd77fdafc52616896057a0fdaa0e1cbc71d422a2796bdb"
-        },
-        {
-          "channel_name": "PRIME VISION FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/p6d9tgnn4h/out/v1/b424a84af2664cb1917a996866bf9b55/cenc.mpd",
-          "kid": "f637ce0bb15555395a2481cf9974e2b7",
-          "key": "341466761b475d9936d0e1850a2fec01625bc6b40325449ed8479f725302dee79d8c439ee34da9e6d6e95d3e"
-        },
-        {
-          "channel_name": "PRIME SPANISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3hr76coffn/out/v1/49d08b3348cf4df792232cfd6c4c8386/cenc.mpd",
-          "kid": "c24fac888ae296eed094866ac43f017c",
-          "key": "31d97ff981b6329e76106ab61d625cc044d6d0193265df1ee1ee844e582baf56fbabe63f4d28bbecacc04473"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "abc5b2883121012850ebda05b528c5ec",
-          "key": "e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "ESPANOL + HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME 2 FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/F111.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/F111X.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Calgary Flames",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Calgary Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "16/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "kid": "1444f4235529f183f0a5a486befe9cdb",
-          "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream7.pro/hls/cwxvbnfghq60.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Edmonton Oilers Vs Utah Mammoth",
-      "eventInfo": {
-        "teamA": "Edmonton Oilers",
-        "teamB": "Utah Mammoth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "16/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/bvnzadfvyt59.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
         {
           "channel_name": "XTREME FHD ",
           "stream_url": ""
