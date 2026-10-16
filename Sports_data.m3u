@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-16 10:32:49 AM (BD Time)
-#  Live Channels Count: 31
+#  Last Updated: 2026-10-16 11:02:50 AM (BD Time)
+#  Live Channels Count: 22
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg" group-title="Other", TENNIS | EVENTO  Vs TENNIS | EVENTO - SKY TENNIS - FHD.
@@ -99,51 +99,6 @@ http://193.47.62.44/hls/CTTTT.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - TSN1 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - NFL SERVER HD
-https://tedesco.formaturamaxi.com.br/nfl.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - PRIME VEDIO FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f270e94fca33e75dd1a0dc10415c75ea:a42cf097934297beaec3b10d064b409c5f5dfd4732fd77fdafc52616896057a0fdaa0e1cbc71d422a2796bdb
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dfimi1k4is/out/v1/2f58a99b6e8c4dbd84a81e558f1284b6/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - PRIME VISION FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f637ce0bb15555395a2481cf9974e2b7:341466761b475d9936d0e1850a2fec01625bc6b40325449ed8479f725302dee79d8c439ee34da9e6d6e95d3e
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/p6d9tgnn4h/out/v1/b424a84af2664cb1917a996866bf9b55/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - PRIME SPANISH FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c24fac888ae296eed094866ac43f017c:31d97ff981b6329e76106ab61d625cc044d6d0193265df1ee1ee844e582baf56fbabe63f4d28bbecacc04473
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3hr76coffn/out/v1/49d08b3348cf4df792232cfd6c4c8386/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - TSN4 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - HD STREAMING
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/F111.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Broncos%20Vs%20Seattle%20Seahawks.jpg" group-title="American football", Denver Broncos Vs Seattle Seahawks - HD QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.50/hls/F111X.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Calgary%20Flames.jpg" group-title="Hockey", Vegas Golden Knights Vs Calgary Flames - PREMIER1 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
