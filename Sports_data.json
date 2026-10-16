@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:01:04 AM 17-10-2026",
+  "last_update_time": "02:31:11 AM 17-10-2026",
   "total_matches": 102,
-  "live_match": 29,
+  "live_match": 23,
   "matches": [
     {
       "status": "LIVE",
@@ -350,60 +350,17 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "SC Heerenveen Vs Excelsior",
+      "event_name": "Los Chankas CYC Vs Asociación Deportiva Tarma",
       "eventInfo": {
-        "teamA": "SC Heerenveen",
-        "teamB": "Excelsior",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4552219.m3u8?txSecret=d231bc19e3da54cb39e4e7c437172987&txTime=6AD27933",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/Z666AAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sport Huancayo Vs Cusco FC",
-      "eventInfo": {
-        "teamA": "Sport Huancayo",
-        "teamB": "Cusco FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33895/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+        "teamA": "Los Chankas CYC",
+        "teamB": "Asociación Deportiva Tarma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/252254/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
         "eventName": "Liga 1 Te Apuesto",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
+        "startTime": "17/10/2026 02:30:00 AM"
       },
       "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": ""
-        },
         {
           "channel_name": "LIGA1 MAX ",
           "stream_url": ""
@@ -463,28 +420,6 @@
         {
           "channel_name": "FOX SOCCER ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ittihad Vs Al-Shabab",
-      "eventInfo": {
-        "teamA": "Al-Ittihad",
-        "teamB": "Al-Shabab",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "kid": "d1a163914db8ffad2c3e94f979896a0d",
-          "key": "9728800a3959aafdd5b0bcfbf3768811"
         }
       ]
     },
@@ -749,97 +684,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/Z666AAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Eindhoven Vs Vitesse",
-      "eventInfo": {
-        "teamA": "FC Eindhoven",
-        "teamB": "Vitesse",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2994/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2958/image",
-        "eventName": "Eerste Divisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/131/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "India Women Vs Zimbabwe Women",
-      "eventInfo": {
-        "teamA": "India Women",
-        "teamB": "Zimbabwe Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-        "eventName": "Twenty20 International Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-        "startTime": "16/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oazcbevnl7/out/v1/bda05b242720469ca9fb9fabbde64cc2/cenc.mpd",
-          "kid": "bfeaf0c7782327ca574f32b1629080b6",
-          "key": "c03b21556a4cf97130228258de3fe45d"
-        },
-        {
-          "channel_name": "TNT SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oazcbevnl7/out/v1/bda05b242720469ca9fb9fabbde64cc2/cenc.mpd",
-          "kid": "bfeaf0c7782327ca574f32b1629080b6",
-          "key": "c03b21556a4cf97130228258de3fe45d"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Dinamo București Vs FC Botoșani",
-      "eventInfo": {
-        "teamA": "FC Dinamo București",
-        "teamB": "FC Botoșani",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3292/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24798/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DYYYYAAAAAQQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -1647,6 +1491,12 @@
       },
       "streams": [
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/3JJJAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "ESPN PREMIUM",
           "stream_url": ""
         },
@@ -1676,30 +1526,6 @@
         },
         {
           "channel_name": "TNT SPORTS HD2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Los Chankas CYC Vs Asociación Deportiva Tarma",
-      "eventInfo": {
-        "teamA": "Los Chankas CYC",
-        "teamB": "Asociación Deportiva Tarma",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/252254/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/10/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA1 MAX ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA1 MAX 2",
           "stream_url": ""
         }
       ]
@@ -2903,6 +2729,28 @@
       ]
     },
     {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Jacksonville Jaguars Vs Houston Texans",
+      "eventInfo": {
+        "teamA": "Jacksonville Jaguars",
+        "teamB": "Houston Texans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "18/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
       "status": "ENDED",
       "Category": "Motorsports",
       "event_name": "MotorGP Vs MotorGP",
@@ -3226,6 +3074,73 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "SC Heerenveen Vs Excelsior",
+      "eventInfo": {
+        "teamA": "SC Heerenveen",
+        "teamB": "Excelsior",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4552219.m3u8?txSecret=d231bc19e3da54cb39e4e7c437172987&txTime=6AD27933",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/Z666AAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sport Huancayo Vs Cusco FC",
+      "eventInfo": {
+        "teamA": "Sport Huancayo",
+        "teamB": "Cusco FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33895/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Wieczysta Kraków Vs Raków Częstochowa",
       "eventInfo": {
         "teamA": "Wieczysta Kraków",
@@ -3478,6 +3393,28 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Al-Ittihad Vs Al-Shabab",
+      "eventInfo": {
+        "teamA": "Al-Ittihad",
+        "teamB": "Al-Shabab",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "kid": "d1a163914db8ffad2c3e94f979896a0d",
+          "key": "9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Basketball",
       "event_name": "Beşiktaş JK Vs Bayern München",
       "eventInfo": {
@@ -3531,6 +3468,34 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "FC Eindhoven Vs Vitesse",
+      "eventInfo": {
+        "teamA": "FC Eindhoven",
+        "teamB": "Vitesse",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2994/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2958/image",
+        "eventName": "Eerste Divisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/131/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Geita Gold Vs Dodoma Jiji",
       "eventInfo": {
         "teamA": "Geita Gold",
@@ -3551,6 +3516,34 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/DUUUAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Dinamo București Vs FC Botoșani",
+      "eventInfo": {
+        "teamA": "FC Dinamo București",
+        "teamB": "FC Botoșani",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3292/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24798/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DYYYYAAAAAQQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
