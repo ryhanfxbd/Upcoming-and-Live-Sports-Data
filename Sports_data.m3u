@@ -3,7 +3,7 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-17 05:02:37 AM (BD Time)
+#  Last Updated: 2026-10-17 05:32:33 AM (BD Time)
 #  Live Channels Count: 45
 #=================================
 
@@ -43,6 +43,11 @@ http://193.47.62.41/hls/3JJJAA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tulane%20Green%20Wave%20Vs%20Memphis%20Tigers.jpg" group-title="American football", Tulane Green Wave Vs Memphis Tigers - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Guardians%20Vs%20Tampa%20Bay%20Rays.jpg" group-title="Baseball", Cleveland Guardians Vs Tampa Bay Rays - TNT SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -158,11 +163,6 @@ https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tulane%20Green%20Wave%20Vs%20Memphis%20Tigers.jpg" group-title="American football", Tulane Green Wave Vs Memphis Tigers - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Coastal%20Carolina%20Chanticleers%20Vs%20Appalachian%20State%20Mountaineers.jpg" group-title="American football", Coastal Carolina Chanticleers Vs Appalachian State Mountaineers - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
