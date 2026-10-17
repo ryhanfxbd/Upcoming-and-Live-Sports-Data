@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-17 11:02:16 PM (BD Time)
-#  Live Channels Count: 149
+#  Last Updated: 2026-10-17 11:32:26 PM (BD Time)
+#  Live Channels Count: 151
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Horse%20Racing%20Vs%20Horse%20Racing.jpg" group-title="Other", Horse Racing Vs Horse Racing - FOX1 SPORTS FHD
@@ -77,6 +77,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58156/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newcastle%20United%20Vs%20Aston%20Villa.jpg" group-title="Football", Newcastle United Vs Aston Villa - NOVA SPORT HD
+https://admin2.formaturamaxi.com.br/hub.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newcastle%20United%20Vs%20Aston%20Villa.jpg" group-title="Football", Newcastle United Vs Aston Villa - beIN SPORTS  HD
 #EXTVLCOPT:http-referrer=https://www.arena8x.live/
 https://cdn-v2.gamhed.online/hls/arena8x-2a.m3u8?
@@ -103,6 +106,11 @@ http://193.47.62.44/hls/TKKKQ.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Ottawa%20Vs%20Forge%20FC.jpg" group-title="Football", Atlético Ottawa Vs Forge FC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/YMMM.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Betis%20Vs%20FC%20Barcelona.jpg" group-title="Football", Real Betis Vs FC Barcelona - BEIN3 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -141,6 +149,9 @@ https://cdn-v2.gamhed.online/hls/arena8x-1a.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Betis%20Vs%20FC%20Barcelona.jpg" group-title="Football", Real Betis Vs FC Barcelona - ESPN DEPORTES HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58162/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Betis%20Vs%20FC%20Barcelona.jpg" group-title="Football", Real Betis Vs FC Barcelona - ESPN DEPORTES
+https://admin2.formaturamaxi.com.br/dep.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Betis%20Vs%20FC%20Barcelona.jpg" group-title="Football", Real Betis Vs FC Barcelona - TV QUALITY
 http://162.251.160.53:8089/prime_in_amzn1_dv_gti_c84bea12_0d9e_492c_ab84_eff1f70df902/index.m3u8
@@ -244,6 +255,11 @@ https://live.vivo155.com/live/hd-en-1-4549109.m3u8?txSecret=9f5829200af96ed9c80f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://www.rtmpcdn.com/live/4a5452b6-326d-4212-9b6b-bd3a265c0a96.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pisa%20Vs%20Cremonese.jpg" group-title="Football", Pisa Vs Cremonese - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mantova%20Vs%20Palermo.jpg" group-title="Football", Mantova Vs Palermo - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
@@ -294,6 +310,12 @@ https://chatgpt.hereisman.net/playlist/58160/load-playlist?&.m3u8
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Capitals%20Vs%20New%20Jersey%20Devils.jpg" group-title="Hockey", Washington Capitals Vs New Jersey Devils - SPORTSCAST
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/92483897-07ca-4910-af68-b1a9610a2ba4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Capitals%20Vs%20New%20Jersey%20Devils.jpg" group-title="Hockey", Washington Capitals Vs New Jersey Devils - NHL TV HD
+https://admin2.formaturamaxi.com.br/nhl.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bangladesh%20Vs%20Zimbabwe.jpg" group-title="Cricket", Bangladesh Vs Zimbabwe - WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -436,36 +458,6 @@ http://193.47.62.55/hls/Q5555QQ.m3u8
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Zebre%20Rugby%20Vs%20Ulster%20Rugby.jpg" group-title="Rugby", Zebre Rugby Vs Ulster Rugby - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/J999.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Zebre%20Rugby%20Vs%20Ulster%20Rugby.jpg" group-title="Rugby", Zebre Rugby Vs Ulster Rugby - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/J999.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Stormers%20Vs%20Bristol%20Bears.jpg" group-title="Rugby", Stormers Vs Bristol Bears - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/J999AA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Stormers%20Vs%20Bristol%20Bears.jpg" group-title="Rugby", Stormers Vs Bristol Bears - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/J999AA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ASM%20Clermont%20Auvergne%20Vs%20Leinster%20Rugby.jpg" group-title="Rugby", ASM Clermont Auvergne Vs Leinster Rugby - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/J999A.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ASM%20Clermont%20Auvergne%20Vs%20Leinster%20Rugby.jpg" group-title="Rugby", ASM Clermont Auvergne Vs Leinster Rugby - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/J999A.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Indiana%20Hoosiers%20Vs%20Ohio%20State%20Buckeyes.jpg" group-title="American football", Indiana Hoosiers Vs Ohio State Buckeyes - HD QUALITY TV
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
@@ -636,6 +628,15 @@ https://edgestream2.pro/hls/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/wnbcnxbcs42.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Central%20Michigan%20Chippewas%20Vs%20Western%20Michigan%20Broncos.jpg" group-title="American football", Central Michigan Chippewas Vs Western Michigan Broncos - HD QUALITY TV
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58163/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Central%20Michigan%20Chippewas%20Vs%20Western%20Michigan%20Broncos.jpg" group-title="American football", Central Michigan Chippewas Vs Western Michigan Broncos - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Buffalo%20Bulls%20Vs%20Massachusetts%20Minutemen.jpg" group-title="American football", Buffalo Bulls Vs Massachusetts Minutemen - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -692,11 +693,6 @@ http://193.47.62.59/hls/LIIIQQQQAAAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/LIIIQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pisa%20Vs%20Cremonese.jpg" group-title="Football", Pisa Vs Cremonese - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SC%20Telstar%20Vs%20Feyenoord.jpg" group-title="Football", SC Telstar Vs Feyenoord - SportDigital Fussball
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -712,7 +708,10 @@ https://edgestream2.pro/hls/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/j444AAAAAA.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Central%20Michigan%20Chippewas%20Vs%20Western%20Michigan%20Broncos.jpg" group-title="American football", Central Michigan Chippewas Vs Western Michigan Broncos - STREAM TV + HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Union%20Vs%20Charlotte%20FC.jpg" group-title="Football", Philadelphia Union Vs Charlotte FC - TV QUALITY
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_abc458cd_f103_487d_8c54_81036713bcf0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/KS%20Cracovia%20Vs%20Legia%20Warszawa.jpg" group-title="Football", KS Cracovia Vs Legia Warszawa - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/.m3u8
