@@ -2,36 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:26 AM 18-10-2026",
+  "last_update_time": "04:30:30 AM 18-10-2026",
   "total_matches": 169,
-  "live_match": 53,
+  "live_match": 60,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cavalry FC Vs Pacific FC",
-      "eventInfo": {
-        "teamA": "Cavalry FC",
-        "teamB": "Pacific FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/309889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/309888/image",
-        "eventName": "Canadian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
-        "startTime": "18/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": ""
-        }
-      ]
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -76,30 +50,6 @@
         },
         {
           "channel_name": "ESPN PREMIUM2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "ACD Juan Pablo II Vs Sport Boys",
-      "eventInfo": {
-        "teamA": "ACD Juan Pablo II",
-        "teamB": "Sport Boys",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/511206/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2312/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "18/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA1 MAX ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA1 MAX 2",
           "stream_url": ""
         }
       ]
@@ -179,47 +129,6 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_16b43562_7a45_4da7_bded_e11a4c7bf60b/index.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Golden State Valkyries Vs Atlanta Dream",
-      "eventInfo": {
-        "teamA": "Golden State Valkyries",
-        "teamB": "Atlanta Dream",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-        "eventName": "WNBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "18/10/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "abc5b2883121012850ebda05b528c5ec",
-          "key": "e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
         },
         {
           "channel_name": "HD QUALITY ",
@@ -321,83 +230,23 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Saskatchewan Roughriders Vs Montreal Alouettes",
-      "eventInfo": {
-        "teamA": "Saskatchewan Roughriders",
-        "teamB": "Montreal Alouettes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-        "eventName": "CFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-        "startTime": "18/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "key": "17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "d3250252765347a0c2603c6cb4869f8c",
-          "key": "0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
-      "event_name": "Boyacá Chicó FC Vs Atlético Nacional",
+      "event_name": "Utah Royals FC Vs Kansas City Current",
       "eventInfo": {
-        "teamA": "Boyacá Chicó FC",
-        "teamB": "Atlético Nacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "18/10/2026 02:00:00 AM"
+        "teamA": "Utah Royals FC",
+        "teamB": "Kansas City Current",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/278067/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/377826/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "18/10/2026 04:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "WIN SPORTS PLUS",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Guadalajara Vs Dallas Trinity",
-      "eventInfo": {
-        "teamA": "CD Guadalajara",
-        "teamB": "Dallas Trinity",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-        "eventName": "Friendly Match Women's",
-        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-        "startTime": "18/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TUDN US ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US 2",
-          "stream_url": ""
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -1659,7 +1508,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CD Guadalajara Vs Tigres UANL",
       "eventInfo": {
@@ -1827,7 +1676,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlanta United Vs Inter Miami CF",
       "eventInfo": {
@@ -1859,7 +1708,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "New England Revolution Vs Chicago Fire",
       "eventInfo": {
@@ -1891,7 +1740,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "New York Red Bulls Vs Toronto FC",
       "eventInfo": {
@@ -1937,7 +1786,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Orlando City SC Vs DC United",
       "eventInfo": {
@@ -1969,7 +1818,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "New York City FC Vs Los Angeles FC",
       "eventInfo": {
@@ -2231,7 +2080,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Wellington Phoenix Vs Melbourne City",
       "eventInfo": {
@@ -2904,28 +2753,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Utah Royals FC Vs Kansas City Current",
-      "eventInfo": {
-        "teamA": "Utah Royals FC",
-        "teamB": "Kansas City Current",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/278067/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/377826/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "18/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Millonarios Vs Jaguares de Córdoba",
       "eventInfo": {
         "teamA": "Millonarios",
@@ -3132,7 +2959,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Houston Cougars Vs Oklahoma State Cowboys",
       "eventInfo": {
@@ -3162,7 +2989,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Brigham Young Cougars Vs Notre Dame Fighting Irish",
       "eventInfo": {
@@ -3192,7 +3019,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Syracuse Orange Vs Louisville Cardinals",
       "eventInfo": {
@@ -3280,7 +3107,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Oklahoma Sooners Vs Kentucky Wildcats",
       "eventInfo": {
@@ -3310,7 +3137,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "UCLA Bruins Vs Wisconsin Badgers",
       "eventInfo": {
@@ -3496,7 +3323,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Stanford Cardinal Vs Elon Phoenix",
       "eventInfo": {
@@ -4045,6 +3872,32 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Cavalry FC Vs Pacific FC",
+      "eventInfo": {
+        "teamA": "Cavalry FC",
+        "teamB": "Pacific FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/309889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/309888/image",
+        "eventName": "Canadian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "startTime": "18/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Atlético Ottawa Vs Forge FC",
       "eventInfo": {
         "teamA": "Atlético Ottawa",
@@ -4582,6 +4435,30 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "ACD Juan Pablo II Vs Sport Boys",
+      "eventInfo": {
+        "teamA": "ACD Juan Pablo II",
+        "teamB": "Sport Boys",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/511206/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2312/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "18/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LIGA1 MAX ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Diriyah Vs Al-Taawoun",
       "eventInfo": {
         "teamA": "Diriyah",
@@ -4679,6 +4556,47 @@
     },
     {
       "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Golden State Valkyries Vs Atlanta Dream",
+      "eventInfo": {
+        "teamA": "Golden State Valkyries",
+        "teamB": "Atlanta Dream",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+        "eventName": "WNBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "18/10/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "abc5b2883121012850ebda05b528c5ec",
+          "key": "e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Hockey",
       "event_name": "Washington Capitals Vs New Jersey Devils",
       "eventInfo": {
@@ -4713,6 +4631,44 @@
         {
           "channel_name": "NHL TV HD",
           "stream_url": "https://admin2.formaturamaxi.com.br/nhl.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Saskatchewan Roughriders Vs Montreal Alouettes",
+      "eventInfo": {
+        "teamA": "Saskatchewan Roughriders",
+        "teamB": "Montreal Alouettes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+        "eventName": "CFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+        "startTime": "18/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "key": "17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "2",
+          "stream_url": ""
         }
       ]
     },
@@ -4869,6 +4825,50 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Boyacá Chicó FC Vs Atlético Nacional",
+      "eventInfo": {
+        "teamA": "Boyacá Chicó FC",
+        "teamB": "Atlético Nacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "18/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WIN SPORTS PLUS",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CD Guadalajara Vs Dallas Trinity",
+      "eventInfo": {
+        "teamA": "CD Guadalajara",
+        "teamB": "Dallas Trinity",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+        "eventName": "Friendly Match Women's",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "18/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TUDN US ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US 2",
+          "stream_url": ""
         }
       ]
     },
