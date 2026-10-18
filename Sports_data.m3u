@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-19 03:32:08 AM (BD Time)
-#  Live Channels Count: 37
+#  Last Updated: 2026-10-19 04:02:06 AM (BD Time)
+#  Live Channels Count: 38
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NFL%20REDZONE%20Vs%20NFL%20REDZONE.jpg" group-title="American football", NFL REDZONE Vs NFL REDZONE - REDZONE FHD
@@ -109,6 +109,11 @@ https://edgestream2.pro/hls/dazhfiach15.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Guardians%20Vs%20Tampa%20Bay%20Rays.jpg" group-title="Baseball", Cleveland Guardians Vs Tampa Bay Rays - MLB TV HD
 https://admin.formaturamaxi.com.br/mlb.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Wild%20Vs%20Columbus%20Blue%20Jackets.jpg" group-title="Hockey", Minnesota Wild Vs Columbus Blue Jackets - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream5.pro/hls/uyopzarf50.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bay%20FC%20Vs%20Portland%20Thorns%20FC.jpg" group-title="Football", Bay FC Vs Portland Thorns FC - TNT1UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -178,7 +183,7 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Wild%20Vs%20Columbus%20Blue%20Jackets.jpg" group-title="Hockey", Minnesota Wild Vs Columbus Blue Jackets - STREAM TV + HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Stars%20FC%20Vs%20Seattle%20Reign%20FC.jpg" group-title="Football", Chicago Stars FC Vs Seattle Reign FC - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream5.pro/hls/uyopzarf50.m3u8
+https://edgestream2.pro/hls/.m3u8
