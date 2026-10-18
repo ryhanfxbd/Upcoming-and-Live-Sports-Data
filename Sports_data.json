@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:00:30 PM 18-10-2026",
+  "last_update_time": "06:30:28 PM 18-10-2026",
   "total_matches": 166,
-  "live_match": 50,
+  "live_match": 55,
   "matches": [
     {
       "status": "LIVE",
@@ -394,6 +394,34 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "SC Cambuur Vs AZ Alkmaar",
+      "eventInfo": {
+        "teamA": "SC Cambuur",
+        "teamB": "AZ Alkmaar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "18/10/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Collingwood Magpies Vs Sydney Swans",
       "eventInfo": {
@@ -673,6 +701,23 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f836853d8eac19446ed9535f5fc568b1",
           "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4565458.m3u8?txSecret=01238b4684c05b62a52870761c6ad72d&txTime=6AD4C8E9",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/72f0dc0c-545f-4eda-b32f-7e4450542b6c.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JFFFQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -833,6 +878,12 @@
       },
       "streams": [
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JFFFQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "LALIGA HYP HD",
           "stream_url": ""
         },
@@ -948,6 +999,12 @@
       },
       "streams": [
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/AYYYAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
         },
@@ -975,6 +1032,12 @@
         "startTime": "18/10/2026 06:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/AYYYAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
@@ -1089,6 +1152,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
           "kid": "1444f4235529f183f0a5a486befe9cdb",
           "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/AYYYAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -1112,6 +1181,12 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "1a5df53609ebc9857898c490f4724918",
           "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/AYYYA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -1131,9 +1206,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "stream_url": "http://193.47.62.41/hls/AYYY.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/AYYY.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -1205,62 +1286,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/4UUUAAAAQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportivo Alavés Vs Sevilla FC",
-      "eventInfo": {
-        "teamA": "Deportivo Alavés",
-        "teamB": "Sevilla FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/388473/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77903/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "18/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/wawawaaaa.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/wawawaaaa.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Real Sociedad Vs Fútbol Club Barcelona",
-      "eventInfo": {
-        "teamA": "Real Sociedad",
-        "teamB": "Fútbol Club Barcelona",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77897/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "18/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/wawawaaaaq.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/wawawaaaaq.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -1702,7 +1727,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "India Women Vs Zimbabwe Women",
       "eventInfo": {
@@ -1729,7 +1754,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Jacksonville Jaguars Vs Houston Texans",
       "eventInfo": {
@@ -1757,34 +1782,6 @@
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
           "kid": "11223344556677889900112233445566",
           "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "SC Cambuur Vs AZ Alkmaar",
-      "eventInfo": {
-        "teamA": "SC Cambuur",
-        "teamB": "AZ Alkmaar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "18/10/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
         },
         {
           "channel_name": "HD QUALITY ",
@@ -1948,7 +1945,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Siwelele FC Vs Polokwane City",
       "eventInfo": {
@@ -2328,7 +2325,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Bayer 04 Leverkusen Vs SC Freiburg",
       "eventInfo": {
@@ -2941,7 +2938,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Manchester City Vs Brighton",
       "eventInfo": {
@@ -4203,7 +4200,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Ittihad Kalba Vs Al-Jazira",
       "eventInfo": {
@@ -4225,7 +4222,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Khor Fakkan Vs Al-Wahda FC",
       "eventInfo": {
@@ -5430,6 +5427,62 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Deportivo Alavés Vs Sevilla FC",
+      "eventInfo": {
+        "teamA": "Deportivo Alavés",
+        "teamB": "Sevilla FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/388473/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77903/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "18/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/wawawaaaa.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/wawawaaaa.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Real Sociedad Vs Fútbol Club Barcelona",
+      "eventInfo": {
+        "teamA": "Real Sociedad",
+        "teamB": "Fútbol Club Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77897/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "18/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/wawawaaaaq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/wawawaaaaq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
