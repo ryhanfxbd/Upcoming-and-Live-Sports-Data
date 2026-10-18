@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:30:32 AM 19-10-2026",
+  "last_update_time": "05:00:29 AM 19-10-2026",
   "total_matches": 94,
-  "live_match": 19,
+  "live_match": 20,
   "matches": [
     {
       "status": "LIVE",
@@ -353,6 +353,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Chicago Stars FC Vs Seattle Reign FC",
+      "eventInfo": {
+        "teamA": "Chicago Stars FC",
+        "teamB": "Seattle Reign FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34714/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151010/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "19/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Bay FC Vs Portland Thorns FC",
       "eventInfo": {
         "teamA": "Bay FC",
@@ -543,30 +565,6 @@
         },
         {
           "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Alianza Atlético de Sullana Vs Universitario de Deportes",
-      "eventInfo": {
-        "teamA": "Alianza Atlético de Sullana",
-        "teamB": "Universitario de Deportes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2307/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2305/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "19/10/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA1 MAX ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA1 MAX 2",
           "stream_url": ""
         }
       ]
@@ -1186,7 +1184,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Milwaukee Brewers Vs Los Angeles Dodgers",
       "eventInfo": {
@@ -1231,7 +1229,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Calgary Flames Vs Carolina Hurricanes",
       "eventInfo": {
@@ -1267,28 +1265,6 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chicago Stars FC Vs Seattle Reign FC",
-      "eventInfo": {
-        "teamA": "Chicago Stars FC",
-        "teamB": "Seattle Reign FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34714/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/151010/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "19/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -2710,6 +2686,30 @@
           "stream_url": "http://193.47.62.44/hls/T333A.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Alianza Atlético de Sullana Vs Universitario de Deportes",
+      "eventInfo": {
+        "teamA": "Alianza Atlético de Sullana",
+        "teamB": "Universitario de Deportes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2307/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2305/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "19/10/2026 02:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LIGA1 MAX ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
         }
       ]
     },
