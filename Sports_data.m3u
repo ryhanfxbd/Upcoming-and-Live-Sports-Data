@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-18 07:32:19 PM (BD Time)
-#  Live Channels Count: 102
+#  Last Updated: 2026-10-18 08:02:11 PM (BD Time)
+#  Live Channels Count: 101
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Snooker%20Vs%20Snooker.jpg" group-title="Other", Snooker Vs Snooker - TNT4UK SPORTS FHD
@@ -68,6 +68,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Houston%20Texans.jpg" group-title="American football", Jacksonville Jaguars Vs Houston Texans - FOX SPORTS HD
+#EXTVLCOPT:http-referrer=https://play.arabsports.info/
+https://hls.dptv.info/live/espn-401872996/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Houston%20Texans.jpg" group-title="American football", Jacksonville Jaguars Vs Houston Texans - NFL NETWORK HD
+https://storage.googleapis.com/flintvoyager/nbcsn/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jacksonville%20Jaguars%20Vs%20Houston%20Texans.jpg" group-title="American football", Jacksonville Jaguars Vs Houston Texans - HD QUALITY 1
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
@@ -308,21 +315,6 @@ https://www.rtmpcdn.com/live/76eb2f2a-a3aa-4df3-bbfb-32696ee00570.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.41/hls/RARARAAAAQQQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SG%20Dynamo%20Dresden%20Vs%201.%20FC%20Magdeburg.jpg" group-title="Football", SG Dynamo Dresden Vs 1. FC Magdeburg - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Arminia%20Bielefeld%20Vs%20VfL%20Osnabr%C3%BCck.jpg" group-title="Football", Arminia Bielefeld Vs VfL Osnabrück - HD QUALITY
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/sd-1-4566629.m3u8?txSecret=64db3903673cebc7ad737edff59facaf&txTime=6AD4BF7A
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Arminia%20Bielefeld%20Vs%20VfL%20Osnabr%C3%BCck.jpg" group-title="Football", Arminia Bielefeld Vs VfL Osnabrück - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/A555QQQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Karlsruher%20SC%20Vs%20Darmstadt%2098.jpg" group-title="Football", Karlsruher SC Vs Darmstadt 98 - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/AD%20Ceuta%20Vs%20Real%20Oviedo.jpg" group-title="Football", AD Ceuta Vs Real Oviedo - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -382,6 +374,11 @@ http://193.47.62.41/hls/AYYYAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.41/hls/AYYYAAAA.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Celtic%20Vs%20Heart%20of%20Midlothian.jpg" group-title="Football", Celtic Vs Heart of Midlothian - BEIN1 SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Section%20Paloise%20Vs%20Leicester%20Tigers.jpg" group-title="Rugby", Section Paloise Vs Leicester Tigers - PREMIER1 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
@@ -426,6 +423,11 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOAL%20RUSH%20Vs%20GOAL%20RUSH.jpg" group-title="Football", GOAL RUSH Vs GOAL RUSH - Link 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SD%20Eibar%20Vs%20Real%20Club%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", SD Eibar Vs Real Club Deportivo de A Coruña - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Durban%20City%20FC%20Vs%20AS%20Port-Louis%202000.jpg" group-title="Football", Durban City FC Vs AS Port-Louis 2000 - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -484,17 +486,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Celtic%20Vs%20Heart%20of%20Midlothian.jpg" group-title="Football", Celtic Vs Heart of Midlothian - BEIN1 SPORTS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wiliete%20SC%20Vs%20Mamelodi%20Sundowns.jpg" group-title="Football", Wiliete SC Vs Mamelodi Sundowns - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Stade%20Toulousain%20Vs%20Exeter%20Chiefs.jpg" group-title="Rugby", Stade Toulousain Vs Exeter Chiefs - PREMIER1 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SD%20Eibar%20Vs%20Real%20Club%20Deportivo%20de%20A%20Coru%C3%B1a.jpg" group-title="Football", SD Eibar Vs Real Club Deportivo de A Coruña - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/.m3u8
