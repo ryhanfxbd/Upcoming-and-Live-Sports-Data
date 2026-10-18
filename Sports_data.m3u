@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-18 09:32:04 AM (BD Time)
-#  Live Channels Count: 114
+#  Last Updated: 2026-10-18 10:02:23 AM (BD Time)
+#  Live Channels Count: 109
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg" group-title="Other", TENNIS | EVENTO  Vs TENNIS | EVENTO - SKY TENNIS - FHD.
@@ -137,28 +137,6 @@ http://193.47.62.41/hls/TPPPAAA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Alianza%20Lima%20Vs%20Club%20Atl%C3%A9tico%20Grau.jpg" group-title="Football", Alianza Lima Vs Club Atlético Grau - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/F222AAAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atlanta%20United%20Vs%20Inter%20Miami%20CF.jpg" group-title="Football", Atlanta United Vs Inter Miami CF - ENGLISH FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a1e5a58e0a06967452c959b95050b07:6df78ba86aab34d8c66b1547932bb8b69ee5fe68e435b2a031e53bf3547a4f3e911f6aff90e30f0c1114ce27
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dm3g1rq1cg/out/v1/8c9ef42395f74aa0b382282db4ae1ddc/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atlanta%20United%20Vs%20Inter%20Miami%20CF.jpg" group-title="Football", Atlanta United Vs Inter Miami CF - SPANISH FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b62567a49e307dc1984045b2c85d2f85:5a21a8d93e9bb81f3f7c516d138d0eec4776bf4b1433b170bfcdb263db32e2033cefe0622bfa1e19dc9dedbc
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kwfam6n7jy/out/v1/e434b15f7483403ca8b6a1401201daca/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atlanta%20United%20Vs%20Inter%20Miami%20CF.jpg" group-title="Football", Atlanta United Vs Inter Miami CF - HD QUALITY +
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58220/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atlanta%20United%20Vs%20Inter%20Miami%20CF.jpg" group-title="Football", Atlanta United Vs Inter Miami CF - TV QUALITY
-http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a24b3abf_3b52_456b_ad33_ebde89b58125/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LA%20Galaxy%20Vs%20San%20Diego%20FC.jpg" group-title="Football", LA Galaxy Vs San Diego FC - MLS TV HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
@@ -493,6 +471,12 @@ http://193.47.62.41/hls/F8888.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hadribeaj%20Vs%20Fundora.jpg" group-title="Boxing", Hadribeaj Vs Fundora - Link 1
 https://admin2.formaturamaxi.com.br/ppv.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GWS%20Giants%20Vs%20Hawthorn%20Hawks.jpg" group-title="Aussie rules", GWS Giants Vs Hawthorn Hawks - TNT1UK SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20Vs%20Fiji.jpg" group-title="Rugby", New Zealand Vs Fiji - PREMIERE2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -513,12 +497,6 @@ http://193.47.62.44/hls/HTTT.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.44/hls/HTTT.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GWS%20Giants%20Vs%20Hawthorn%20Hawks.jpg" group-title="Aussie rules", GWS Giants Vs Hawthorn Hawks - TNT1UK SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Essendon%20Bombers%20Vs%20North%20Melbourne.jpg" group-title="Aussie rules", Essendon Bombers Vs North Melbourne - TSN2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
