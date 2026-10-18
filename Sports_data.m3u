@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-18 07:02:18 AM (BD Time)
-#  Live Channels Count: 148
+#  Last Updated: 2026-10-18 07:32:02 AM (BD Time)
+#  Live Channels Count: 153
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/AEW%20WrestleDream%20Vs%20AEW%20WrestleDream.jpg" group-title="Boxing", AEW WrestleDream Vs AEW WrestleDream - HD QUALITY +
@@ -38,6 +38,28 @@ http://193.47.62.55/hls/HHHHAA.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/HHHHA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Toluca%20Vs%20Atl%C3%A9tico%20San%20Luis.jpg" group-title="Football", CD Toluca Vs Atlético San Luis - TUDN MEXICO FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Toluca%20Vs%20Atl%C3%A9tico%20San%20Luis.jpg" group-title="Football", CD Toluca Vs Atlético San Luis - CANAL MX FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Le%C3%B3n%20Vs%20Club%20Am%C3%A9rica.jpg" group-title="Football", Club León Vs Club América - TUDN MEXICO FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Le%C3%B3n%20Vs%20Club%20Am%C3%A9rica.jpg" group-title="Football", Club León Vs Club América - CANAL MX FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Santos%20Laguna%20Vs%20Quer%C3%A9taro%20FC.jpg" group-title="Football", Santos Laguna Vs Querétaro FC - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -75,16 +97,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/F222AAAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Athletico%20Vs%20Palmeiras.jpg" group-title="Football", Athletico Vs Palmeiras - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.41/hls/B666AAAQQQQAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Athletico%20Vs%20Palmeiras.jpg" group-title="Football", Athletico Vs Palmeiras - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.41/hls/B666AAAQQQQAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/S%C3%A3o%20Paulo%20Vs%20Vasco%20da%20Gama.jpg" group-title="Football", São Paulo Vs Vasco da Gama - SPORT TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -323,6 +335,19 @@ https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8?
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Kings%20Vs%20Boston%20Bruins.jpg" group-title="Hockey", Los Angeles Kings Vs Boston Bruins - HD QUALITY +
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58233/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Kings%20Vs%20Boston%20Bruins.jpg" group-title="Hockey", Los Angeles Kings Vs Boston Bruins - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream1.pro/hls/jzabfazkbf27.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Kings%20Vs%20Boston%20Bruins.jpg" group-title="Hockey", Los Angeles Kings Vs Boston Bruins - HD QUALITY+ LIVE
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream6.pro/hls/jzabfazkbf27.m3u8?
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nashville%20Predators%20Vs%20St.%20Louis%20Blues.jpg" group-title="Hockey", Nashville Predators Vs St. Louis Blues - SPORTSCAST + FHD
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/73c1817e-5297-4b19-9fcd-5443f535960b/master.m3u8
 
@@ -375,15 +400,10 @@ http://193.47.62.55/hls/HHHH.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/HHHH.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Royals%20FC%20Vs%20Kansas%20City%20Current.jpg" group-title="Football", Utah Royals FC Vs Kansas City Current - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.41/hls/B666AAAQQQQA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Royals%20FC%20Vs%20Kansas%20City%20Current.jpg" group-title="Football", Utah Royals FC Vs Kansas City Current - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.41/hls/B666AAAQQQQA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Summit%20FC%20Vs%20Angel%20City%20FC.jpg" group-title="Football", Denver Summit FC Vs Angel City FC - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Millonarios%20Vs%20Jaguares%20de%20C%C3%B3rdoba.jpg" group-title="Football", Millonarios Vs Jaguares de Córdoba - FOX DEPORTES FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -502,6 +522,11 @@ https://chatgpt.hereisman.net/playlist/58226/load-playlist?&.m3u8
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/bvsdgayiqf78.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UTEP%20Miners%20Vs%20San%20Jose%20State%20Spartans.jpg" group-title="American football", UTEP Miners Vs San Jose State Spartans - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/omljkhqsdag79.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oklahoma%20Sooners%20Vs%20Kentucky%20Wildcats.jpg" group-title="American football", Oklahoma Sooners Vs Kentucky Wildcats - HD QUALITY +
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
@@ -622,47 +647,45 @@ http://193.47.62.41/hls/F8888.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hadribeaj%20Vs%20Fundora.jpg" group-title="Boxing", Hadribeaj Vs Fundora - Link 1
 https://admin2.formaturamaxi.com.br/ppv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Toluca%20Vs%20Atl%C3%A9tico%20San%20Luis.jpg" group-title="Football", CD Toluca Vs Atlético San Luis - TUDN MEXICO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Toluca%20Vs%20Atl%C3%A9tico%20San%20Luis.jpg" group-title="Football", CD Toluca Vs Atlético San Luis - CANAL MX FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Le%C3%B3n%20Vs%20Club%20Am%C3%A9rica.jpg" group-title="Football", Club León Vs Club América - TUDN MEXICO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Le%C3%B3n%20Vs%20Club%20Am%C3%A9rica.jpg" group-title="Football", Club León Vs Club América - CANAL MX FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Kings%20Vs%20Boston%20Bruins.jpg" group-title="Hockey", Los Angeles Kings Vs Boston Bruins - HD QUALITY +
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58233/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Kings%20Vs%20Boston%20Bruins.jpg" group-title="Hockey", Los Angeles Kings Vs Boston Bruins - STREAM TV + HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Edmonton%20Oilers.jpg" group-title="Hockey", Utah Mammoth Vs Edmonton Oilers - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream1.pro/hls/jzabfazkbf27.m3u8
+https://edgestream6.pro/hls/hefbafbakx28.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Los%20Angeles%20Kings%20Vs%20Boston%20Bruins.jpg" group-title="Hockey", Los Angeles Kings Vs Boston Bruins - HD QUALITY+ LIVE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Edmonton%20Oilers.jpg" group-title="Hockey", Utah Mammoth Vs Edmonton Oilers - HD QUALITY+ LIVE
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestream6.pro/hls/jzabfazkbf27.m3u8?
+https://edgestream7.pro/hls/hefbafbakx28.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Summit%20FC%20Vs%20Angel%20City%20FC.jpg" group-title="Football", Denver Summit FC Vs Angel City FC - STREAM TV + HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Pittsburgh%20Penguins.jpg" group-title="Hockey", Vegas Golden Knights Vs Pittsburgh Penguins - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vegas%20Golden%20Knights%20Vs%20Pittsburgh%20Penguins.jpg" group-title="Hockey", Vegas Golden Knights Vs Pittsburgh Penguins - HD QUALITY+ LIVE
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Orange%20County%20SC%20Vs%20Phoenix%20Rising%20FC.jpg" group-title="Football", Orange County SC Vs Phoenix Rising FC - CBS SPORTS FHD
+#EXTVLCOPT:http-referrer=https://amazon.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Orange%20County%20SC%20Vs%20Phoenix%20Rising%20FC.jpg" group-title="Football", Orange County SC Vs Phoenix Rising FC - TV QUALITY
+http://162.251.160.53:8089/342/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wellington%20Phoenix%20Vs%20Melbourne%20Victory.jpg" group-title="Football", Wellington Phoenix Vs Melbourne Victory - TNT3UK SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sacramento%20State%20Hornets%20Vs%20Ohio%20Bobcats.jpg" group-title="American football", Sacramento State Hornets Vs Ohio Bobcats - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Collingwood%20Magpies%20Vs%20Sydney%20Swans.jpg" group-title="Aussie rules", Collingwood Magpies Vs Sydney Swans - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UTEP%20Miners%20Vs%20San%20Jose%20State%20Spartans.jpg" group-title="American football", UTEP Miners Vs San Jose State Spartans - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/omljkhqsdag79.m3u8
