@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:28 PM 18-10-2026",
+  "last_update_time": "02:30:23 PM 18-10-2026",
   "total_matches": 161,
   "live_match": 15,
   "matches": [
@@ -260,6 +260,33 @@
         {
           "channel_name": "FOX SOCCER HD ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Australia Women Vs New Zealand Women",
+      "eventInfo": {
+        "teamA": "Australia Women",
+        "teamB": "New Zealand Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+        "eventName": "Twenty20 International Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+        "startTime": "18/10/2026 02:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "kid": "290e09c837da78d5cd961978d390515c",
+          "key": "b748836c71e6a4ca68ef5b5652db6247"
         }
       ]
     },
@@ -530,28 +557,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Fiji Vs Cook Islands",
-      "eventInfo": {
-        "teamA": "Fiji",
-        "teamB": "Cook Islands",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24237/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/52805/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "18/10/2026 11:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Melbourne United Vs Illawarra Hawks",
       "eventInfo": {
@@ -620,7 +625,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Snooker Vs Snooker",
       "eventInfo": {
@@ -1231,33 +1236,6 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Australia Women Vs New Zealand Women",
-      "eventInfo": {
-        "teamA": "Australia Women",
-        "teamB": "New Zealand Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-        "eventName": "Twenty20 International Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-        "startTime": "18/10/2026 02:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "kid": "290e09c837da78d5cd961978d390515c",
-          "key": "b748836c71e6a4ca68ef5b5652db6247"
         }
       ]
     },
@@ -5116,6 +5094,28 @@
           "stream_url": "http://193.47.62.44/hls/HTTTA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Fiji Vs Cook Islands",
+      "eventInfo": {
+        "teamA": "Fiji",
+        "teamB": "Cook Islands",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24237/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52805/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "18/10/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
