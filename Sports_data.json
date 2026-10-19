@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:01:11 PM 19-10-2026",
+  "last_update_time": "08:31:13 PM 19-10-2026",
   "total_matches": 39,
-  "live_match": 6,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -1147,6 +1147,13 @@
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
         },
         {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "42f72c025dd53039244adc13b7e31dad",
+          "key": "a7bd941a19f6dd14f3004a623a6ad3a1"
+        },
+        {
           "channel_name": "PARAMOUNT HD",
           "stream_url": ""
         },
@@ -1306,7 +1313,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Abha Vs Al-Kholood",
       "eventInfo": {
@@ -1346,7 +1353,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Fayha Vs Al-Ahli",
       "eventInfo": {
