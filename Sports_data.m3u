@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-19 04:02:35 PM (BD Time)
-#  Live Channels Count: 24
+#  Last Updated: 2026-10-19 04:32:41 PM (BD Time)
+#  Live Channels Count: 27
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg" group-title="Other", TENNIS | EVENTO  Vs TENNIS | EVENTO - SKY TENNIS - FHD.
@@ -96,9 +96,10 @@ http://193.47.62.44/hls/CTTTT.m3u8
 http://193.47.62.44/hls/CTTTT.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - WILLOW FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - FANCODE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -111,8 +112,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - WILLOW ALT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - WILLOW SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -123,3 +124,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oman%20Vs%20Nepal.jpg" group-title="Cricket", Oman Vs Nepal - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792417832~acl=%2Fvariant%2Fv1blackout%2Fvcg-01-d%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl~hmac=365ce38d578b04b527e7137b558b2ff21d0efbcea3a8dd2657e8d1d2ad3f435b/manifest.mpd?vcfilter=cab18332-42e0-471c-a2f5-f14341f3a60a&
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - FANCODE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - T SPORTS HD
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
