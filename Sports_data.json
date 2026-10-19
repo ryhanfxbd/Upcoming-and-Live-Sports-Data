@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:31:09 PM 19-10-2026",
+  "last_update_time": "11:01:19 PM 19-10-2026",
   "total_matches": 39,
-  "live_match": 10,
+  "live_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -291,6 +291,54 @@
         {
           "channel_name": "PARAMOUNT SD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Degerfors IF Vs Kalmar FF",
+      "eventInfo": {
+        "teamA": "Degerfors IF",
+        "teamB": "Kalmar FF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1807/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1891/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "19/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Trabzonspor Vs Beşiktaş JK",
+      "eventInfo": {
+        "teamA": "Trabzonspor",
+        "teamB": "Beşiktaş JK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "19/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -1250,34 +1298,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Degerfors IF Vs Kalmar FF",
-      "eventInfo": {
-        "teamA": "Degerfors IF",
-        "teamB": "Kalmar FF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1807/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1891/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "19/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Corinthians Vs Vitória",
@@ -1309,26 +1329,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Trabzonspor Vs Beşiktaş JK",
-      "eventInfo": {
-        "teamA": "Trabzonspor",
-        "teamB": "Beşiktaş JK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "19/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Al-Hilal Vs Al-Hazem",
       "eventInfo": {
         "teamA": "Al-Hilal",
@@ -1347,7 +1347,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Shabab Vs Al Faisaly",
       "eventInfo": {
