@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-20 08:32:36 AM (BD Time)
-#  Live Channels Count: 58
+#  Last Updated: 2026-10-20 09:03:04 AM (BD Time)
+#  Live Channels Count: 51
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - WWE HD QUALITY
@@ -69,32 +69,6 @@ http://193.47.62.44/hls/CTTTT.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Cleveland%20Guardians.jpg" group-title="Baseball", Tampa Bay Rays Vs Cleveland Guardians - HD QUALITY MLB
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58317/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Cleveland%20Guardians.jpg" group-title="Baseball", Tampa Bay Rays Vs Cleveland Guardians - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/https://edgestream7.pro/hls/dazhfiach15.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg" group-title="Basketball", Golden State Valkyries Vs Atlanta Dream - HD QUALITY TV
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58319/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg" group-title="Basketball", Golden State Valkyries Vs Atlanta Dream - HD QUALITY 4
-https://www.rtmpcdn.com/live/d42410bc-9b78-454c-9f6d-3ed5e45ea3a0.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg" group-title="Basketball", Golden State Valkyries Vs Atlanta Dream - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.50/hls/UTTT.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Golden%20State%20Valkyries%20Vs%20Atlanta%20Dream.jpg" group-title="Basketball", Golden State Valkyries Vs Atlanta Dream - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/mlkijfezag65.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Flyers%20Vs%20Colorado%20Avalanche.jpg" group-title="Hockey", Philadelphia Flyers Vs Colorado Avalanche - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -184,11 +158,6 @@ http://193.47.62.44/hls/AMMMAA.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.59/hls/AMMMA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Deportivo%20Riestra%20Vs%20Club%20Atl%C3%A9tico%20Uni%C3%B3n%20de%20Santa%20Fe.jpg" group-title="Football", Deportivo Riestra Vs Club Atlético Unión de Santa Fe - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.50/hls/O555AAAAAQQQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg" group-title="Other", TENNIS | EVENTO  Vs TENNIS | EVENTO - SKY TENNIS - FHD.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
