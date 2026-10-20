@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:13 PM 20-10-2026",
+  "last_update_time": "09:01:09 PM 20-10-2026",
   "total_matches": 63,
   "live_match": 13,
   "matches": [
@@ -436,6 +436,48 @@
           "stream_url": "http://193.47.62.55/hls/HBBBAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Diriyah Vs Al-Riyadh",
+      "eventInfo": {
+        "teamA": "Diriyah",
+        "teamB": "Al-Riyadh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "20/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Argentina U17 Vs New Zealand U17",
+      "eventInfo": {
+        "teamA": "Argentina U17",
+        "teamB": "New Zealand U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/215388/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/44561/image",
+        "eventName": "U17 Women's World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
+        "startTime": "20/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
         }
       ]
     },
@@ -931,26 +973,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Diriyah Vs Al-Riyadh",
-      "eventInfo": {
-        "teamA": "Diriyah",
-        "teamB": "Al-Riyadh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Al-Ettifaq Vs Al-Ittihad",
@@ -1237,28 +1259,6 @@
         "eventName": "U17 Women's World Championship",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
         "startTime": "21/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Argentina U17 Vs New Zealand U17",
-      "eventInfo": {
-        "teamA": "Argentina U17",
-        "teamB": "New Zealand U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/215388/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/44561/image",
-        "eventName": "U17 Women's World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
-        "startTime": "20/10/2026 09:00:00 PM"
       },
       "streams": [
         {
