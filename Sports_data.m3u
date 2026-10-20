@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-21 02:03:00 AM (BD Time)
-#  Live Channels Count: 92
+#  Last Updated: 2026-10-21 02:33:01 AM (BD Time)
+#  Live Channels Count: 93
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Porto%20Vs%20PSV%20Eindhoven.jpg" group-title="Football", FC Porto Vs PSV Eindhoven - PARAMOUNT+ FHD
@@ -455,3 +455,6 @@ http://193.47.62.55/hls/QFFFAAAQQQQAA.m3u8
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.55/hls/QFFFAAAQQQQAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Red%20Bull%20Bragantino%20Vs%20Ferrovi%C3%A1ria.jpg" group-title="Football", Red Bull Bragantino Vs Ferroviária - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
