@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-20 10:32:41 AM (BD Time)
-#  Live Channels Count: 35
+#  Last Updated: 2026-10-20 11:02:37 AM (BD Time)
+#  Live Channels Count: 19
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/TENNIS%20%20EVENTO%20%20Vs%20TENNIS%20%20EVENTO.jpg" group-title="Other", TENNIS | EVENTO  Vs TENNIS | EVENTO - SKY TENNIS - FHD.
@@ -82,51 +82,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - WWE HD QUALITY
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - HD QUALITY
-https://admin2.formaturamaxi.com.br/wwe.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.50/hls/WAWAWADD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - WWE SERVER HD
-https://admin2.formaturamaxi.com.br/wwe.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - MULTIQUALITY HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58315/load-playlist-multi?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - HD QUALITY 1
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - HD QUALITY 5
-https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - HD QUALITY 3
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - HD QUALITY 2
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - HD STREAMING
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/zeuryuegn48.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - HD QUALITY 6
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - RAW 5
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WWE%20RAW%20Vs%20WWE%20RAW.jpg" group-title="Boxing", WWE RAW Vs WWE RAW - RAW 4
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg" group-title="Other", GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 
@@ -144,14 +99,3 @@ http://193.47.62.44/hls/CTTTT.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Pittsburgh%20Penguins.jpg" group-title="Hockey", Utah Mammoth Vs Pittsburgh Penguins - SPORTSCAST
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bf4eee9d-084f-4034-9059-489051aca091/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Pittsburgh%20Penguins.jpg" group-title="Hockey", Utah Mammoth Vs Pittsburgh Penguins - HD QUALITY
-https://tedesco.formaturamaxi.com.br/nhl4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Pittsburgh%20Penguins.jpg" group-title="Hockey", Utah Mammoth Vs Pittsburgh Penguins - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/rtzaeyvhb53.m3u8
