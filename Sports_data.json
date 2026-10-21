@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:30:59 AM 22-10-2026",
+  "last_update_time": "03:01:02 AM 22-10-2026",
   "total_matches": 73,
-  "live_match": 13,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -648,28 +648,6 @@
         "eventName": "Premier League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "startTime": "22/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Charlton Athletic WFC Vs Bristol City WFC",
-      "eventInfo": {
-        "teamA": "Charlton Athletic WFC",
-        "teamB": "Bristol City WFC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/55503/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "22/10/2026 12:30:00 AM"
       },
       "streams": [
         {
@@ -1491,7 +1469,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "São Paulo Vs EC Bahia",
       "eventInfo": {
@@ -1561,7 +1539,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Universidad de Chile Vs Club Deportes Antofagasta",
       "eventInfo": {
@@ -1621,7 +1599,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Montevideo City Torque Vs Atlético Mineiro",
       "eventInfo": {
@@ -2418,7 +2396,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "River Plate Reserve Vs Vélez Sarsfield Reserve",
       "eventInfo": {
@@ -2789,6 +2767,28 @@
           "stream_url": "http://193.47.62.55/hls/ajjjQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Charlton Athletic WFC Vs Bristol City WFC",
+      "eventInfo": {
+        "teamA": "Charlton Athletic WFC",
+        "teamB": "Bristol City WFC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55503/image",
+        "eventName": "FA Women's League Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
+        "startTime": "22/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
