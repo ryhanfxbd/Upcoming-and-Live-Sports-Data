@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:31:12 AM 21-10-2026",
+  "last_update_time": "08:01:10 AM 21-10-2026",
   "total_matches": 66,
   "live_match": 22,
   "matches": [
@@ -262,46 +262,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "New York Knicks Vs Philadelphia 76ers",
-      "eventInfo": {
-        "teamA": "New York Knicks",
-        "teamB": "Philadelphia 76ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "21/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -602,6 +562,46 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
+      "event_name": "Vancouver Canucks Vs Carolina Hurricanes",
+      "eventInfo": {
+        "teamA": "Vancouver Canucks",
+        "teamB": "Carolina Hurricanes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "21/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/bvnzadfvyt59.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bvnzadfvyt59.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
       "event_name": "Dallas Stars Vs Boston Bruins",
       "eventInfo": {
         "teamA": "Dallas Stars",
@@ -622,6 +622,46 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/poiryezafv56.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Seattle Kraken Vs Detroit Red Wings",
+      "eventInfo": {
+        "teamA": "Seattle Kraken",
+        "teamB": "Detroit Red Wings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "21/10/2026 07:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/earzfddshg58.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/earzfddshg58.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
@@ -1295,7 +1335,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Tigres UANL Vs Club León",
       "eventInfo": {
@@ -1320,46 +1360,6 @@
         },
         {
           "channel_name": "UNIVERSO HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Vancouver Canucks Vs Carolina Hurricanes",
-      "eventInfo": {
-        "teamA": "Vancouver Canucks",
-        "teamB": "Carolina Hurricanes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "21/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream4.pro/hls/bvnzadfvyt59.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/bvnzadfvyt59.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1392,46 +1392,6 @@
         },
         {
           "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Seattle Kraken Vs Detroit Red Wings",
-      "eventInfo": {
-        "teamA": "Seattle Kraken",
-        "teamB": "Detroit Red Wings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "21/10/2026 07:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream4.pro/hls/earzfddshg58.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/earzfddshg58.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD",
           "stream_url": ""
         },
         {
@@ -2277,6 +2237,46 @@
           "stream_url": "http://193.47.62.55/hls/KTTTQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "New York Knicks Vs Philadelphia 76ers",
+      "eventInfo": {
+        "teamA": "New York Knicks",
+        "teamB": "Philadelphia 76ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "21/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
