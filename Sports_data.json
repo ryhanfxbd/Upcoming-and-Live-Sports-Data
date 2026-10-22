@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:00:44 PM 22-10-2026",
+  "last_update_time": "08:30:44 PM 22-10-2026",
   "total_matches": 98,
   "live_match": 11,
   "matches": [
@@ -241,6 +241,40 @@
           "stream_url": "http://193.47.62.44/hls/CIIIAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Kairat Almaty Vs Panathinaikos FC",
+      "eventInfo": {
+        "teamA": "FC Kairat Almaty",
+        "teamB": "Panathinaikos FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "22/10/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1033,40 +1067,6 @@
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "kid": "11223344556677889900112233445566",
           "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Kairat Almaty Vs Panathinaikos FC",
-      "eventInfo": {
-        "teamA": "FC Kairat Almaty",
-        "teamB": "Panathinaikos FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "22/10/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "XTREME + FHD ",
@@ -3145,16 +3145,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
         "startTime": "23/10/2026 12:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT SPORTS 2",
-          "stream_url": ""
-        }
-      ]
+      "streams": []
     },
     {
       "status": "UPCOMING",
