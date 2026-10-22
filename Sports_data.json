@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:30:44 PM 22-10-2026",
+  "last_update_time": "09:00:55 PM 22-10-2026",
   "total_matches": 98,
   "live_match": 11,
   "matches": [
@@ -220,6 +220,48 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "China U17 Vs Samoa U17",
+      "eventInfo": {
+        "teamA": "China U17",
+        "teamB": "Samoa U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36911/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1098680/image",
+        "eventName": "U17 Women's World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
+        "startTime": "22/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Spain U17 Vs Australia U17",
+      "eventInfo": {
+        "teamA": "Spain U17",
+        "teamB": "Australia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38071/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/509621/image",
+        "eventName": "U17 Women's World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
+        "startTime": "22/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Al-Hazem Vs Al-Fayha",
       "eventInfo": {
         "teamA": "Al-Hazem",
@@ -241,6 +283,28 @@
           "stream_url": "http://193.47.62.44/hls/CIIIAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Fateh Vs Al-Shabab",
+      "eventInfo": {
+        "teamA": "Al-Fateh",
+        "teamB": "Al-Shabab",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/56023/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "22/10/2026 08:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -792,48 +856,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "China U17 Vs Samoa U17",
-      "eventInfo": {
-        "teamA": "China U17",
-        "teamB": "Samoa U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36911/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1098680/image",
-        "eventName": "U17 Women's World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
-        "startTime": "22/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Spain U17 Vs Australia U17",
-      "eventInfo": {
-        "teamA": "Spain U17",
-        "teamB": "Australia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/38071/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/509621/image",
-        "eventName": "U17 Women's World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
-        "startTime": "22/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Flamengo Vs Estudiantes de La Plata",
@@ -903,28 +925,6 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
           "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
           "key": "7b2322a273843921a43e2c61dac7cae3"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Fateh Vs Al-Shabab",
-      "eventInfo": {
-        "teamA": "Al-Fateh",
-        "teamB": "Al-Shabab",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "22/10/2026 08:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -3145,7 +3145,16 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
         "startTime": "23/10/2026 12:00:00 AM"
       },
-      "streams": []
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS 2",
+          "stream_url": ""
+        }
+      ]
     },
     {
       "status": "UPCOMING",
