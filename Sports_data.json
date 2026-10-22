@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:31:16 AM 23-10-2026",
+  "last_update_time": "01:01:54 AM 23-10-2026",
   "total_matches": 94,
   "live_match": 50,
   "matches": [
@@ -692,6 +692,324 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "AGF Vs KF Egnatia",
+      "eventInfo": {
+        "teamA": "AGF",
+        "teamB": "KF Egnatia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/264619/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "AS Monaco Vs SC Freiburg",
+      "eventInfo": {
+        "teamA": "AS Monaco",
+        "teamB": "SC Freiburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58407/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/V111.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Thun Vs HNK Hajduk Split",
+      "eventInfo": {
+        "teamA": "FC Thun",
+        "teamB": "HNK Hajduk Split",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2036/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "AFC Ajax Vs Atalanta",
+      "eventInfo": {
+        "teamA": "AFC Ajax",
+        "teamB": "Atalanta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58408/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111AAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Midtjylland Vs Sint-Truidense VV",
+      "eventInfo": {
+        "teamA": "FC Midtjylland",
+        "teamB": "Sint-Truidense VV",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2895/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111AAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Lincoln Red Imps Vs FC Twente",
+      "eventInfo": {
+        "teamA": "Lincoln Red Imps",
+        "teamB": "FC Twente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/126304/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111AAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FK Borac Banja Luka Vs Kuopion Palloseura",
+      "eventInfo": {
+        "teamA": "FK Borac Banja Luka",
+        "teamB": "Kuopion Palloseura",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5235/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sporting Braga Vs KAA Gent",
+      "eventInfo": {
+        "teamA": "Sporting Braga",
+        "teamB": "KAA Gent",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Lech Poznań Vs Sunderland",
       "eventInfo": {
         "teamA": "Lech Poznań",
@@ -1001,6 +1319,46 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Beşiktaş JK Vs Crystal Palace",
+      "eventInfo": {
+        "teamA": "Beşiktaş JK",
+        "teamB": "Crystal Palace",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58410/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "OFI Crete Vs Bayer 04 Leverkusen",
       "eventInfo": {
         "teamA": "OFI Crete",
@@ -1115,6 +1473,46 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Bournemouth Vs AC Milan",
+      "eventInfo": {
+        "teamA": "Bournemouth",
+        "teamB": "AC Milan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58406/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "SK Sturm Graz Vs Olympique de Marseille",
       "eventInfo": {
         "teamA": "SK Sturm Graz",
@@ -1171,6 +1569,293 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Viktoria Plzeň Vs Levski Sofia",
+      "eventInfo": {
+        "teamA": "FC Viktoria Plzeň",
+        "teamB": "Levski Sofia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3273/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Lillestrøm SK Vs Real Sociedad",
+      "eventInfo": {
+        "teamA": "Lillestrøm SK",
+        "teamB": "Real Sociedad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/664/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58411/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Celtic Vs Celta Vigo",
+      "eventInfo": {
+        "teamA": "Celtic",
+        "teamB": "Celta Vigo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "key": "643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58412/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "NK Celje Vs Red Bull Salzburg",
+      "eventInfo": {
+        "teamA": "NK Celje",
+        "teamB": "Red Bull Salzburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2413/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/D111AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Jagiellonia Białystok Vs RSC Anderlecht",
+      "eventInfo": {
+        "teamA": "Jagiellonia Białystok",
+        "teamB": "RSC Anderlecht",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7691/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "TSG Hoffenheim Vs Olympique Lyonnais",
+      "eventInfo": {
+        "teamA": "TSG Hoffenheim",
+        "teamB": "Olympique Lyonnais",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Olympiacos FC Vs AC Sparta Praha",
+      "eventInfo": {
+        "teamA": "Olympiacos FC",
+        "teamB": "AC Sparta Praha",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3245/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2218/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Omonia Nicosia Vs Benfica",
+      "eventInfo": {
+        "teamA": "Omonia Nicosia",
+        "teamB": "Benfica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3395/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "23/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58409/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Bayern München Vs BC Dubai",
       "eventInfo": {
@@ -1185,7 +1870,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/F555AAAAQQQ.m3u8",
+          "stream_url": "https://www.rtmpcdn.com/live/d730f1ad-fa8e-4476-897c-53821e4af4d1.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -1213,7 +1898,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/DDDD.m3u8",
+          "stream_url": "https://www.rtmpcdn.com/live/580138e5-e7fe-4eeb-9b1a-71407efc63aa.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -1256,6 +1941,34 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "KK Partizan Mozzart Bet Vs KK Crvena zvezda",
+      "eventInfo": {
+        "teamA": "KK Partizan Mozzart Bet",
+        "teamB": "KK Crvena zvezda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6637/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/57183/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "23/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/DDDDAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DDDDAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "EA7 Emporio Armani Milano Vs Barça Basket",
       "eventInfo": {
         "teamA": "EA7 Emporio Armani Milano",
@@ -1269,9 +1982,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/DDDDA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://www.rtmpcdn.com/live/d811fc69-6754-41e4-8f9e-f8b3e0004a2d.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -1300,6 +2011,12 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
           "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
           "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/508d6b82-52b7-429b-952d-7aa2eb153ed4.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -1897,626 +2614,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "AGF Vs KF Egnatia",
-      "eventInfo": {
-        "teamA": "AGF",
-        "teamB": "KF Egnatia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1291/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/264619/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "AS Monaco Vs SC Freiburg",
-      "eventInfo": {
-        "teamA": "AS Monaco",
-        "teamB": "SC Freiburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Thun Vs HNK Hajduk Split",
-      "eventInfo": {
-        "teamA": "FC Thun",
-        "teamB": "HNK Hajduk Split",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2454/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2036/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "AFC Ajax Vs Atalanta",
-      "eventInfo": {
-        "teamA": "AFC Ajax",
-        "teamB": "Atalanta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Midtjylland Vs Sint-Truidense VV",
-      "eventInfo": {
-        "teamA": "FC Midtjylland",
-        "teamB": "Sint-Truidense VV",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2895/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Lincoln Red Imps Vs FC Twente",
-      "eventInfo": {
-        "teamA": "Lincoln Red Imps",
-        "teamB": "FC Twente",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/126304/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FK Borac Banja Luka Vs Kuopion Palloseura",
-      "eventInfo": {
-        "teamA": "FK Borac Banja Luka",
-        "teamB": "Kuopion Palloseura",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5235/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2244/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sporting Braga Vs KAA Gent",
-      "eventInfo": {
-        "teamA": "Sporting Braga",
-        "teamB": "KAA Gent",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Beşiktaş JK Vs Crystal Palace",
-      "eventInfo": {
-        "teamA": "Beşiktaş JK",
-        "teamB": "Crystal Palace",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Bournemouth Vs AC Milan",
-      "eventInfo": {
-        "teamA": "Bournemouth",
-        "teamB": "AC Milan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Viktoria Plzeň Vs Levski Sofia",
-      "eventInfo": {
-        "teamA": "FC Viktoria Plzeň",
-        "teamB": "Levski Sofia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3273/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Lillestrøm SK Vs Real Sociedad",
-      "eventInfo": {
-        "teamA": "Lillestrøm SK",
-        "teamB": "Real Sociedad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/664/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Celtic Vs Celta Vigo",
-      "eventInfo": {
-        "teamA": "Celtic",
-        "teamB": "Celta Vigo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "key": "643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "NK Celje Vs Red Bull Salzburg",
-      "eventInfo": {
-        "teamA": "NK Celje",
-        "teamB": "Red Bull Salzburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2413/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Jagiellonia Białystok Vs RSC Anderlecht",
-      "eventInfo": {
-        "teamA": "Jagiellonia Białystok",
-        "teamB": "RSC Anderlecht",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7691/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "TSG Hoffenheim Vs Olympique Lyonnais",
-      "eventInfo": {
-        "teamA": "TSG Hoffenheim",
-        "teamB": "Olympique Lyonnais",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Olympiacos FC Vs AC Sparta Praha",
-      "eventInfo": {
-        "teamA": "Olympiacos FC",
-        "teamB": "AC Sparta Praha",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3245/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2218/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Omonia Nicosia Vs Benfica",
-      "eventInfo": {
-        "teamA": "Omonia Nicosia",
-        "teamB": "Benfica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3395/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "23/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
         }
       ]
     },
@@ -3227,34 +3324,6 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "KK Partizan Mozzart Bet Vs KK Crvena zvezda",
-      "eventInfo": {
-        "teamA": "KK Partizan Mozzart Bet",
-        "teamB": "KK Crvena zvezda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6637/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/57183/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "23/10/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/DDDDAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DDDDAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
