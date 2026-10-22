@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:30:53 AM 22-10-2026",
+  "last_update_time": "06:00:53 AM 22-10-2026",
   "total_matches": 73,
-  "live_match": 24,
+  "live_match": 28,
   "matches": [
     {
       "status": "LIVE",
@@ -379,6 +379,125 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "New Orleans Pelicans Vs Indiana Pacers",
+      "eventInfo": {
+        "teamA": "New Orleans Pelicans",
+        "teamB": "Indiana Pacers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Memphis Grizzlies Vs Utah Jazz",
+      "eventInfo": {
+        "teamA": "Memphis Grizzlies",
+        "teamB": "Utah Jazz",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Atlanta Dream Vs Golden State Valkyries",
+      "eventInfo": {
+        "teamA": "Atlanta Dream",
+        "teamB": "Golden State Valkyries",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+        "eventName": "WNBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "22/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "abc5b2883121012850ebda05b528c5ec",
+          "key": "e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Sam Houston State Bearkats Vs New Mexico State Aggies",
+      "eventInfo": {
+        "teamA": "Sam Houston State Bearkats",
+        "teamB": "New Mexico State Aggies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/327216/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4333/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -1050,7 +1169,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlas FC Vs Club América",
       "eventInfo": {
@@ -1089,7 +1208,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club Puebla Vs CF Monterrey",
       "eventInfo": {
@@ -1152,7 +1271,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CD Toluca Vs Club Tijuana",
       "eventInfo": {
@@ -1268,40 +1387,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "New Orleans Pelicans Vs Indiana Pacers",
-      "eventInfo": {
-        "teamA": "New Orleans Pelicans",
-        "teamB": "Indiana Pacers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Houston Rockets Vs Dallas Mavericks",
       "eventInfo": {
         "teamA": "Houston Rockets",
@@ -1330,69 +1415,6 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Memphis Grizzlies Vs Utah Jazz",
-      "eventInfo": {
-        "teamA": "Memphis Grizzlies",
-        "teamB": "Utah Jazz",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Atlanta Dream Vs Golden State Valkyries",
-      "eventInfo": {
-        "teamA": "Atlanta Dream",
-        "teamB": "Golden State Valkyries",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-        "eventName": "WNBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "22/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "abc5b2883121012850ebda05b528c5ec",
-          "key": "e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -1500,28 +1522,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Sam Houston State Bearkats Vs New Mexico State Aggies",
-      "eventInfo": {
-        "teamA": "Sam Houston State Bearkats",
-        "teamB": "New Mexico State Aggies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/327216/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4333/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Basketball",
       "event_name": "Instituto Atlético Central Córdoba Vs Club Atlético Lanús",
       "eventInfo": {
