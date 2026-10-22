@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-22 09:32:33 AM (BD Time)
-#  Live Channels Count: 36
+#  Last Updated: 2026-10-22 10:32:17 AM (BD Time)
+#  Live Channels Count: 35
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/AEW%20Night%20Dynamite%20Vs%20AEW%20Night%20Dynamite.jpg" group-title="Boxing", AEW Night Dynamite Vs AEW Night Dynamite - TSN2 SPORTS FHD
@@ -168,11 +168,6 @@ https://chatgpt.hereisman.net/playlist/58399/load-playlist?&.m3u8
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/yjtzafghvjza74.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Instituto%20Atl%C3%A9tico%20Central%20C%C3%B3rdoba%20Vs%20Club%20Atl%C3%A9tico%20Lan%C3%BAs.jpg" group-title="Basketball", Instituto Atlético Central Córdoba Vs Club Atlético Lanús - D SPORTS2 + FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CS%20Cartagin%C3%A9s%20Vs%20CD%20Olimpia.jpg" group-title="Football", CS Cartaginés Vs CD Olimpia - CBS SPORTS FHD
 #EXTVLCOPT:http-referrer=https://amazon.com
