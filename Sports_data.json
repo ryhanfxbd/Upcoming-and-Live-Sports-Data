@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:00:52 PM 22-10-2026",
-  "total_matches": 92,
-  "live_match": 6,
+  "last_update_time": "01:30:46 PM 22-10-2026",
+  "total_matches": 93,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -463,7 +463,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Australia Women Vs New Zealand Women",
       "eventInfo": {
@@ -684,7 +684,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Illawarra Hawks Vs Sydney Kings",
       "eventInfo": {
@@ -705,6 +705,14 @@
         },
         {
           "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -963,6 +971,18 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1137,6 +1157,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1159,6 +1183,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1181,6 +1209,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1203,6 +1235,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1225,6 +1261,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1247,6 +1287,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1269,6 +1313,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1291,6 +1339,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1576,6 +1628,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1598,6 +1654,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1646,6 +1706,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1694,6 +1758,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1716,6 +1784,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1738,6 +1810,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -1809,6 +1885,14 @@
         },
         {
           "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1983,6 +2067,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2005,6 +2093,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2027,6 +2119,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2049,6 +2145,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2071,6 +2171,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2093,6 +2197,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2115,6 +2223,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2137,6 +2249,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2159,6 +2275,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2181,6 +2301,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2203,6 +2327,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2225,6 +2353,10 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
         }
       ]
     },
@@ -2369,9 +2501,37 @@
         "teamB": "The Golazo Show",
         "teamAFlag": "https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg",
         "teamBFlag": "https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg",
-        "eventName": "The Golazo Show",
+        "eventName": "UEFA The Golazo Show",
         "event_logo": "https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg",
         "startTime": "22/10/2026 10:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME + FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Boxing",
+      "event_name": "TNA iMPACT Vs TNA iMPACT",
+      "eventInfo": {
+        "teamA": "TNA iMPACT",
+        "teamB": "TNA iMPACT",
+        "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "eventName": "TNA iMPACT",
+        "event_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "startTime": "23/10/2026 06:00:00 AM"
       },
       "streams": [
         {
