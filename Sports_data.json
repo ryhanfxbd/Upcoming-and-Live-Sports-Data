@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:30:52 PM 22-10-2026",
+  "last_update_time": "10:00:46 PM 22-10-2026",
   "total_matches": 98,
-  "live_match": 11,
+  "live_match": 27,
   "matches": [
     {
       "status": "LIVE",
@@ -33,46 +33,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "fa34fa8c90336dd528c7a23871cad1fe",
           "key": "552a78d1aeb74f1650d68255c5749408"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "22/10/2026 09:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME FHD + GOLF",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "Golf Channel - HD",
-          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-        },
-        {
-          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "ESPN DEPORTES HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "Golf Open de Espana",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -262,33 +222,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Al-Hazem Vs Al-Fayha",
-      "eventInfo": {
-        "teamA": "Al-Hazem",
-        "teamB": "Al-Fayha",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "22/10/2026 07:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4599633.m3u8?txSecret=d4ee6da4d0be0a8fab365a5007c4b68a&txTime=6ADA2222",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/CIIIAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Al-Fateh Vs Al-Shabab",
       "eventInfo": {
         "teamA": "Al-Fateh",
@@ -302,9 +235,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "stream_url": "http://193.47.62.44/hls/BHBHBHA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BHBHBHA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -323,10 +262,40 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5jcc62ose9/out/v1/b7bd945142764506ace50723e8719c14/bf23ef1e-80c8-4af9-b629-b40e9ad4206b-cenc.mpd?aws_sessionId=7e08b817-09a2-49c4-90a3-6c53d514aff5",
+          "kid": "7789cab5f0f9169e17c55f05a15fbbf2",
+          "key": "2b4cfbf24611902d9d1b3351b5e72482"
+        },
+        {
+          "channel_name": "VIX Español FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/5s56vlvtxj/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+          "kid": "a0792c0c9b157d5e6a5239460936ff3b",
+          "key": "459887781ab8b34c993cdd8c124fd3f6"
+        },
+        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
+          "referer": "https://xlz.domainkqt.cc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/280508bb-8145-44c4-b0cc-df22d2c194e0.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SonyLiv (Asia)",
+          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b",
+          "referer": "https://www.sonyliv.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BEEE.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "XTREME + FHD ",
@@ -546,6 +515,46 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "30089c52924f037b225b82c616fee2a5",
           "key": "f55dc8b66ed4fc6753d6035ae7e17144"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
+      "eventInfo": {
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "23/10/2026 09:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME FHD + GOLF",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "Golf Channel - HD",
+          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
+        },
+        {
+          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "ESPN DEPORTES HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "Golf Open de Espana",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -974,7 +983,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Nordsjælland Vs CSKA Sofia",
       "eventInfo": {
@@ -1008,7 +1017,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Iberia 1999 Vs Mjällby AIF",
       "eventInfo": {
@@ -1042,7 +1051,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FK Jablonec Vs Brighton & Hove Albion",
       "eventInfo": {
@@ -1083,7 +1092,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FK Crvena zvezda Vs FC København",
       "eventInfo": {
@@ -1105,7 +1114,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Getafe Vs FC Lugano",
       "eventInfo": {
@@ -1139,7 +1148,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Inter Club d'Escaldes Vs Universitatea Craiova",
       "eventInfo": {
@@ -1173,7 +1182,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Trabzonspor Vs Heart of Midlothian",
       "eventInfo": {
@@ -1207,7 +1216,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FK Kauno Žalgiris Vs SK Brann",
       "eventInfo": {
@@ -1241,7 +1250,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Pafos FC Vs Riga FC",
       "eventInfo": {
@@ -1547,7 +1556,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Lech Poznań Vs Sunderland",
       "eventInfo": {
@@ -1582,7 +1591,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Ferencváros TC Vs Torreense",
       "eventInfo": {
@@ -1616,7 +1625,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "GNK Dinamo Zagreb Vs NEC Nijmegen",
       "eventInfo": {
@@ -1650,7 +1659,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Ararat-Armenia Vs AZ Alkmaar",
       "eventInfo": {
@@ -1684,7 +1693,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Juventus Vs Stade Rennais",
       "eventInfo": {
@@ -1753,7 +1762,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "OFI Crete Vs Bayer 04 Leverkusen",
       "eventInfo": {
@@ -1787,7 +1796,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Royale Union Saint-Gilloise Vs Hapoel Be'er Sheva",
       "eventInfo": {
@@ -1856,7 +1865,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "SK Sturm Graz Vs Olympique de Marseille",
       "eventInfo": {
@@ -3016,7 +3025,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "The Golazo Show Vs The Golazo Show",
       "eventInfo": {
@@ -3304,6 +3313,33 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Al-Hazem Vs Al-Fayha",
+      "eventInfo": {
+        "teamA": "Al-Hazem",
+        "teamB": "Al-Fayha",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "22/10/2026 07:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4599633.m3u8?txSecret=d4ee6da4d0be0a8fab365a5007c4b68a&txTime=6ADA2222",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/CIIIAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     }
