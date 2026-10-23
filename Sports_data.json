@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:15 AM 24-10-2026",
+  "last_update_time": "05:31:14 AM 24-10-2026",
   "total_matches": 111,
-  "live_match": 21,
+  "live_match": 22,
   "matches": [
     {
       "status": "LIVE",
@@ -176,34 +176,6 @@
         },
         {
           "channel_name": "TNT SPORTS HD2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Gimnasia y Esgrima Vs Sarmiento",
-      "eventInfo": {
-        "teamA": "Gimnasia y Esgrima",
-        "teamB": "Sarmiento",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3205/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42338/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "24/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN PREMIUM",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN PREMIUM2",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN HD ",
           "stream_url": ""
         }
       ]
@@ -1030,7 +1002,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Tigre Vs Atlético Tucumán",
       "eventInfo": {
@@ -1345,7 +1317,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Tulsa Golden Hurricane Vs Army Knights",
       "eventInfo": {
@@ -2884,6 +2856,34 @@
         },
         {
           "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Gimnasia y Esgrima Vs Sarmiento",
+      "eventInfo": {
+        "teamA": "Gimnasia y Esgrima",
+        "teamB": "Sarmiento",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3205/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "24/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN PREMIUM",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN PREMIUM2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN HD ",
           "stream_url": ""
         }
       ]
