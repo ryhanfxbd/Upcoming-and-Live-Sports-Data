@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:01:13 AM 24-10-2026",
+  "last_update_time": "01:31:13 AM 24-10-2026",
   "total_matches": 111,
-  "live_match": 32,
+  "live_match": 29,
   "matches": [
     {
       "status": "LIVE",
@@ -555,61 +555,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Boluspor Vs Vanspor FK",
-      "eventInfo": {
-        "teamA": "Boluspor",
-        "teamB": "Vanspor FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6414/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24750/image",
-        "eventName": "Trendyol 1.Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
-        "startTime": "23/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/OOOOAAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/OOOOAAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Alanyaspor Vs Kocaelispor",
-      "eventInfo": {
-        "teamA": "Alanyaspor",
-        "teamB": "Kocaelispor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "23/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4581341.m3u8?txSecret=d4cd5c3a65004080586d36589a6ac096&txTime=6ADBA7AE",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/OOOOAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Go Ahead Eagles Vs SC Telstar",
       "eventInfo": {
         "teamA": "Go Ahead Eagles",
@@ -619,62 +564,6 @@
         "eventName": "VriendenLoterij Eredivisie",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "startTime": "24/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "IF Elfsborg Vs Malmö FF",
-      "eventInfo": {
-        "teamA": "IF Elfsborg",
-        "teamB": "Malmö FF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1762/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1892/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "23/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Västerås SK Vs Halmstads BK",
-      "eventInfo": {
-        "teamA": "Västerås SK",
-        "teamB": "Halmstads BK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1775/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1767/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "23/10/2026 11:00:00 PM"
       },
       "streams": [
         {
@@ -1454,7 +1343,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club Atlético Grau Vs Asociación Deportiva Tarma",
       "eventInfo": {
@@ -3368,6 +3257,117 @@
           "stream_url": "http://193.47.62.44/hls/UUU7AAAAAQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Boluspor Vs Vanspor FK",
+      "eventInfo": {
+        "teamA": "Boluspor",
+        "teamB": "Vanspor FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24750/image",
+        "eventName": "Trendyol 1.Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/OOOOAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/OOOOAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Alanyaspor Vs Kocaelispor",
+      "eventInfo": {
+        "teamA": "Alanyaspor",
+        "teamB": "Kocaelispor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4581341.m3u8?txSecret=d4cd5c3a65004080586d36589a6ac096&txTime=6ADBA7AE",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/OOOOAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "IF Elfsborg Vs Malmö FF",
+      "eventInfo": {
+        "teamA": "IF Elfsborg",
+        "teamB": "Malmö FF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1762/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1892/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Västerås SK Vs Halmstads BK",
+      "eventInfo": {
+        "teamA": "Västerås SK",
+        "teamB": "Halmstads BK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1775/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1767/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
