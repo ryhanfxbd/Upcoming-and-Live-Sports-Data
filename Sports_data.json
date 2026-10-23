@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:31:19 PM 23-10-2026",
+  "last_update_time": "05:01:56 PM 23-10-2026",
   "total_matches": 115,
-  "live_match": 15,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -371,6 +371,86 @@
           "stream_url": "http://193.47.62.59/hls/fddd.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Azam FC Vs Mashujaa FC",
+      "eventInfo": {
+        "teamA": "Azam FC",
+        "teamB": "Mashujaa FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/376323/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "23/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Simba SC Vs Mbeya City FC",
+      "eventInfo": {
+        "teamA": "Simba SC",
+        "teamB": "Mbeya City FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212409/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/212414/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "23/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Singida Black Stars SC Vs TRA United SC",
+      "eventInfo": {
+        "teamA": "Singida Black Stars SC",
+        "teamB": "TRA United SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/353799/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/380759/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "23/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Dodoma Jiji FC Vs Young Africans SC",
+      "eventInfo": {
+        "teamA": "Dodoma Jiji FC",
+        "teamB": "Young Africans SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/360785/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134320/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "23/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -747,7 +827,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "One Friday Fights Vs One Friday Fights",
       "eventInfo": {
@@ -1926,26 +2006,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Azam FC Vs Mashujaa FC",
-      "eventInfo": {
-        "teamA": "Azam FC",
-        "teamB": "Mashujaa FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/212411/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/376323/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "23/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "TRA United SC Vs Young Africans SC",
@@ -1966,46 +2026,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Simba SC Vs Mbeya City FC",
-      "eventInfo": {
-        "teamA": "Simba SC",
-        "teamB": "Mbeya City FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/212409/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/212414/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "23/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Singida Black Stars SC Vs TRA United SC",
-      "eventInfo": {
-        "teamA": "Singida Black Stars SC",
-        "teamB": "TRA United SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/353799/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/380759/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "23/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Polisi Tanzania FC Vs Pamba SC",
@@ -2017,26 +2037,6 @@
         "eventName": "Tanzanian Premier League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
         "startTime": "23/10/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Dodoma Jiji FC Vs Young Africans SC",
-      "eventInfo": {
-        "teamA": "Dodoma Jiji FC",
-        "teamB": "Young Africans SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/360785/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/134320/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "23/10/2026 05:00:00 PM"
       },
       "streams": [
         {
