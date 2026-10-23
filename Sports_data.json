@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:46:46 PM 23-10-2026",
+  "last_update_time": "12:01:19 AM 24-10-2026",
   "total_matches": 111,
-  "live_match": 32,
+  "live_match": 34,
   "matches": [
     {
       "status": "LIVE",
@@ -400,6 +400,30 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Universidad Técnica de Cajamarca Vs Melgar",
+      "eventInfo": {
+        "teamA": "Universidad Técnica de Cajamarca",
+        "teamB": "Melgar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2308/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "24/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LIGA1 MAX ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Club Atlético de Madrid Vs Valencia",
       "eventInfo": {
         "teamA": "Club Atlético de Madrid",
@@ -477,6 +501,34 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Go Ahead Eagles Vs SC Telstar",
+      "eventInfo": {
+        "teamA": "Go Ahead Eagles",
+        "teamB": "SC Telstar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "24/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "IF Elfsborg Vs Malmö FF",
       "eventInfo": {
         "teamA": "IF Elfsborg",
@@ -533,15 +585,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Al-Ittihad Vs Diriyah",
+      "event_name": "Al-Qadsiah Vs Al-Hilal",
       "eventInfo": {
-        "teamA": "Al-Ittihad",
-        "teamB": "Diriyah",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+        "teamA": "Al-Qadsiah",
+        "teamB": "Al-Hilal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
         "eventName": "Saudi Pro League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "23/10/2026 09:30:00 PM"
+        "startTime": "24/10/2026 12:00:00 AM"
       },
       "streams": [
         {
@@ -549,21 +601,28 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
           "kid": "d1a163914db8ffad2c3e94f979896a0d",
           "key": "9728800a3959aafdd5b0bcfbf3768811"
-        },
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Ahli Vs Al-Khaleej",
+      "eventInfo": {
+        "teamA": "Al-Ahli",
+        "teamB": "Al-Khaleej",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "24/10/2026 12:00:00 AM"
+      },
+      "streams": [
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/GGGGQQQQA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "HD QUALITY 4",
-          "stream_url": "https://www.rtmpcdn.com/live/acbc11ca-495e-49bc-9d19-90a61c73a117.m3u8"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -594,6 +653,21 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Argentina U17 Vs Morocco U17",
+      "eventInfo": {
+        "teamA": "Argentina U17",
+        "teamB": "Morocco U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "teamBFlag": "j",
+        "eventName": "FIFA U-17 Women's World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "24/10/2026 12:00:00 AM"
+      },
+      "streams": []
     },
     {
       "status": "UPCOMING",
@@ -1114,7 +1188,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Deportivo Alavés Vs Málaga CF",
       "eventInfo": {
@@ -1174,7 +1248,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Ipswich Town Vs Nottingham Forest",
       "eventInfo": {
@@ -1332,30 +1406,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad Técnica de Cajamarca Vs Melgar",
-      "eventInfo": {
-        "teamA": "Universidad Técnica de Cajamarca",
-        "teamB": "Melgar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/87854/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2308/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "24/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA1 MAX ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA1 MAX 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Club Atlético Grau Vs Asociación Deportiva Tarma",
@@ -1472,34 +1522,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Go Ahead Eagles Vs SC Telstar",
-      "eventInfo": {
-        "teamA": "Go Ahead Eagles",
-        "teamB": "SC Telstar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "24/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
         }
       ]
     },
@@ -2869,50 +2891,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Al-Qadsiah Vs Al-Hilal",
-      "eventInfo": {
-        "teamA": "Al-Qadsiah",
-        "teamB": "Al-Hilal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "24/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "kid": "d1a163914db8ffad2c3e94f979896a0d",
-          "key": "9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ahli Vs Al-Khaleej",
-      "eventInfo": {
-        "teamA": "Al-Ahli",
-        "teamB": "Al-Khaleej",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "24/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Bolton Wanderers Vs Middlesbrough",
       "eventInfo": {
         "teamA": "Bolton Wanderers",
@@ -3183,21 +3161,6 @@
           "stream_url": ""
         }
       ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Argentina U17 Vs Morocco U17",
-      "eventInfo": {
-        "teamA": "Argentina U17",
-        "teamB": "Morocco U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-        "teamBFlag": "j",
-        "eventName": "FIFA U-17 Women's World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "24/10/2026 12:00:00 AM"
-      },
-      "streams": []
     },
     {
       "status": "ENDED",
@@ -3497,6 +3460,43 @@
           "stream_url": "http://193.47.62.55/hls/ssssvAAa.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Al-Ittihad Vs Diriyah",
+      "eventInfo": {
+        "teamA": "Al-Ittihad",
+        "teamB": "Diriyah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "23/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "kid": "d1a163914db8ffad2c3e94f979896a0d",
+          "key": "9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/GGGGQQQQA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/acbc11ca-495e-49bc-9d19-90a61c73a117.m3u8"
         }
       ]
     },
