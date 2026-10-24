@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:02:03 PM 24-10-2026",
+  "last_update_time": "04:31:13 PM 24-10-2026",
   "total_matches": 197,
-  "live_match": 19,
+  "live_match": 28,
   "matches": [
     {
       "status": "LIVE",
@@ -430,6 +430,37 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Eyüpspor Vs Kasımpaşa",
+      "eventInfo": {
+        "teamA": "Eyüpspor",
+        "teamB": "Kasımpaşa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "24/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4581343.m3u8?txSecret=c7cc783a56fb7ac8fbd4ad2449efbc51&txTime=6ADC97F5",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/H777AAAAQQQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Athletic Club Vs Sevilla FC",
       "eventInfo": {
         "teamA": "Athletic Club",
@@ -464,6 +495,26 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Piast Gliwice Vs KS Cracovia",
+      "eventInfo": {
+        "teamA": "Piast Gliwice",
+        "teamB": "KS Cracovia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4901/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "24/10/2026 04:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
         }
       ]
     },
@@ -1012,7 +1063,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Aston Villa Vs Manchester City",
       "eventInfo": {
@@ -1990,7 +2041,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sheffield United Vs Derby County",
       "eventInfo": {
@@ -2030,7 +2081,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Charlton Athletic Vs Norwich City",
       "eventInfo": {
@@ -2101,7 +2152,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Portsmouth Vs Millwall",
       "eventInfo": {
@@ -2270,26 +2321,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Eyüpspor Vs Kasımpaşa",
-      "eventInfo": {
-        "teamA": "Eyüpspor",
-        "teamB": "Kasımpaşa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "24/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Huddersfield Town Vs Wigan Athletic",
       "eventInfo": {
         "teamA": "Huddersfield Town",
@@ -2308,7 +2339,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Luton Town Vs Leicester City",
       "eventInfo": {
@@ -2328,7 +2359,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Bristol Rovers Vs Swindon Town",
       "eventInfo": {
@@ -2348,7 +2379,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Cheltenham Town Vs Newport County",
       "eventInfo": {
@@ -2368,7 +2399,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Northampton Town Vs Colchester United",
       "eventInfo": {
@@ -3460,26 +3491,6 @@
         "eventName": "Ekstraklasa",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
         "startTime": "24/10/2026 06:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Piast Gliwice Vs KS Cracovia",
-      "eventInfo": {
-        "teamA": "Piast Gliwice",
-        "teamB": "KS Cracovia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4901/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "24/10/2026 04:15:00 PM"
       },
       "streams": [
         {
