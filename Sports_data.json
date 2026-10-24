@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:01:12 PM 24-10-2026",
-  "total_matches": 198,
-  "live_match": 60,
+  "last_update_time": "07:31:15 PM 24-10-2026",
+  "total_matches": 203,
+  "live_match": 66,
   "matches": [
     {
       "status": "LIVE",
@@ -144,6 +144,27 @@
         {
           "channel_name": "NFL SERVER SD",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "College GameDay Vs College GameDay",
+      "eventInfo": {
+        "teamA": "College GameDay",
+        "teamB": "College GameDay",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+        "eventName": "College GameDay",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+        "startTime": "24/10/2026 07:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
@@ -411,6 +432,18 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fnfhwm2hoc/out/v1/fff96aa004f94d91b551ac1c7372f1ce/d4cfa5ea-af1c-4eec-9b40-9e51e70d79b1-cenc.mpd?aws_sessionId=7ea2f5a8-b2f7-45ab-991e-1998535b6e12",
+          "kid": "344bb58b08e1a1f6d71e020a345d46e5",
+          "key": "d5170f6bafcfd57b7c7730b3e909f1ac"
+        },
+        {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/0kfjco8cxe/out/v1/ee234bf8b2854366834b938725860805/da85fc0e-0cc3-4ff8-b6b1-e1bc98dfef3d-cenc.mpd?aws_sessionId=62e1e24c-2d63-4cc6-89d4-20347dcc14f0",
+          "kid": "66ffa69081373b65a6326f85d1b26861",
+          "key": "f1ee3e0de844112076748ba184599f1e"
+        },
+        {
           "channel_name": "SPORT1 CZ FHD",
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "kid": "11223344556677889900112233445566",
@@ -426,6 +459,12 @@
           "stream_url": "https://edgestream4.pro/hls/syaLqucEne4k.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/38825fa3-23ba-4810-ba22-9487ceed422b.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -461,6 +500,18 @@
         "startTime": "24/10/2026 07:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/42mkstwque/out/v1/24eef53632ee4f0aa2e42263a56c3d6c/8dc884e7-90e6-4770-8af3-cbdba7468bbe-cenc.mpd?aws_sessionId=7ffdcf43-c0c2-4fff-8af6-768890e1add6",
+          "kid": "8af8f7a94f1fe1463e34b1290d4e32b0",
+          "key": "0ab57ab3bf5dec35749978c217121a2e"
+        },
+        {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/e28czcinfa/out/v1/00d2828855a944ffbbdc15232c4157a9/cb49c2f2-9974-45ac-b99c-24b04ceb2390-cenc.mpd?aws_sessionId=7daa78ed-d2a7-408e-abdf-c1517bea81cf",
+          "kid": "0a2996a4f7b6208968af2a66f88ce31a",
+          "key": "aa32d8b1d895f87e6b0245f9a340e030"
+        },
         {
           "channel_name": "BeIN2 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
@@ -501,108 +552,192 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "1. FC Heidenheim Vs Energie Cottbus",
+      "event_name": "1. FSV Mainz 05 Vs SV Werder Bremen",
       "eventInfo": {
-        "teamA": "1. FC Heidenheim",
-        "teamB": "Energie Cottbus",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "24/10/2026 05:00:00 PM"
+        "teamA": "1. FSV Mainz 05",
+        "teamB": "SV Werder Bremen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "24/10/2026 07:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "FHD STREAM ",
-          "stream_url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
-          "kid": "ab081a704aad41829b1123b09b6ecafd",
-          "key": "dd51609092fff15e68b91debf5d591f9"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4566549.m3u8?txSecret=66ec470c0626971cfae419ddb49a157a&txTime=6ADC9FE5",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.m3u8",
-          "referer": "https://xlz.domainkqt.cc/"
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58487/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQ.m3u8",
+          "stream_url": "http://193.47.62.55/hls/QOOOQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hertha BSC Vs Arminia Bielefeld",
-      "eventInfo": {
-        "teamA": "Hertha BSC",
-        "teamB": "Arminia Bielefeld",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "24/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4566537.m3u8?txSecret=ac6979d34cb35cca289040289b0a756f&txTime=6ADCA01D",
-          "referer": "https://player.online878.com/"
         },
         {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FC Magdeburg Vs Karlsruher SC",
-      "eventInfo": {
-        "teamA": "1. FC Magdeburg",
-        "teamB": "Karlsruher SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "24/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FHD STREAM ",
-          "stream_url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
-          "kid": "50a7f3afc00a40b38face4db639d0e4c",
-          "key": "ad7000691326064706281a700b7d6714"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4566580.m3u8?txSecret=a0caea69ee2eff79a50dd6e4bfe660ff&txTime=6ADCA068",
-          "referer": "https://player.online878.com/"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         },
         {
           "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
-          "referer": "https://xlz.domainkqt.cc/"
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Augsburg Vs 1. FC Union Berlin",
+      "eventInfo": {
+        "teamA": "FC Augsburg",
+        "teamB": "1. FC Union Berlin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "24/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY +",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58488/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQQ.m3u8",
+          "stream_url": "http://193.47.62.55/hls/QOOO.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "SC Paderborn 07 Vs Hamburger SV",
+      "eventInfo": {
+        "teamA": "SC Paderborn 07",
+        "teamB": "Hamburger SV",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "24/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/QOOOQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD SERVER ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD SERVER 2",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD SERVER 3",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "1. FC Köln Vs FC Schalke 04",
+      "eventInfo": {
+        "teamA": "1. FC Köln",
+        "teamB": "FC Schalke 04",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "24/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/QOOOQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "RB Leipzig Vs SV 07 Elversberg",
+      "eventInfo": {
+        "teamA": "RB Leipzig",
+        "teamB": "SV 07 Elversberg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "24/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/QOOOQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -984,7 +1119,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/J111Q.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/J111Q.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -1106,28 +1249,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Migori Vs Mathare Utd",
-      "eventInfo": {
-        "teamA": "Migori",
-        "teamB": "Mathare Utd",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "eventName": "Kenya Premier League",
-        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "startTime": "24/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Golden Arrows Vs Chippa Utd",
       "eventInfo": {
         "teamA": "Golden Arrows",
@@ -1170,6 +1291,146 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.59/hls/J111.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cremonese Vs Juve Stabia",
+      "eventInfo": {
+        "teamA": "Cremonese",
+        "teamB": "Juve Stabia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5324/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "24/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.55/hls/DPPPQQQAAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/DPPPQQQAAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Virtus Entella Vs Mantova",
+      "eventInfo": {
+        "teamA": "Virtus Entella",
+        "teamB": "Mantova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/43680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2770/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "24/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.55/hls/T000.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/T000.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Südtirol Vs Sampdoria",
+      "eventInfo": {
+        "teamA": "Südtirol",
+        "teamB": "Sampdoria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2760/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2711/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "24/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.55/hls/T000AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/T000AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Modena Vs Cesena",
+      "eventInfo": {
+        "teamA": "Modena",
+        "teamB": "Cesena",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2706/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2742/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "24/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.55/hls/T000A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/T000A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "US Avellino 1912 Vs Padova",
+      "eventInfo": {
+        "teamA": "US Avellino 1912",
+        "teamB": "Padova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2730/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2741/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "24/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.55/hls/DPPPQQQAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/DPPPQQQAAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -1586,27 +1847,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "College GameDay Vs College GameDay",
-      "eventInfo": {
-        "teamA": "College GameDay",
-        "teamB": "College GameDay",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
-        "eventName": "College GameDay",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
-        "startTime": "24/10/2026 07:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Motorsports",
       "event_name": "MotorGP Vs MotorGP",
@@ -1680,6 +1920,11 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "36a385124dcdfb2f0969935065e03afa",
           "key": "ccecd65514dff22eae493b975ccf9a9e"
+        },
+        {
+          "channel_name": "USA NETWORK + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58489/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "STREAMING + HD",
@@ -1770,7 +2015,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Real Racing Club Vs Espanyol",
       "eventInfo": {
@@ -1958,7 +2203,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Leganés Vs Mallorca",
       "eventInfo": {
@@ -2243,7 +2488,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CF Estrela Amadora Vs Casa Pia",
       "eventInfo": {
@@ -2323,34 +2568,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FSV Mainz 05 Vs SV Werder Bremen",
-      "eventInfo": {
-        "teamA": "1. FSV Mainz 05",
-        "teamB": "SV Werder Bremen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "24/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Borussia Dortmund Vs Eintracht Frankfurt",
@@ -2414,118 +2631,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
           "kid": "335dad778109954503dcbb21dc92015f",
           "key": "24bfd75d436cbf73168a2a2dccd40281"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Augsburg Vs 1. FC Union Berlin",
-      "eventInfo": {
-        "teamA": "FC Augsburg",
-        "teamB": "1. FC Union Berlin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "24/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "SC Paderborn 07 Vs Hamburger SV",
-      "eventInfo": {
-        "teamA": "SC Paderborn 07",
-        "teamB": "Hamburger SV",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "24/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FC Köln Vs FC Schalke 04",
-      "eventInfo": {
-        "teamA": "1. FC Köln",
-        "teamB": "FC Schalke 04",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "24/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD Stream ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "RB Leipzig Vs SV 07 Elversberg",
-      "eventInfo": {
-        "teamA": "RB Leipzig",
-        "teamB": "SV 07 Elversberg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "24/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD STREAM ",
-          "stream_url": ""
         }
       ]
     },
@@ -3185,7 +3290,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Utrecht Vs PEC Zwolle",
       "eventInfo": {
@@ -4044,7 +4149,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Leicester Tigers Vs Northampton Saints",
       "eventInfo": {
@@ -4759,6 +4864,11 @@
           "key": "567c863bc12eb74788ea74888c042e1b"
         },
         {
+          "channel_name": "SERVER + 3HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58494/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "STREAM TV + HD ",
           "stream_url": "https://edgestream3.pro/hls/zeuryuegn48.m3u8?",
           "referer": "https://streamscenter.online/",
@@ -4778,6 +4888,11 @@
         {
           "channel_name": "UFC TV 2",
           "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8"
+        },
+        {
+          "channel_name": "SERVER + HD4",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58495/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
@@ -5623,6 +5738,114 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "1. FC Heidenheim Vs Energie Cottbus",
+      "eventInfo": {
+        "teamA": "1. FC Heidenheim",
+        "teamB": "Energie Cottbus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FHD STREAM ",
+          "stream_url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
+          "kid": "ab081a704aad41829b1123b09b6ecafd",
+          "key": "dd51609092fff15e68b91debf5d591f9"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4566549.m3u8?txSecret=66ec470c0626971cfae419ddb49a157a&txTime=6ADC9FE5",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.m3u8",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Hertha BSC Vs Arminia Bielefeld",
+      "eventInfo": {
+        "teamA": "Hertha BSC",
+        "teamB": "Arminia Bielefeld",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4566537.m3u8?txSecret=ac6979d34cb35cca289040289b0a756f&txTime=6ADCA01D",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "1. FC Magdeburg Vs Karlsruher SC",
+      "eventInfo": {
+        "teamA": "1. FC Magdeburg",
+        "teamB": "Karlsruher SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FHD STREAM ",
+          "stream_url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "kid": "50a7f3afc00a40b38face4db639d0e4c",
+          "key": "ad7000691326064706281a700b7d6714"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4566580.m3u8?txSecret=a0caea69ee2eff79a50dd6e4bfe660ff&txTime=6ADCA068",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Eyüpspor Vs Kasımpaşa",
       "eventInfo": {
         "teamA": "Eyüpspor",
@@ -5816,6 +6039,28 @@
         {
           "channel_name": "SD Stream ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Migori Vs Mathare Utd",
+      "eventInfo": {
+        "teamA": "Migori",
+        "teamB": "Mathare Utd",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "eventName": "Kenya Premier League",
+        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     }
