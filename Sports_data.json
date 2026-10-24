@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:31:10 AM 24-10-2026",
+  "last_update_time": "12:01:11 PM 24-10-2026",
   "total_matches": 214,
   "live_match": 19,
   "matches": [
@@ -355,6 +355,34 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Adelaide United Vs Perth Glory",
+      "eventInfo": {
+        "teamA": "Adelaide United",
+        "teamB": "Perth Glory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174076/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "24/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/R9999A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/R9999A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Central Coast Mariners Vs Canberra United",
       "eventInfo": {
         "teamA": "Central Coast Mariners",
@@ -383,26 +411,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Western Sydney Wanderers Vs Brisbane Roar",
+      "event_name": "Western Sydney Wanderers Vs Auckland FC",
       "eventInfo": {
         "teamA": "Western Sydney Wanderers",
-        "teamB": "Brisbane Roar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174078/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "24/10/2026 09:15:00 AM"
+        "teamB": "Auckland FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/72926/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/800224/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "24/10/2026 12:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/R555.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "69a5aa835a061ce64a630d1046727e40",
+          "key": "d02feac8a999bd06bf4059bf33411749"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R555.m3u8",
+          "stream_url": "http://193.47.62.44/hls/R9999.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -432,45 +461,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/R555QQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Stanford Cardinal Vs North Carolina State Wolfpack",
-      "eventInfo": {
-        "teamA": "Stanford Cardinal",
-        "teamB": "North Carolina State Wolfpack",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4379/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188107/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "24/10/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58483/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://edgestream2.pro/hls/uheyztezgj34.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://cdn.streame.center/hls/uheyztezgj34.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JUUUQQQAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -609,6 +599,26 @@
           "stream_url": "http://193.47.62.59/hls/fddd.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Japan Vs Venezuela",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Venezuela",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7418/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
+        "eventName": "WORLD FRIENDLY",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+        "startTime": "24/10/2026 11:50:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "bein 5ar"
         }
       ]
     },
@@ -811,22 +821,19 @@
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY +",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58152/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "AEW TV HD",
           "stream_url": "https://admin2.formaturamaxi.com.br/aew.m3u8"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/H555.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         },
         {
           "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         },
         {
@@ -840,14 +847,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
           "kid": "9f327d24c66fbd84e15ab5c9ead7c7a4",
           "key": "83837185529c0c4048f81386c2d36426"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
         }
       ]
     },
@@ -900,63 +899,6 @@
           "channel_name": "Link 1",
           "stream_url": "https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Adelaide United Vs Perth Glory",
-      "eventInfo": {
-        "teamA": "Adelaide United",
-        "teamB": "Perth Glory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174076/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "24/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/R9999A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R9999A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Western Sydney Wanderers Vs Auckland FC",
-      "eventInfo": {
-        "teamA": "Western Sydney Wanderers",
-        "teamB": "Auckland FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/72926/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/800224/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "24/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "69a5aa835a061ce64a630d1046727e40",
-          "key": "d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R9999.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -1032,7 +974,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "England Vs France",
       "eventInfo": {
@@ -1105,7 +1047,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "New Zealand Vs India",
       "eventInfo": {
@@ -1185,6 +1127,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -1204,6 +1154,14 @@
       "streams": [
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
           "stream_url": ""
         }
       ]
@@ -1246,6 +1204,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1265,6 +1231,14 @@
       "streams": [
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
           "stream_url": ""
         }
       ]
@@ -1300,6 +1274,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -1330,6 +1312,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "34475edab991ad5e92548aebd710410a",
           "key": "501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -1404,6 +1390,14 @@
         },
         {
           "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
           "stream_url": ""
         }
       ]
@@ -1555,6 +1549,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "kid": "d9623774ac5c8c351aafe97c5fe70267",
           "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -1628,6 +1626,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1654,6 +1660,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -1672,8 +1686,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -1886,6 +1900,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1916,6 +1938,14 @@
         },
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1959,6 +1989,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -1978,6 +2016,14 @@
       "streams": [
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1999,6 +2045,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -2018,6 +2072,14 @@
       "streams": [
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
           "stream_url": ""
         }
       ]
@@ -2495,8 +2557,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": ""
         }
       ]
     },
@@ -2515,8 +2585,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": ""
         }
       ]
     },
@@ -2535,8 +2613,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": ""
         }
       ]
     },
@@ -2555,8 +2641,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": ""
         }
       ]
     },
@@ -2575,8 +2669,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": ""
         }
       ]
     },
@@ -2595,8 +2697,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -2615,8 +2725,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream  ",
+          "stream_url": ""
         }
       ]
     },
@@ -2635,8 +2753,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": ""
         }
       ]
     },
@@ -2655,8 +2781,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -2675,8 +2809,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -2695,8 +2837,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -2715,8 +2865,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -2735,8 +2893,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": ""
         }
       ]
     },
@@ -2755,8 +2921,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -2774,6 +2948,10 @@
         "startTime": "25/10/2026 07:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
         {
           "channel_name": "TUDN US ",
           "stream_url": ""
@@ -2799,6 +2977,10 @@
       },
       "streams": [
         {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
           "channel_name": "TUDN US ",
           "stream_url": ""
         },
@@ -2823,8 +3005,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -2845,6 +3027,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -2863,8 +3053,16 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -2883,8 +3081,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         }
       ]
     },
@@ -3522,6 +3720,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -3540,11 +3746,15 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         },
         {
-          "channel_name": "XTREME + FHD",
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -3566,6 +3776,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
         }
       ]
     },
@@ -3585,6 +3803,14 @@
       "streams": [
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -4187,6 +4413,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 2",
+          "stream_url": ""
         }
       ]
     },
@@ -4212,6 +4446,14 @@
         },
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
           "stream_url": ""
         }
       ]
@@ -4252,6 +4494,14 @@
         },
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
           "stream_url": ""
         }
       ]
@@ -4308,6 +4558,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD 2",
+          "stream_url": ""
         }
       ]
     },
@@ -4333,6 +4591,14 @@
         },
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 2",
           "stream_url": ""
         }
       ]
@@ -4386,6 +4652,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 2",
+          "stream_url": ""
         }
       ]
     },
@@ -4411,6 +4685,14 @@
         },
         {
           "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream 2",
           "stream_url": ""
         }
       ]
@@ -5000,26 +5282,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Japan Vs Venezuela",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Venezuela",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7418/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-        "eventName": "WORLD FRIENDLY",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-        "startTime": "24/10/2026 11:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "bein 5ar"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "FC Argeș Pitești Vs UTA Arad",
@@ -5102,6 +5364,14 @@
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
         }
       ]
     },
@@ -5141,6 +5411,14 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
           "stream_url": ""
         }
       ]
@@ -5459,6 +5737,73 @@
         {
           "channel_name": "TUDN US 2",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Western Sydney Wanderers Vs Brisbane Roar",
+      "eventInfo": {
+        "teamA": "Western Sydney Wanderers",
+        "teamB": "Brisbane Roar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174078/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "24/10/2026 09:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/R555.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/R555.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Stanford Cardinal Vs North Carolina State Wolfpack",
+      "eventInfo": {
+        "teamA": "Stanford Cardinal",
+        "teamB": "North Carolina State Wolfpack",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4379/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188107/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "24/10/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58483/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://edgestream2.pro/hls/uheyztezgj34.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://cdn.streame.center/hls/uheyztezgj34.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JUUUQQQAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
