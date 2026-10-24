@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:31:13 PM 24-10-2026",
+  "last_update_time": "04:02:03 PM 24-10-2026",
   "total_matches": 197,
-  "live_match": 16,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -424,6 +424,46 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
           "key": "22a1444b3da18e139191665b3d652835"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Athletic Club Vs Sevilla FC",
+      "eventInfo": {
+        "teamA": "Athletic Club",
+        "teamB": "Sevilla FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77877/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77903/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "24/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Sociedad Vs RCD Espanyol de Barcelona",
+      "eventInfo": {
+        "teamA": "Real Sociedad",
+        "teamB": "RCD Espanyol de Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77897/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "24/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -1890,7 +1930,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "1. FC Heidenheim Vs Energie Cottbus",
       "eventInfo": {
@@ -1910,7 +1950,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hertha BSC Vs Arminia Bielefeld",
       "eventInfo": {
@@ -1930,7 +1970,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "1. FC Magdeburg Vs Karlsruher SC",
       "eventInfo": {
@@ -3118,26 +3158,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Athletic Club Vs Sevilla FC",
-      "eventInfo": {
-        "teamA": "Athletic Club",
-        "teamB": "Sevilla FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77877/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77903/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "24/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Logroño United Vs FC Badalona Women",
@@ -3169,26 +3189,6 @@
         "eventName": "Liga F Moeve",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
         "startTime": "24/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Real Sociedad Vs RCD Espanyol de Barcelona",
-      "eventInfo": {
-        "teamA": "Real Sociedad",
-        "teamB": "RCD Espanyol de Barcelona",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77897/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/38323/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "24/10/2026 04:00:00 PM"
       },
       "streams": [
         {
