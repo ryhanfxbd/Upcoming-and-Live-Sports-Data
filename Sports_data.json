@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:13 PM 24-10-2026",
+  "last_update_time": "09:01:12 PM 24-10-2026",
   "total_matches": 203,
   "live_match": 62,
   "matches": [
@@ -408,17 +408,29 @@
           "key": "22a1444b3da18e139191665b3d652835"
         },
         {
+          "channel_name": "STREAMING + HD",
+          "stream_url": "https://edgestream1.pro/hls/377qj1h2727.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/35f5107c-325e-4b98-a967-4ab09173c397.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/h444QQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "D SPORTS + FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "f836853d8eac19446ed9535f5fc568b1",
           "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "STREAMING + HD",
-          "stream_url": "https://edgestream1.pro/hls/377qj1h2727.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "CAZE TV FHD",
@@ -466,6 +478,12 @@
           "channel_name": "HD QUALITY ",
           "stream_url": "https://live.vivo155.com/live/sd-1-4567331.m3u8?txSecret=7f35a2d9244f2fbf7516aacf05dcc991&txTime=6ADCD464",
           "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "LALIGA HYP HD",
@@ -625,7 +643,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/SSSS.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/SSSS.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -664,6 +690,12 @@
         "startTime": "24/10/2026 07:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "MBC SPORTS",
+          "stream_url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "kid": "50a7f3afc00a40b38face4db639d0e4c",
+          "key": "ad7000691326064706281a700b7d6714"
+        },
         {
           "channel_name": "HD QUALITY + LIVE",
           "stream_url": "https://live.vivo155.com/live/hd-en-1-4566346.m3u8?txSecret=14796f9ec654cc52ec7f7947571db1d9&txTime=6ADCC5B3",
@@ -720,6 +752,12 @@
         "startTime": "24/10/2026 07:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "MBC SPORTS",
+          "stream_url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
+          "kid": "ab081a704aad41829b1123b09b6ecafd",
+          "key": "dd51609092fff15e68b91debf5d591f9"
+        },
         {
           "channel_name": "HD QUALITY + LIVE",
           "stream_url": "https://live.vivo155.com/live/hd-en-1-4566343.m3u8?txSecret=ab3af627f4ab1ee2dc12e6ed71dd99a4&txTime=6ADCC60A",
@@ -829,6 +867,12 @@
         "startTime": "24/10/2026 07:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "MBC SPORTS",
+          "stream_url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd",
+          "kid": "2b6f6b340aa8467785e4e82f9320fb5a",
+          "key": "8889701d704078c4d910ed1409413d9b"
+        },
         {
           "channel_name": "HD QUALITY + LIVE",
           "stream_url": "https://live.vivo155.com/live/hd-en-1-4566349.m3u8?txSecret=130508055d822bd9ec351dfe46622500&txTime=6ADCC5F6",
@@ -988,10 +1032,15 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4v10weyir8/out/v1/f94c0c58110b4ccbba0cd95ec82e011c/02b52cb1-17f5-4ec7-bb60-ef7ddbca286b-cenc.mpd?aws_sessionId=a6b2f1ea-47dc-4500-954c-404485ebd507",
+          "kid": "854a9dc727b636af6d3da097120c9fc1",
+          "key": "90a52db723c66b0769d8931672711e73"
+        },
+        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/MMMMAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://live.vivo155.com/live/sd-1-4563646.m3u8?txSecret=9bd6cf08ef9c259211cfe6f93f6dd208&txTime=6ADCC8EC",
+          "referer": "https://player.online878.com/"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -1197,6 +1246,12 @@
         "startTime": "24/10/2026 08:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/SSSSQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
@@ -1563,35 +1618,6 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
-      "event_name": "Vodacom Bulls XV Vs Ulster Rugby",
-      "eventInfo": {
-        "teamA": "Vodacom Bulls XV",
-        "teamB": "Ulster Rugby",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245501/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4211/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "24/10/2026 05:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
       "event_name": "Leicester Tigers Vs Northampton Saints",
       "eventInfo": {
         "teamA": "Leicester Tigers",
@@ -1711,6 +1737,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd",
           "kid": "a49085f8da5e65af1efff0edac830b1f",
           "key": "4659bc58a85c062e3fe0c039a446fe47"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/h555.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -1746,15 +1778,70 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "FK Csíkszereda Miercurea Ciuc Vs FC Voluntari",
+      "event_name": "Brazil U17 Vs Norway U17",
       "eventInfo": {
-        "teamA": "FK Csíkszereda Miercurea Ciuc",
-        "teamB": "FC Voluntari",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/283972/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/44255/image",
+        "teamA": "Brazil U17",
+        "teamB": "Norway U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6044/image",
+        "eventName": "FIFA U-17 Women's World Cup",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
+        "startTime": "24/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "kid": "09453ce820d65fbc675de3185f9e454c",
+          "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ghana U17 Vs Canada U17",
+      "eventInfo": {
+        "teamA": "Ghana U17",
+        "teamB": "Canada U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/44565/image/small",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
+        "eventName": "FIFA U-17 Women's World Cup",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
+        "startTime": "24/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Argeș Pitești Vs UTA Arad",
+      "eventInfo": {
+        "teamA": "FC Argeș Pitești",
+        "teamB": "UTA Arad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/204657/image",
         "eventName": "SuperLiga României",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "24/10/2026 06:30:00 PM"
+        "startTime": "24/10/2026 09:00:00 PM"
       },
       "streams": [
         {
@@ -2699,7 +2786,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "SSC Napoli Vs AS Roma",
       "eventInfo": {
@@ -2985,7 +3072,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Samsunspor Vs Amed Sportif Faaliyetler",
       "eventInfo": {
@@ -5105,61 +5192,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Brazil U17 Vs Norway U17",
-      "eventInfo": {
-        "teamA": "Brazil U17",
-        "teamB": "Norway U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6044/image",
-        "eventName": "FIFA U-17 Women's World Cup",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
-        "startTime": "24/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS2 + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
-          "key": "ea07b87acdf2e45be824cde4a1cf3504"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "kid": "09453ce820d65fbc675de3185f9e454c",
-          "key": "98cff9600995fa381c76fdacf3c7edae"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ghana U17 Vs Canada U17",
-      "eventInfo": {
-        "teamA": "Ghana U17",
-        "teamB": "Canada U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/44565/image/small",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
-        "eventName": "FIFA U-17 Women's World Cup",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
-        "startTime": "24/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Brighton Vs West Ham",
@@ -5193,28 +5225,6 @@
         "eventName": "Women's Super League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
         "startTime": "25/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Argeș Pitești Vs UTA Arad",
-      "eventInfo": {
-        "teamA": "FC Argeș Pitești",
-        "teamB": "UTA Arad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/204657/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "24/10/2026 09:00:00 PM"
       },
       "streams": [
         {
@@ -6300,6 +6310,35 @@
     },
     {
       "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Vodacom Bulls XV Vs Ulster Rugby",
+      "eventInfo": {
+        "teamA": "Vodacom Bulls XV",
+        "teamB": "Ulster Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245501/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4211/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "24/10/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Other",
       "event_name": "ALPINE SKI Vs ALPINE SKI",
       "eventInfo": {
@@ -6359,6 +6398,28 @@
           "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FK Csíkszereda Miercurea Ciuc Vs FC Voluntari",
+      "eventInfo": {
+        "teamA": "FK Csíkszereda Miercurea Ciuc",
+        "teamB": "FC Voluntari",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/283972/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/44255/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "24/10/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
