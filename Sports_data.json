@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:31:11 PM 24-10-2026",
-  "total_matches": 178,
-  "live_match": 54,
+  "last_update_time": "12:01:30 AM 25-10-2026",
+  "total_matches": 179,
+  "live_match": 60,
   "matches": [
     {
       "status": "LIVE",
@@ -190,7 +190,7 @@
         },
         {
           "channel_name": "FORMULA TV HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/f1.m3u8"
+          "stream_url": "https://temp.formaturamaxi.com.br/f1.m3u8"
         },
         {
           "channel_name": "FORMULA + HD",
@@ -289,7 +289,7 @@
       "eventInfo": {
         "teamA": "Namungo",
         "teamB": "Coastal Union",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/212413/image",
         "eventName": "Tanzanian Premier League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
@@ -602,6 +602,30 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Sport Huancayo Vs Alianza Atlético de Sullana",
+      "eventInfo": {
+        "teamA": "Sport Huancayo",
+        "teamB": "Alianza Atlético de Sullana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33895/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2307/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "24/10/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LIGA1 MAX ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LIGA1 MAX 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "FC Alverca Vs FC Arouca",
       "eventInfo": {
         "teamA": "FC Alverca",
@@ -622,6 +646,34 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.55/hls/duuuuQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Riyadh Vs Al-Taawoun",
+      "eventInfo": {
+        "teamA": "Al-Riyadh",
+        "teamB": "Al-Taawoun",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "25/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/dooooAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/dooooAAAAQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -722,6 +774,22 @@
         "startTime": "24/10/2026 11:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "MLS TV HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58518/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "MLS HD TV 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58518/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/WAWAWAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
@@ -828,115 +896,24 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportes La Serena Vs Deportes Concepción",
+      "Category": "Rugby",
+      "event_name": "Ospreys Vs Dragons",
       "eventInfo": {
-        "teamA": "Deportes La Serena",
-        "teamB": "Deportes Concepción",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5031/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3160/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "24/10/2026 09:30:00 PM"
+        "teamA": "Ospreys",
+        "teamB": "Dragons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8082/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8084/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "25/10/2026 12:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Pogoń Szczecin Vs Radomiak Radom",
-      "eventInfo": {
-        "teamA": "Pogoń Szczecin",
-        "teamB": "Radomiak Radom",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3117/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7295/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "24/10/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/btbtbtqqqqqqqaaa.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Djurgårdens IF Vs Örgryte IS",
-      "eventInfo": {
-        "teamA": "Djurgårdens IF",
-        "teamB": "Örgryte IS",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1759/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1766/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "24/10/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/T000AAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD STREAM ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kalmar FF Vs IF Brommapojkarna",
-      "eventInfo": {
-        "teamA": "Kalmar FF",
-        "teamB": "IF Brommapojkarna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1891/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1787/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "24/10/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/T000AAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
         }
       ]
     },
@@ -1205,6 +1182,48 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Zambia U17 Vs France U17",
+      "eventInfo": {
+        "teamA": "Zambia U17",
+        "teamB": "France U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/191166/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37866/image",
+        "eventName": "FIFA U-17 Women's World Cup",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
+        "startTime": "25/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Venezuela U17 Vs Japan U17",
+      "eventInfo": {
+        "teamA": "Venezuela U17",
+        "teamB": "Japan U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4722/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7418/image",
+        "eventName": "FIFA U-17 Women's World Cup",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
+        "startTime": "25/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Brighton Vs West Ham",
       "eventInfo": {
         "teamA": "Brighton",
@@ -1227,6 +1246,28 @@
           "stream_url": "http://193.47.62.55/hls/cfffaAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FCSB Vs FC Rapid București",
+      "eventInfo": {
+        "teamA": "FCSB",
+        "teamB": "FC Rapid București",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3301/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/295403/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "25/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
         }
       ]
     },
@@ -1664,6 +1705,34 @@
       ]
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Arezzo Vs Benevento",
+      "eventInfo": {
+        "teamA": "Arezzo",
+        "teamB": "Benevento",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2731/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2759/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "24/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.55/hls/WAWAWAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/WAWAWAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Real Madrid Vs Barcelona",
@@ -2032,7 +2101,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlético Madrid Vs Deportivo de A Coruña",
       "eventInfo": {
@@ -2079,7 +2148,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Almería Vs Real Oviedo",
       "eventInfo": {
@@ -2103,7 +2172,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Lazio Vs Parma",
       "eventInfo": {
@@ -2137,7 +2206,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "RC Lens Vs Paris FC",
       "eventInfo": {
@@ -2168,30 +2237,6 @@
         "eventName": "Liga 1 Te Apuesto",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
         "startTime": "25/10/2026 02:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LIGA1 MAX ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "LIGA1 MAX 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sport Huancayo Vs Alianza Atlético de Sullana",
-      "eventInfo": {
-        "teamA": "Sport Huancayo",
-        "teamB": "Alianza Atlético de Sullana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33895/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2307/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "24/10/2026 11:45:00 PM"
       },
       "streams": [
         {
@@ -2240,26 +2285,6 @@
         "eventName": "Liga Portugal Betclic",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
         "startTime": "25/10/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Riyadh Vs Al-Taawoun",
-      "eventInfo": {
-        "teamA": "Al-Riyadh",
-        "teamB": "Al-Taawoun",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "25/10/2026 12:00:00 AM"
       },
       "streams": [
         {
@@ -2731,7 +2756,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "ADO Den Haag Vs SC Heerenveen",
       "eventInfo": {
@@ -2917,7 +2942,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "KVC Westerlo Vs SK Beveren",
       "eventInfo": {
@@ -2937,7 +2962,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "RAAL La Louvière Vs SV Zulte Waregem",
       "eventInfo": {
@@ -3084,6 +3109,12 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/dooooAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -3184,29 +3215,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Ospreys Vs Dragons",
-      "eventInfo": {
-        "teamA": "Ospreys",
-        "teamB": "Dragons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8082/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8084/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "25/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
         }
       ]
     },
@@ -3737,7 +3745,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Saskatchewan Roughriders Vs Edmonton Elks",
       "eventInfo": {
@@ -3773,7 +3781,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Hamilton Tiger-Cats Vs Ottawa Redblacks",
       "eventInfo": {
@@ -4055,48 +4063,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Zambia U17 Vs France U17",
-      "eventInfo": {
-        "teamA": "Zambia U17",
-        "teamB": "France U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/191166/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37866/image",
-        "eventName": "FIFA U-17 Women's World Cup",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
-        "startTime": "25/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Venezuela U17 Vs Japan U17",
-      "eventInfo": {
-        "teamA": "Venezuela U17",
-        "teamB": "Japan U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7418/image",
-        "eventName": "FIFA U-17 Women's World Cup",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/827/image",
-        "startTime": "25/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS2 + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
-          "key": "ea07b87acdf2e45be824cde4a1cf3504"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Crystal Palace Vs Chelsea FC",
@@ -4115,28 +4081,6 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FCSB Vs FC Rapid București",
-      "eventInfo": {
-        "teamA": "FCSB",
-        "teamB": "FC Rapid București",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3301/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/295403/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "25/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
         }
       ]
     },
@@ -5393,6 +5337,120 @@
           "stream_url": "http://193.47.62.55/hls/I999QQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Deportes La Serena Vs Deportes Concepción",
+      "eventInfo": {
+        "teamA": "Deportes La Serena",
+        "teamB": "Deportes Concepción",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5031/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3160/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "24/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Pogoń Szczecin Vs Radomiak Radom",
+      "eventInfo": {
+        "teamA": "Pogoń Szczecin",
+        "teamB": "Radomiak Radom",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3117/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7295/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "24/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/btbtbtqqqqqqqaaa.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Djurgårdens IF Vs Örgryte IS",
+      "eventInfo": {
+        "teamA": "Djurgårdens IF",
+        "teamB": "Örgryte IS",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1759/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1766/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "24/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/T000AAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Kalmar FF Vs IF Brommapojkarna",
+      "eventInfo": {
+        "teamA": "Kalmar FF",
+        "teamB": "IF Brommapojkarna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1891/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1787/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "24/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/T000AAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
