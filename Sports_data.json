@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:31:10 AM 25-10-2026",
+  "last_update_time": "07:01:12 AM 25-10-2026",
   "total_matches": 150,
-  "live_match": 58,
+  "live_match": 59,
   "matches": [
     {
       "status": "LIVE",
@@ -560,6 +560,34 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "CF Monterrey Vs CD Guadalajara",
+      "eventInfo": {
+        "teamA": "CF Monterrey",
+        "teamB": "CD Guadalajara",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "25/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TUDN US 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Club León Vs CD Toluca",
       "eventInfo": {
         "teamA": "Club León",
@@ -657,6 +685,46 @@
       "streams": [
         {
           "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Utah Mammoth Vs Tampa Bay Lightning",
+      "eventInfo": {
+        "teamA": "Utah Mammoth",
+        "teamB": "Tampa Bay Lightning",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "25/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + NHL",
+          "stream_url": "https://edgestream3.pro/hls/bvnzadfvyt59.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream3.pro/hls/bvnzadfvyt59.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME FHD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -1140,39 +1208,31 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Charlotte Hornets Vs Miami Heat",
+      "event_name": "Denver Nuggets Vs New Orleans Pelicans",
       "eventInfo": {
-        "teamA": "Charlotte Hornets",
-        "teamB": "Miami Heat",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "teamA": "Denver Nuggets",
+        "teamB": "New Orleans Pelicans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
         "eventName": "NBA",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "25/10/2026 04:00:00 AM"
+        "startTime": "25/10/2026 07:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + NBA",
-          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8",
           "referer": "https://embedcenter.st",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
+          "stream_url": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD Stream 2",
           "stream_url": ""
         }
       ]
@@ -1282,23 +1342,22 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Denver Summit FC Vs Racing Louisville",
+      "event_name": "Angel City FC Vs Bay FC",
       "eventInfo": {
-        "teamA": "Denver Summit FC",
-        "teamB": "Racing Louisville",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1165117/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/377825/image",
+        "teamA": "Angel City FC",
+        "teamB": "Bay FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/408169/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/505655/image",
         "eventName": "NWSL",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "25/10/2026 04:30:00 AM"
+        "startTime": "25/10/2026 06:45:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "key": "17d2ac8dbc5429bd70af3433aa12158d"
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -1323,28 +1382,6 @@
         {
           "channel_name": "WIN SPORTS+2",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CS 2 de Mayo Vs Recoleta FC",
-      "eventInfo": {
-        "teamA": "CS 2 de Mayo",
-        "teamB": "Recoleta FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5992/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
-        "eventName": "Primera División",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "25/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -1392,30 +1429,6 @@
           "stream_url": "https://edgestream7.pro/hls/dazhfiach15.m3u8",
           "referer": "https://embedcenter.st",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "San Lorenzo Vs Newell's Old Boys",
-      "eventInfo": {
-        "teamA": "San Lorenzo",
-        "teamB": "Newell's Old Boys",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3201/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3212/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "25/10/2026 04:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT SPORTS HD2",
-          "stream_url": ""
         }
       ]
     },
@@ -2135,34 +2148,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CF Monterrey Vs CD Guadalajara",
-      "eventInfo": {
-        "teamA": "CF Monterrey",
-        "teamB": "CD Guadalajara",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1938/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "25/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TUDN US 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Pumas UNAM Vs Tigres UANL",
@@ -2191,7 +2176,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Wellington Phoenix Vs Central Coast Mariners",
       "eventInfo": {
@@ -2322,46 +2307,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Utah Mammoth Vs Tampa Bay Lightning",
-      "eventInfo": {
-        "teamA": "Utah Mammoth",
-        "teamB": "Tampa Bay Lightning",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "25/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + NHL",
-          "stream_url": "https://edgestream3.pro/hls/bvnzadfvyt59.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream3.pro/hls/bvnzadfvyt59.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "Seattle Kraken Vs Minnesota Wild",
       "eventInfo": {
         "teamA": "Seattle Kraken",
@@ -2406,7 +2351,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Calgary Flames Vs Detroit Red Wings",
       "eventInfo": {
@@ -2448,38 +2393,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs New Orleans Pelicans",
-      "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "New Orleans Pelicans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "25/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + NBA",
-          "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Phoenix Suns Vs Golden State Warriors",
       "eventInfo": {
         "teamA": "Phoenix Suns",
@@ -2514,28 +2427,6 @@
         {
           "channel_name": "HD 2",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Angel City FC Vs Bay FC",
-      "eventInfo": {
-        "teamA": "Angel City FC",
-        "teamB": "Bay FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/408169/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/505655/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "25/10/2026 06:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ]
     },
@@ -2742,7 +2633,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "New Mexico Lobos Vs North Dakota State Bison",
       "eventInfo": {
@@ -4043,6 +3934,46 @@
     },
     {
       "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Charlotte Hornets Vs Miami Heat",
+      "eventInfo": {
+        "teamA": "Charlotte Hornets",
+        "teamB": "Miami Heat",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "25/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + NBA",
+          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream 2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "American football",
       "event_name": "Saskatchewan Roughriders Vs Edmonton Elks",
       "eventInfo": {
@@ -4109,6 +4040,29 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Denver Summit FC Vs Racing Louisville",
+      "eventInfo": {
+        "teamA": "Denver Summit FC",
+        "teamB": "Racing Louisville",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1165117/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/377825/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "25/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "key": "17d2ac8dbc5429bd70af3433aa12158d"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Nacional Asunción Vs Sportivo Trinidense",
       "eventInfo": {
         "teamA": "Nacional Asunción",
@@ -4118,6 +4072,28 @@
         "eventName": "Primera División",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
         "startTime": "25/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CS 2 de Mayo Vs Recoleta FC",
+      "eventInfo": {
+        "teamA": "CS 2 de Mayo",
+        "teamB": "Recoleta FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5992/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+        "eventName": "Primera División",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "25/10/2026 04:30:00 AM"
       },
       "streams": [
         {
@@ -4356,6 +4332,30 @@
           "stream_url": "http://193.47.62.55/hls/dooooAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "San Lorenzo Vs Newell's Old Boys",
+      "eventInfo": {
+        "teamA": "San Lorenzo",
+        "teamB": "Newell's Old Boys",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3201/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3212/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "25/10/2026 04:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS HD2",
+          "stream_url": ""
         }
       ]
     },
