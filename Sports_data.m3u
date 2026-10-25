@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-25 07:02:51 AM (BD Time)
-#  Live Channels Count: 112
+#  Last Updated: 2026-10-25 07:32:47 AM (BD Time)
+#  Live Channels Count: 113
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NASCAR%20CUP%20SERIES%20Vs%20NASCAR%20CUP%20SERIES.jpg" group-title="Motorsports", NASCAR CUP SERIES Vs NASCAR CUP SERIES - LOW QUALITY (USE VPN)
@@ -171,8 +171,14 @@ http://162.251.160.53:8089/prime_can_amzn1_dv_gti_1ff4877b_7198_451e_b7d4_633ac9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Dallas%20Vs%20San%20Jose%20Earthquakes.jpg" group-title="Football", FC Dallas Vs San Jose Earthquakes - TV LIVE + HD
 http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e7aa9fec_116f_43a4_bf41_a7b2d397f222/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Salt%20Lake%20Vs%20St.Louis%20City.jpg" group-title="Football", Real Salt Lake Vs St.Louis City - TV LIVE + HD
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_238366d8_1bc3_4551_98fe_df48d7f7eaea/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Union%20Vs%20New%20England%20Revolution.jpg" group-title="Football", Philadelphia Union Vs New England Revolution - TV LIVE + HD
 http://162.251.160.53:8089/prime_can_amzn1_dv_gti_9c1e0c6c_7d8f_442a_a0fc_e7bd6ff0fa63/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Rapids%20Vs%20Vancouver%20Whitecaps.jpg" group-title="Football", Colorado Rapids Vs Vancouver Whitecaps - TV LIVE + HD
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_50413571_e69b_4fc0_87fd_8dbea98b02d8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Santos%20Vs%20Bahia.jpg" group-title="Football", Santos Vs Bahia - PREMIERER5 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -183,9 +189,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/O%27Higgins%20Vs%20Cobresal.jpg" group-title="Football", O'Higgins Vs Cobresal - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Tampa%20Bay%20Lightning.jpg" group-title="Hockey", Utah Mammoth Vs Tampa Bay Lightning - STREAM TV + NHL
 #EXTVLCOPT:http-referrer=https://embedcenter.st
@@ -459,11 +462,6 @@ https://edgestream2.pro/hls/nbvevzaheafgu87.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ioazuryeahrfvzed84.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20State%20Cougars%20Vs%20Boise%20State%20Broncos.jpg" group-title="American football", Washington State Cougars Vs Boise State Broncos - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://embedcenter.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream6.pro/hls/nbekiurtghjhfza83.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tulane%20Green%20Wave%20Vs%20UTSA%20Roadrunners.jpg" group-title="American football", Tulane Green Wave Vs UTSA Roadrunners - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -489,11 +487,11 @@ https://edgestream2.pro/hls/fbnjzebjhcazhjg91.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Salt%20Lake%20Vs%20St.Louis%20City.jpg" group-title="Football", Real Salt Lake Vs St.Louis City - TV LIVE + HD
-http://162.251.160.53:8089/prime_can_amzn1_dv_gti_238366d8_1bc3_4551_98fe_df48d7f7eaea/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/San%20Diego%20FC%20Vs%20Seattle%20Sounders%20FC.jpg" group-title="Football", San Diego FC Vs Seattle Sounders FC - TV LIVE + HD
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b7ab4ca2_a8e1_49a1_bd16_b03e962be860/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Colorado%20Rapids%20Vs%20Vancouver%20Whitecaps.jpg" group-title="Football", Colorado Rapids Vs Vancouver Whitecaps - TV LIVE + HD
-http://162.251.160.53:8089/prime_can_amzn1_dv_gti_50413571_e69b_4fc0_87fd_8dbea98b02d8/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Portland%20Timbers%20Vs%20Charlotte%20FC.jpg" group-title="Football", Portland Timbers Vs Charlotte FC - TV LIVE + HD
+http://162.251.160.53:8089/prime_can_amzn1_dv_gti_4a62dc7d_7cfd_48f0_bded_79667a9f598d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Wellington%20Phoenix%20Vs%20Central%20Coast%20Mariners.jpg" group-title="Football", Wellington Phoenix Vs Central Coast Mariners - TNT4UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -540,3 +538,8 @@ https://edgestream4.pro/hls/pllmazjkdzajh72.m3u8
 #EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/fgjhvebazfhgazf94.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Utes%20Vs%20Houston%20Cougars.jpg" group-title="American football", Utah Utes Vs Houston Cougars - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8
