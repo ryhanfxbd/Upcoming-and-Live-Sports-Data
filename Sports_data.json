@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:02:15 AM 25-10-2026",
+  "last_update_time": "06:31:10 AM 25-10-2026",
   "total_matches": 150,
-  "live_match": 55,
+  "live_match": 58,
   "matches": [
     {
       "status": "LIVE",
@@ -432,6 +432,102 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Sporting Kansas City Vs Austin FC",
+      "eventInfo": {
+        "teamA": "Sporting Kansas City",
+        "teamB": "Austin FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2509/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/377973/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "25/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV LIVE + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_25abbf14_4bbe_4c03_848a_90502bc3497b/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD Stream ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Houston Dynamo Vs Minnesota United",
+      "eventInfo": {
+        "teamA": "Houston Dynamo",
+        "teamB": "Minnesota United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2508/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "25/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV LIVE + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_1ff4877b_7198_451e_b7d4_633ac9ea98cb/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Dallas Vs San Jose Earthquakes",
+      "eventInfo": {
+        "teamA": "FC Dallas",
+        "teamB": "San Jose Earthquakes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "25/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV LIVE + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e7aa9fec_116f_43a4_bf41_a7b2d397f222/index.m3u8"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Philadelphia Union Vs New England Revolution",
       "eventInfo": {
         "teamA": "Philadelphia Union",
@@ -542,6 +638,26 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Sydney Swans Vs West Coast Eagles",
+      "eventInfo": {
+        "teamA": "Sydney Swans",
+        "teamB": "West Coast Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/446334/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/334439/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "25/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": ""
         }
       ]
     },
@@ -803,6 +919,46 @@
         },
         {
           "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Atlanta Hawks Vs Houston Rockets",
+      "eventInfo": {
+        "teamA": "Atlanta Hawks",
+        "teamB": "Houston Rockets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "25/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + NBA",
+          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 1",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD 2",
           "stream_url": ""
         }
       ]
@@ -1265,6 +1421,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Rosario Central Vs Huracán",
+      "eventInfo": {
+        "teamA": "Rosario Central",
+        "teamB": "Huracán",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "25/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN PREMIUM",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN PREMIUM2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "Smith Vs Puello",
       "eventInfo": {
@@ -1287,34 +1467,6 @@
           "stream_url": "http://193.47.62.41/hls/RRRRR.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Nevada Wolf Pack Vs San Jose State Spartans",
-      "eventInfo": {
-        "teamA": "Nevada Wolf Pack",
-        "teamB": "San Jose State Spartans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4331/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4291/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "25/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://edgestream6.pro/hls/iozauyezaioyur82.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://edgestream1.pro/hls/iozauyezaioyur82.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -1831,7 +1983,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Universitario de Deportes Vs ACD Juan Pablo II",
       "eventInfo": {
@@ -1921,102 +2073,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Sporting Kansas City Vs Austin FC",
-      "eventInfo": {
-        "teamA": "Sporting Kansas City",
-        "teamB": "Austin FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2509/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/377973/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV LIVE + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_25abbf14_4bbe_4c03_848a_90502bc3497b/index.m3u8"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD Stream ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Houston Dynamo Vs Minnesota United",
-      "eventInfo": {
-        "teamA": "Houston Dynamo",
-        "teamB": "Minnesota United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV LIVE + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_1ff4877b_7198_451e_b7d4_633ac9ea98cb/index.m3u8"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD STREAM ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Dallas Vs San Jose Earthquakes",
-      "eventInfo": {
-        "teamA": "FC Dallas",
-        "teamB": "San Jose Earthquakes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV LIVE + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e7aa9fec_116f_43a4_bf41_a7b2d397f222/index.m3u8"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD STREAM ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Real Salt Lake Vs St.Louis City",
       "eventInfo": {
         "teamA": "Real Salt Lake",
@@ -2047,7 +2103,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Colorado Rapids Vs Vancouver Whitecaps",
       "eventInfo": {
@@ -2244,26 +2300,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Sydney Swans Vs West Coast Eagles",
-      "eventInfo": {
-        "teamA": "Sydney Swans",
-        "teamB": "West Coast Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/446334/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334439/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "25/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Aussie rules",
       "event_name": "Carlton Blues Vs GWS Giants",
@@ -2412,46 +2448,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Atlanta Hawks Vs Houston Rockets",
-      "eventInfo": {
-        "teamA": "Atlanta Hawks",
-        "teamB": "Houston Rockets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "25/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + NBA",
-          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD 2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Denver Nuggets Vs New Orleans Pelicans",
       "eventInfo": {
         "teamA": "Denver Nuggets",
@@ -2544,7 +2540,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Once Caldas Vs Deportivo Pereira",
       "eventInfo": {
@@ -2742,30 +2738,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Rosario Central Vs Huracán",
-      "eventInfo": {
-        "teamA": "Rosario Central",
-        "teamB": "Huracán",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "25/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN PREMIUM",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN PREMIUM2",
-          "stream_url": ""
         }
       ]
     },
@@ -4878,6 +4850,34 @@
         {
           "channel_name": "STREAM TV + HD ",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Nevada Wolf Pack Vs San Jose State Spartans",
+      "eventInfo": {
+        "teamA": "Nevada Wolf Pack",
+        "teamB": "San Jose State Spartans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4331/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4291/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "25/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://edgestream6.pro/hls/iozauyezaioyur82.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://edgestream1.pro/hls/iozauyezaioyur82.m3u8",
           "referer": "https://embedcenter.st",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
