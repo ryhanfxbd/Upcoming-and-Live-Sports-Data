@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:31:11 PM 25-10-2026",
+  "last_update_time": "01:01:11 PM 25-10-2026",
   "total_matches": 168,
-  "live_match": 12,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -259,6 +259,35 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sydney FC Vs Melbourne City",
+      "eventInfo": {
+        "teamA": "Sydney FC",
+        "teamB": "Melbourne City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174106/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/207680/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "25/10/2026 12:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "key": "567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TOOOAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Mixed Martial Arts",
       "event_name": "Alexander Volkanovski Vs Movsar Evloev",
       "eventInfo": {
@@ -354,34 +383,6 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/h555.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Cairns Taipans Vs New Zealand Breakers",
-      "eventInfo": {
-        "teamA": "Cairns Taipans",
-        "teamB": "New Zealand Breakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/122090/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "25/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/TOOOA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/TOOOAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
@@ -490,34 +491,6 @@
         {
           "channel_name": "Link 1",
           "stream_url": "h"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Townsville Fire Vs Sydney Flames",
-      "eventInfo": {
-        "teamA": "Townsville Fire",
-        "teamB": "Sydney Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/122106/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/122104/image",
-        "eventName": "WNBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1506/image/dark",
-        "startTime": "25/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "http://193.47.62.50/hls/TOOO.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/TOOO.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -787,7 +760,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "England Vs Pakistan",
       "eventInfo": {
@@ -919,35 +892,6 @@
           "channel_name": "HD SERVER NFL",
           "stream_url": "https://chatgpt.hereisman.net/playlist/58260/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sydney FC Vs Melbourne City",
-      "eventInfo": {
-        "teamA": "Sydney FC",
-        "teamB": "Melbourne City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174106/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/207680/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "25/10/2026 12:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "key": "567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/TOOOAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -4879,6 +4823,34 @@
     },
     {
       "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Cairns Taipans Vs New Zealand Breakers",
+      "eventInfo": {
+        "teamA": "Cairns Taipans",
+        "teamB": "New Zealand Breakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/122090/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "25/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/TOOOA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TOOOAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
       "Category": "Boxing",
       "event_name": "Navarrete Vs Foster.",
       "eventInfo": {
@@ -5088,6 +5060,34 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "kid": "09453ce820d65fbc675de3185f9e454c",
           "key": "98cff9600995fa381c76fdacf3c7edae"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Townsville Fire Vs Sydney Flames",
+      "eventInfo": {
+        "teamA": "Townsville Fire",
+        "teamB": "Sydney Flames",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/122106/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/122104/image",
+        "eventName": "WNBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1506/image/dark",
+        "startTime": "25/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.50/hls/TOOO.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TOOO.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     }
