@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:01:18 AM 26-10-2026",
+  "last_update_time": "01:31:52 AM 26-10-2026",
   "total_matches": 106,
-  "live_match": 40,
+  "live_match": 44,
   "matches": [
     {
       "status": "LIVE",
@@ -486,74 +486,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Lecce Vs Juventus",
-      "eventInfo": {
-        "teamA": "Lecce",
-        "teamB": "Juventus",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-        "eventName": "Serie A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "25/10/2026 11:01:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PARAMOUNT+ FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7dfhoajldz/out/v1/43edb751cd124d9abf12eb432736ce0c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "bec2a2104f3aaf70702ffc887d9401b2",
-          "key": "e35cd8ddd8616ab2290e138a4192ae8d"
-        },
-        {
-          "channel_name": "BeIN SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "kid": "0b42be2664d7e811d04f3e504e0924c5",
-          "key": "ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "DAZN DE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lkk71dfv6o/out/v1/e36cdf7a1db74811b774bca1e75f6a61/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "a2fa8eba927af971795222760f089e1e",
-          "key": "e4ccc4844b48f34a262e2b68b775acdb"
-        },
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "kid": "d9623774ac5c8c351aafe97c5fe70267",
-          "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "kid": "11223344556677889900112233445566",
-          "key": "4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://edgestream6.pro/hls/syaLqucEne4k.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Orlando Pride Vs NJ/NY Gotham FC",
       "eventInfo": {
         "teamA": "Orlando Pride",
@@ -713,28 +645,6 @@
         {
           "channel_name": "LIGA1 MAX 2",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CFR 1907 Cluj Vs FC Dinamo București",
-      "eventInfo": {
-        "teamA": "CFR 1907 Cluj",
-        "teamB": "FC Dinamo București",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5287/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3292/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "25/10/2026 11:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "http://193.47.62.55/hls/FQFQFQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -2275,7 +2185,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sporting CP Vs Académico Viseu FC",
       "eventInfo": {
@@ -2445,7 +2355,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sport Boys Vs FC Cajamarca",
       "eventInfo": {
@@ -2469,7 +2379,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Palestino Vs Colo-Colo",
       "eventInfo": {
@@ -2924,7 +2834,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Detroit Lions Vs Green Bay Packers",
       "eventInfo": {
@@ -2964,7 +2874,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Arizona Cardinals Vs Denver Broncos",
       "eventInfo": {
@@ -3066,7 +2976,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Las Vegas Raiders Vs Los Angeles Rams",
       "eventInfo": {
@@ -3297,6 +3207,74 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
           "key": "22a1444b3da18e139191665b3d652835"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Lecce Vs Juventus",
+      "eventInfo": {
+        "teamA": "Lecce",
+        "teamB": "Juventus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+        "eventName": "Serie A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "25/10/2026 11:01:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7dfhoajldz/out/v1/43edb751cd124d9abf12eb432736ce0c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "bec2a2104f3aaf70702ffc887d9401b2",
+          "key": "e35cd8ddd8616ab2290e138a4192ae8d"
+        },
+        {
+          "channel_name": "BeIN SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "kid": "0b42be2664d7e811d04f3e504e0924c5",
+          "key": "ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "DAZN DE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lkk71dfv6o/out/v1/e36cdf7a1db74811b774bca1e75f6a61/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "a2fa8eba927af971795222760f089e1e",
+          "key": "e4ccc4844b48f34a262e2b68b775acdb"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "kid": "11223344556677889900112233445566",
+          "key": "4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://edgestream6.pro/hls/syaLqucEne4k.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
         }
       ]
     },
@@ -3715,6 +3693,28 @@
         {
           "channel_name": "LIGA1 MAX 2",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CFR 1907 Cluj Vs FC Dinamo București",
+      "eventInfo": {
+        "teamA": "CFR 1907 Cluj",
+        "teamB": "FC Dinamo București",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5287/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3292/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "25/10/2026 11:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.55/hls/FQFQFQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
