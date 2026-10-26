@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:31:23 PM 26-10-2026",
-  "total_matches": 59,
-  "live_match": 3,
+  "last_update_time": "09:01:10 PM 26-10-2026",
+  "total_matches": 61,
+  "live_match": 7,
   "matches": [
     {
       "status": "LIVE",
@@ -97,6 +97,10 @@
           "channel_name": "STREAM TV + HD ",
           "stream_url": "https://live.vivo155.com/live/hd-en-1-4621454.m3u8?txSecret=591f2e78929b074bce9c37efac5d7c3d&txTime=6ADF6A4C",
           "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/665/index.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -531,6 +535,10 @@
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
         },
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmrz2qs5/index.m3u8"
+        },
+        {
           "channel_name": "XTREME + FHD",
           "stream_url": ""
         },
@@ -553,7 +561,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Beşiktaş JK Vs Başakşehir FK",
       "eventInfo": {
@@ -567,6 +575,10 @@
       },
       "streams": [
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hm5nq9ff/index.m3u8"
+        },
+        {
           "channel_name": "BeIN2 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "kid": "0b42be2664d7e811d04f3e504e0924c5",
@@ -575,7 +587,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Çaykur Rizespor Vs Trabzonspor",
       "eventInfo": {
@@ -588,6 +600,10 @@
         "startTime": "26/10/2026 10:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmwx54tq/index.m3u8"
+        },
         {
           "channel_name": "BEIN3 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
@@ -611,6 +627,10 @@
         "startTime": "27/10/2026 12:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkzp6j5p/index.m3u8"
+        },
         {
           "channel_name": "BEIN3 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
@@ -1284,6 +1304,14 @@
         {
           "channel_name": "HD STREAMING ",
           "stream_url": ""
+        },
+        {
+          "channel_name": "PRIME + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_87504f52_83cd_4908_8c59_756273c5f68c/index.m3u8"
+        },
+        {
+          "channel_name": "PRIME TV 2",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6a102c8f_7d86_4eb3_96dc_f83378f41433/index.m3u8"
         }
       ]
     },
@@ -1504,13 +1532,13 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/701/index.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Ain Vs Tractor FC",
       "eventInfo": {
@@ -1524,13 +1552,13 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/701/index.m3u8"
         }
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Ahli Vs Al-Gharafa",
       "eventInfo": {
@@ -1544,8 +1572,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/665/index.m3u8"
         }
       ]
     },
@@ -1564,8 +1592,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/665/index.m3u8"
         }
       ]
     },
@@ -1584,8 +1612,48 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/888/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Ballon d'Or Show Vs Ballon d'Or Show",
+      "eventInfo": {
+        "teamA": "Ballon d'Or Show",
+        "teamB": "Ballon d'Or Show",
+        "teamAFlag": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
+        "teamBFlag": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
+        "eventName": "Ballon d'Or Show",
+        "event_logo": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
+        "startTime": "26/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "hw"
+        }
+      ]
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Montpellier Vs Red Star FC",
+      "eventInfo": {
+        "teamA": "Montpellier",
+        "teamB": "Red Star FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1642/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52874/image",
+        "eventName": "Ligue 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/182/image/dark",
+        "startTime": "27/10/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkyxqzz9/index.m3u8"
         }
       ]
     },
