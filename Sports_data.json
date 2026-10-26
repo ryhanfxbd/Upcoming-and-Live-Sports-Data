@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:01:11 AM 27-10-2026",
+  "last_update_time": "05:31:11 AM 27-10-2026",
   "total_matches": 50,
-  "live_match": 16,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -26,30 +26,6 @@
         },
         {
           "channel_name": "ESPN PREMIUM2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad de Chile Vs Everton de Viña del Mar",
-      "eventInfo": {
-        "teamA": "Universidad de Chile",
-        "teamB": "Everton de Viña del Mar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5032/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "27/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT CHILE HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT CHILE HD2",
           "stream_url": ""
         }
       ]
@@ -88,6 +64,78 @@
         },
         {
           "channel_name": "HD STREAMING ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Boston Celtics Vs Chicago Bulls",
+      "eventInfo": {
+        "teamA": "Boston Celtics",
+        "teamB": "Chicago Bulls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "27/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Miami Heat Vs Dallas Mavericks",
+      "eventInfo": {
+        "teamA": "Miami Heat",
+        "teamB": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "27/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
           "stream_url": ""
         }
       ]
@@ -607,7 +655,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Instituto De Córdoba Vs Deportivo Riestra",
       "eventInfo": {
@@ -863,7 +911,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Houston Rockets Vs Atlanta Hawks",
       "eventInfo": {
@@ -934,78 +982,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Boston Celtics Vs Chicago Bulls",
-      "eventInfo": {
-        "teamA": "Boston Celtics",
-        "teamB": "Chicago Bulls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "27/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Miami Heat Vs Dallas Mavericks",
-      "eventInfo": {
-        "teamA": "Miami Heat",
-        "teamB": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "27/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Hockey",
       "event_name": "Edmonton Oilers Vs Detroit Red Wings",
@@ -1040,7 +1016,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Calgary Flames Vs Toronto Maple Leafs",
       "eventInfo": {
@@ -1074,7 +1050,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Philadelphia Eagles Vs Dallas Cowboys",
       "eventInfo": {
@@ -1736,6 +1712,30 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hn5k93f9/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Universidad de Chile Vs Everton de Viña del Mar",
+      "eventInfo": {
+        "teamA": "Universidad de Chile",
+        "teamB": "Everton de Viña del Mar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5032/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "27/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT CHILE HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT CHILE HD2",
+          "stream_url": ""
         }
       ]
     },
