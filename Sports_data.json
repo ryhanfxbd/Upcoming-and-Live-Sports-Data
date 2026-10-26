@@ -2,10 +2,63 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:31:12 PM 26-10-2026",
+  "last_update_time": "10:01:12 PM 26-10-2026",
   "total_matches": 61,
-  "live_match": 7,
+  "live_match": 8,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Beşiktaş JK Vs Başakşehir FK",
+      "eventInfo": {
+        "teamA": "Beşiktaş JK",
+        "teamB": "Başakşehir FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "26/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hm5nq9ff/index.m3u8"
+        },
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "kid": "0b42be2664d7e811d04f3e504e0924c5",
+          "key": "ae24090123b8c72ac5404dc152847cb8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Çaykur Rizespor Vs Trabzonspor",
+      "eventInfo": {
+        "teamA": "Çaykur Rizespor",
+        "teamB": "Trabzonspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "26/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmwx54tq/index.m3u8"
+        },
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "7995c724a13748ed970840a8ab5bb9b3",
+          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ]
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -76,6 +129,46 @@
           "stream_url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
           "referer": "https://fancode.com/",
           "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Ain Vs Tractor FC",
+      "eventInfo": {
+        "teamA": "Al-Ain",
+        "teamB": "Tractor FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "26/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/701/index.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Ahli Vs Al-Gharafa",
+      "eventInfo": {
+        "teamA": "Al-Ahli",
+        "teamB": "Al-Gharafa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "26/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/665/index.m3u8"
         }
       ]
     },
@@ -557,59 +650,6 @@
         {
           "channel_name": "ENGLISH HD",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Beşiktaş JK Vs Başakşehir FK",
-      "eventInfo": {
-        "teamA": "Beşiktaş JK",
-        "teamB": "Başakşehir FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "26/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hm5nq9ff/index.m3u8"
-        },
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "kid": "0b42be2664d7e811d04f3e504e0924c5",
-          "key": "ae24090123b8c72ac5404dc152847cb8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Çaykur Rizespor Vs Trabzonspor",
-      "eventInfo": {
-        "teamA": "Çaykur Rizespor",
-        "teamB": "Trabzonspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "26/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmwx54tq/index.m3u8"
-        },
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "7995c724a13748ed970840a8ab5bb9b3",
-          "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
       ]
     },
@@ -1538,46 +1578,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ain Vs Tractor FC",
-      "eventInfo": {
-        "teamA": "Al-Ain",
-        "teamB": "Tractor FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/53715/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "26/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/701/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ahli Vs Al-Gharafa",
-      "eventInfo": {
-        "teamA": "Al-Ahli",
-        "teamB": "Al-Gharafa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "26/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/665/index.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Al-Nassr Vs Al Wasl",
@@ -1618,7 +1618,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Ballon d'Or Show Vs Ballon d'Or Show",
       "eventInfo": {
