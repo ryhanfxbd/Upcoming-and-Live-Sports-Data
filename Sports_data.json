@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:31:22 AM 27-10-2026",
+  "last_update_time": "01:01:21 AM 27-10-2026",
   "total_matches": 50,
-  "live_match": 11,
+  "live_match": 14,
   "matches": [
     {
       "status": "LIVE",
@@ -26,6 +26,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "7995c724a13748ed970840a8ab5bb9b3",
           "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/7f850938-b4a5-402c-ba15-7af70f8db404.m3u8"
         },
         {
           "channel_name": "TV + QUALITY",
@@ -60,6 +64,40 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Santa Clara Vs Benfica",
+      "eventInfo": {
+        "teamA": "Santa Clara",
+        "teamB": "Benfica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "27/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f836853d8eac19446ed9535f5fc568b1",
+          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "key": "285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hn5k93f9/index.m3u8"
         }
       ]
     },
@@ -646,7 +684,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sevilla Vs Osasuna",
       "eventInfo": {
@@ -804,40 +842,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Santa Clara Vs Benfica",
-      "eventInfo": {
-        "teamA": "Santa Clara",
-        "teamB": "Benfica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3011/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "27/10/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f836853d8eac19446ed9535f5fc568b1",
-          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "key": "285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hn5k93f9/index.m3u8"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Instituto De Córdoba Vs Deportivo Riestra",
@@ -939,7 +943,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Walsall Vs Salford City",
       "eventInfo": {
@@ -1776,7 +1780,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Montpellier Vs Red Star FC",
       "eventInfo": {
