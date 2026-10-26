@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:31:10 PM 26-10-2026",
+  "last_update_time": "11:01:12 PM 26-10-2026",
   "total_matches": 61,
-  "live_match": 6,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -185,6 +185,29 @@
           "channel_name": "HD QUALITY 2",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
           "referer": "https://xlz.domainkqt.cc/"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ballon d'Or Show Vs Ballon d'Or Show",
+      "eventInfo": {
+        "teamA": "Ballon d'Or Show",
+        "teamB": "Ballon d'Or Show",
+        "teamAFlag": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
+        "teamBFlag": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
+        "eventName": "Ballon d'Or Show",
+        "event_logo": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
+        "startTime": "26/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d9623774ac5c8c351aafe97c5fe70267",
+          "key": "5164e6d05164a2d65fa8fcc962aa4861"
         }
       ]
     },
@@ -760,7 +783,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sepsi OSK Sfântu Gheorghe Vs Universitatea Craiova",
       "eventInfo": {
@@ -1439,7 +1462,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Snooker Vs Snooker",
       "eventInfo": {
@@ -1594,26 +1617,6 @@
         {
           "channel_name": "TV + QUALITY",
           "stream_url": "http://162.251.160.53:8089/888/index.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ballon d'Or Show Vs Ballon d'Or Show",
-      "eventInfo": {
-        "teamA": "Ballon d'Or Show",
-        "teamB": "Ballon d'Or Show",
-        "teamAFlag": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
-        "teamBFlag": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
-        "eventName": "Ballon d'Or Show",
-        "event_logo": "https://i.pinimg.com/736x/a6/39/0a/a6390aae8c5be261263feeaf47c22dd3.jpg",
-        "startTime": "26/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "hw"
         }
       ]
     },
