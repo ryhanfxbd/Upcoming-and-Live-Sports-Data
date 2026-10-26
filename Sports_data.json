@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:01:30 AM 26-10-2026",
+  "last_update_time": "06:31:13 AM 26-10-2026",
   "total_matches": 80,
-  "live_match": 24,
+  "live_match": 26,
   "matches": [
     {
       "status": "LIVE",
@@ -310,6 +310,54 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "d695093ea3e66d75a4d213a3e2cbf360",
           "key": "01be3f645e89a067d2786c295f68dde4"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Central Córdoba Vs Vélez Sarsfield",
+      "eventInfo": {
+        "teamA": "Central Córdoba",
+        "teamB": "Vélez Sarsfield",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/65676/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3208/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "26/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN PREMIUM",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "ESPN PREMIUM2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Barracas Central Vs Estudiantes de Río Cuarto",
+      "eventInfo": {
+        "teamA": "Barracas Central",
+        "teamB": "Estudiantes de Río Cuarto",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/65668/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/266694/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "26/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS HD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "TNT SPORTS HD2",
+          "stream_url": ""
         }
       ]
     },
@@ -759,6 +807,78 @@
     },
     {
       "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Seattle Seahawks Vs Kansas City Chiefs",
+      "eventInfo": {
+        "teamA": "Seattle Seahawks",
+        "teamB": "Kansas City Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4430/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "26/10/2026 06:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "key": "17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "SPORTV2 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "kid": "9009b7189e3e68cc09d17811f2beb55a",
+          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "channel_name": "NBC SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "36a385124dcdfb2f0969935065e03afa",
+          "key": "ccecd65514dff22eae493b975ccf9a9e"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "d3250252765347a0c2603c6cb4869f8c",
+          "key": "0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "385ceb9714b75e0cef61254f80b31002",
+          "key": "18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sportivo San Lorenzo Vs Cerro Porteño",
       "eventInfo": {
@@ -1071,7 +1191,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Deportes Tolima Vs Deportivo Pasto",
       "eventInfo": {
@@ -1169,7 +1289,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club América Vs CF Pachuca",
       "eventInfo": {
@@ -1262,54 +1382,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Central Córdoba Vs Vélez Sarsfield",
-      "eventInfo": {
-        "teamA": "Central Córdoba",
-        "teamB": "Vélez Sarsfield",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/65676/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3208/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "26/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN PREMIUM",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "ESPN PREMIUM2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Barracas Central Vs Estudiantes de Río Cuarto",
-      "eventInfo": {
-        "teamA": "Barracas Central",
-        "teamB": "Estudiantes de Río Cuarto",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/65668/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/266694/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "26/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS HD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "TNT SPORTS HD2",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Sacramento Kings Vs Memphis Grizzlies",
       "eventInfo": {
@@ -1370,78 +1442,6 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "SERVER + LIVE",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Seattle Seahawks Vs Kansas City Chiefs",
-      "eventInfo": {
-        "teamA": "Seattle Seahawks",
-        "teamB": "Kansas City Chiefs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4430/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "26/10/2026 06:20:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "key": "17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "kid": "9009b7189e3e68cc09d17811f2beb55a",
-          "key": "dd3f96a94c909da48ff40c92aabf8cf3"
-        },
-        {
-          "channel_name": "NBC SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "36a385124dcdfb2f0969935065e03afa",
-          "key": "ccecd65514dff22eae493b975ccf9a9e"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "d3250252765347a0c2603c6cb4869f8c",
-          "key": "0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "385ceb9714b75e0cef61254f80b31002",
-          "key": "18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8",
           "referer": "https://embedcenter.st",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
