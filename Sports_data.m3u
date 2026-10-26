@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-26 10:02:52 PM (BD Time)
-#  Live Channels Count: 18
+#  Last Updated: 2026-10-26 10:32:44 PM (BD Time)
+#  Live Channels Count: 20
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Be%C5%9Fikta%C5%9F%20JK%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Beşiktaş JK Vs Başakşehir FK - TV + QUALITY
@@ -15,8 +15,10 @@ http://162.251.160.53:8089/prime_us_b0hm5nq9ff/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - TV + QUALITY
-http://162.251.160.53:8089/prime_us_b0hmwx54tq/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Be%C5%9Fikta%C5%9F%20JK%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Beşiktaş JK Vs Başakşehir FK - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.59/hls/FAFAFAAAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - BEIN3 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -24,15 +26,21 @@ http://162.251.160.53:8089/prime_us_b0hmwx54tq/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mohun%20Bagan%20Super%20Giant%20Vs%20Chennaiyin%20FC.jpg" group-title="Football", Mohun Bagan Super Giant Vs Chennaiyin FC - PRIME VIDEO FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08027012b8503449b674c090b486a313:e6109941ae6fcc32db5611870764fc59
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - TV + QUALITY
+http://162.251.160.53:8089/prime_us_b0hmwx54tq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mohun%20Bagan%20Super%20Giant%20Vs%20Chennaiyin%20FC.jpg" group-title="Football", Mohun Bagan Super Giant Vs Chennaiyin FC - LOW QUALITY (USE VPN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/EJJJAAAAA.m3u8
+http://193.47.62.59/hls/FAFAFAAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/sd-1-4581348.m3u8?txSecret=bb92fe0d7db515f41a77059c8b67087d&txTime=6ADF8E6F
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - HD QUALITY 3
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc
+https://live2.jorvakstreamcache.com/live/channel15.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="Cricket", NPL Vs NPL - FANCODE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -61,24 +69,26 @@ https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ain%20Vs%20Tractor%20FC.jpg" group-title="Football", Al-Ain Vs Tractor FC - TV + QUALITY
 http://162.251.160.53:8089/701/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ain%20Vs%20Tractor%20FC.jpg" group-title="Football", Al-Ain Vs Tractor FC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.44/hls/DADADAAA.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ahli%20Vs%20Al-Gharafa.jpg" group-title="Football", Al-Ahli Vs Al-Gharafa - TV + QUALITY
 http://162.251.160.53:8089/665/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Neftchi%20Fergana%20Vs%20Al-Ittihad.jpg" group-title="Football", Neftchi Fergana Vs Al-Ittihad - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/hd-en-1-4621454.m3u8?txSecret=591f2e78929b074bce9c37efac5d7c3d&txTime=6ADF6A4C
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Neftchi%20Fergana%20Vs%20Al-Ittihad.jpg" group-title="Football", Neftchi Fergana Vs Al-Ittihad - TV + QUALITY
-http://162.251.160.53:8089/665/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Neftchi%20Fergana%20Vs%20Al-Ittihad.jpg" group-title="Football", Neftchi Fergana Vs Al-Ittihad - LOW QUALITY (USE VPN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ahli%20Vs%20Al-Gharafa.jpg" group-title="Football", Al-Ahli Vs Al-Gharafa - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/EJJJAAAA.m3u8
+http://193.47.62.44/hls/DADADAA.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Neftchi%20Fergana%20Vs%20Al-Ittihad.jpg" group-title="Football", Neftchi Fergana Vs Al-Ittihad - HD QUALITY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ahli%20Vs%20Al-Gharafa.jpg" group-title="Football", Al-Ahli Vs Al-Gharafa - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621472.m3u8?txSecret=1ba1d17f4e77db17a018901dfdbb966a&txTime=6ADF8DEB
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ahli%20Vs%20Al-Gharafa.jpg" group-title="Football", Al-Ahli Vs Al-Gharafa - HD QUALITY 2
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8?
+https://live2.jorvakstreamcache.com/live/channel1.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ballon%20d%27Or%20Show%20Vs%20Ballon%20d%27Or%20Show.jpg" group-title="Football", Ballon d'Or Show Vs Ballon d'Or Show - Link 1
 hw
