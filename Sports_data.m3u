@@ -3,17 +3,20 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-26 11:02:49 PM (BD Time)
-#  Live Channels Count: 20
+#  Last Updated: 2026-10-26 11:32:54 PM (BD Time)
+#  Live Channels Count: 29
 #=================================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Be%C5%9Fikta%C5%9F%20JK%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Beşiktaş JK Vs Başakşehir FK - TV + QUALITY
-http://162.251.160.53:8089/prime_us_b0hm5nq9ff/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Be%C5%9Fikta%C5%9F%20JK%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Beşiktaş JK Vs Başakşehir FK - BeIN2 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Be%C5%9Fikta%C5%9F%20JK%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Beşiktaş JK Vs Başakşehir FK - HD QUALITY
+https://www.rtmpcdn.com/live/54116f74-59fa-4e80-81d8-4e6e6f0174aa.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Be%C5%9Fikta%C5%9F%20JK%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Beşiktaş JK Vs Başakşehir FK - TV + QUALITY
+http://162.251.160.53:8089/prime_us_b0hm5nq9ff/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Be%C5%9Fikta%C5%9F%20JK%20Vs%20Ba%C5%9Fak%C5%9Fehir%20FK.jpg" group-title="Football", Beşiktaş JK Vs Başakşehir FK - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -25,6 +28,9 @@ http://193.47.62.59/hls/FAFAFAAAA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - HD QUALITY
+https://www.rtmpcdn.com/live/231f695c-d91a-4c51-8532-9bf6d3fcf719.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/%C3%87aykur%20Rizespor%20Vs%20Trabzonspor.jpg" group-title="Football", Çaykur Rizespor Vs Trabzonspor - TV + QUALITY
 http://162.251.160.53:8089/prime_us_b0hmwx54tq/index.m3u8
@@ -90,5 +96,35 @@ https://live.vivo155.com/live/hd-en-1-4621472.m3u8?txSecret=1ba1d17f4e77db17a018
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel1.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ballon%20d%27Or%20Show%20Vs%20Ballon%20d%27Or%20Show.jpg" group-title="Football", Ballon d'Or Show Vs Ballon d'Or Show - Link 1
-hw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ballon%20d%27Or%20Show%20Vs%20Ballon%20d%27Or%20Show.jpg" group-title="Football", Ballon d'Or Show Vs Ballon d'Or Show - CBS SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Galatasaray%20Vs%20Fenerbah%C3%A7e.jpg" group-title="Football", Galatasaray Vs Fenerbahçe - BEIN3 SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Galatasaray%20Vs%20Fenerbah%C3%A7e.jpg" group-title="Football", Galatasaray Vs Fenerbahçe - TV + QUALITY
+http://162.251.160.53:8089/prime_us_b0hkzp6j5p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sepsi%20OSK%20Sf%C3%A2ntu%20Gheorghe%20Vs%20Universitatea%20Craiova.jpg" group-title="Football", Sepsi OSK Sfântu Gheorghe Vs Universitatea Craiova - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Snooker%20Vs%20Snooker.jpg" group-title="Other", Snooker Vs Snooker - TNT1UK SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Qadsiah%20Vs%20Al-Sadd.jpg" group-title="Football", Al-Qadsiah Vs Al-Sadd - TV + QUALITY
+http://162.251.160.53:8089/701/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Nassr%20Vs%20Al%20Wasl.jpg" group-title="Football", Al-Nassr Vs Al Wasl - TV + QUALITY
+http://162.251.160.53:8089/665/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Quwa%20Al-Jawiya%20Vs%20Pakhtakor%20Tashkent.jpg" group-title="Football", Al-Quwa Al-Jawiya Vs Pakhtakor Tashkent - TV + QUALITY
+http://162.251.160.53:8089/888/index.m3u8
