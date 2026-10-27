@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:31:13 AM 27-10-2026",
+  "last_update_time": "07:01:23 AM 27-10-2026",
   "total_matches": 50,
   "live_match": 20,
   "matches": [
@@ -98,6 +98,44 @@
         {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream4.pro/hls/zeafwqvhfe69.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Utah Jazz Vs Memphis Grizzlies",
+      "eventInfo": {
+        "teamA": "Utah Jazz",
+        "teamB": "Memphis Grizzlies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "27/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8",
           "referer": "https://embedcenter.st",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
@@ -568,29 +606,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Coritiba Vs Grêmio",
-      "eventInfo": {
-        "teamA": "Coritiba",
-        "teamB": "Grêmio",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "27/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "9dc40460c93087aea84d6315f08ecb64",
-          "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Flamengo Vs Atlético Mineiro",
       "eventInfo": {
         "teamA": "Flamengo",
@@ -985,7 +1000,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Denver Nuggets Vs Golden State Warriors",
       "eventInfo": {
@@ -1006,44 +1021,6 @@
         },
         {
           "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Utah Jazz Vs Memphis Grizzlies",
-      "eventInfo": {
-        "teamA": "Utah Jazz",
-        "teamB": "Memphis Grizzlies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "27/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "XTREME + FHD",
           "stream_url": ""
         },
         {
@@ -1784,6 +1761,29 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Coritiba Vs Grêmio",
+      "eventInfo": {
+        "teamA": "Coritiba",
+        "teamB": "Grêmio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "27/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "9dc40460c93087aea84d6315f08ecb64",
+          "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
         }
       ]
     },
