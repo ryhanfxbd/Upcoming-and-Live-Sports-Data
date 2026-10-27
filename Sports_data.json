@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:45:31 PM 27-10-2026",
-  "total_matches": 107,
-  "live_match": 5,
+  "last_update_time": "09:01:32 PM 27-10-2026",
+  "total_matches": 109,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -56,41 +56,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "kid": "290e09c837da78d5cd961978d390515c",
           "key": "b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Abha Vs Al Faisaly",
-      "eventInfo": {
-        "teamA": "Abha",
-        "teamB": "Al Faisaly",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "27/10/2026 06:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/JYYYAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "FANCODE1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "82dfca238e8c4b430a3269db71965db9",
-          "key": "a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "FANCODE2 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-          "key": "22a1444b3da18e139191665b3d652835"
         }
       ]
     },
@@ -182,6 +147,66 @@
         {
           "channel_name": "STAR SPORTS HD",
           "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Fakel Voronezh Vs Akhmat Grozny",
+      "eventInfo": {
+        "teamA": "Fakel Voronezh",
+        "teamB": "Akhmat Grozny",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2317/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5131/image",
+        "eventName": "Russian Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
+        "startTime": "27/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS +2 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "kid": "83f81c4cc1443991543de4e22eea7586",
+          "key": "ddfd7ca653d6f35543d8edb3c688e20f"
+        },
+        {
+          "channel_name": "D SPORTS2+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "key": "ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "D SPORTS ",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Progresul Spartac Vs Petrolul",
+      "eventInfo": {
+        "teamA": "Progresul Spartac",
+        "teamB": "Petrolul",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/265708/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/25856/image",
+        "eventName": "Cupa României Betano",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/355/image",
+        "startTime": "27/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/8III.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/8III.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -832,7 +857,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Shabab Al-Ahli Dubai Vs Esteghlal FC",
       "eventInfo": {
@@ -852,7 +877,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al Seeb SC Vs East Bengal FC",
       "eventInfo": {
@@ -2165,7 +2190,19 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "startTime": "28/10/2026 06:00:00 AM"
       },
-      "streams": []
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "85b277daf5aae05833fe43a68f587968",
+          "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        }
+      ]
     },
     {
       "status": "UPCOMING",
@@ -2228,7 +2265,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "BC Dubai Vs Paris Basketball",
       "eventInfo": {
@@ -2391,38 +2428,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fakel Voronezh Vs Akhmat Grozny",
-      "eventInfo": {
-        "teamA": "Fakel Voronezh",
-        "teamB": "Akhmat Grozny",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2317/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5131/image",
-        "eventName": "Russian Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/91/image/dark",
-        "startTime": "27/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS +2 FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "kid": "83f81c4cc1443991543de4e22eea7586",
-          "key": "ddfd7ca653d6f35543d8edb3c688e20f"
-        },
-        {
-          "channel_name": "D SPORTS2+ FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
-          "key": "ea07b87acdf2e45be824cde4a1cf3504"
-        },
-        {
-          "channel_name": "D SPORTS ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Orenburg Vs Rodina Moscow",
@@ -2571,6 +2576,28 @@
       ]
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Young Africans Vs Mashujaa",
+      "eventInfo": {
+        "teamA": "Young Africans",
+        "teamB": "Mashujaa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/134320/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/376323/image",
+        "eventName": "Tanzania Ligi Kuu Bara",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "27/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/VAVAVA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
       "status": "ENDED",
       "Category": "American football",
       "event_name": "Las Vegas Raiders Vs Los Angeles Rams",
@@ -2628,6 +2655,41 @@
         {
           "channel_name": "SD QUALITY ",
           "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Abha Vs Al Faisaly",
+      "eventInfo": {
+        "teamA": "Abha",
+        "teamB": "Al Faisaly",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "27/10/2026 06:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/JYYYAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+          "key": "22a1444b3da18e139191665b3d652835"
         }
       ]
     },
