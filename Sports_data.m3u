@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-27 04:02:39 PM (BD Time)
-#  Live Channels Count: 47
+#  Last Updated: 2026-10-27 04:33:41 PM (BD Time)
+#  Live Channels Count: 55
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg" group-title="Other", GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD
@@ -176,6 +176,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=
 #KODIPROP:inputstream.adaptive.license_key=99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Johor%20Darul%20Ta%27zim%20Vs%20Port%20FC.jpg" group-title="Football", Johor Darul Ta'zim Vs Port FC - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621533.m3u8?txSecret=6f1984cc27d76298d6002aacbc390be9&txTime=6AE082B2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Johor%20Darul%20Ta%27zim%20Vs%20Port%20FC.jpg" group-title="Football", Johor Darul Ta'zim Vs Port FC - TV + QUALITY
 http://162.251.160.53:8089/2399/index.m3u8
 
@@ -183,9 +187,27 @@ http://162.251.160.53:8089/2399/index.m3u8
 #EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel16.m3u8?
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Johor%20Darul%20Ta%27zim%20Vs%20Port%20FC.jpg" group-title="Football", Johor Darul Ta'zim Vs Port FC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/O555AA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Daejeon%20Hana%20Citizen%20Vs%20Vissel%20Kobe.jpg" group-title="Football", Daejeon Hana Citizen Vs Vissel Kobe - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621521.m3u8?txSecret=77ff51d8170b78ee1b5e2397d3cde37d&txTime=6AE08304
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Daejeon%20Hana%20Citizen%20Vs%20Vissel%20Kobe.jpg" group-title="Football", Daejeon Hana Citizen Vs Vissel Kobe - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel6.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Daejeon%20Hana%20Citizen%20Vs%20Vissel%20Kobe.jpg" group-title="Football", Daejeon Hana Citizen Vs Vissel Kobe - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/O555A.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shanghai%20Port%20Vs%20C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i.jpg" group-title="Football", Shanghai Port Vs Công An Hà Nội - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621488.m3u8?txSecret=1b4f3e35c10a27706dcc9f0708f9cec4&txTime=6AE0828C
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shanghai%20Port%20Vs%20C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i.jpg" group-title="Football", Shanghai Port Vs Công An Hà Nội - TV + QUALITY
 http://162.251.160.53:8089/2189/index.m3u8
@@ -194,12 +216,26 @@ http://162.251.160.53:8089/2189/index.m3u8
 #EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel5.m3u8?
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shanghai%20Port%20Vs%20C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i.jpg" group-title="Football", Shanghai Port Vs Công An Hà Nội - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/O555AAAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyoto%20Sanga%20FC%20Vs%20Newcastle%20Jets.jpg" group-title="Football", Kyoto Sanga FC Vs Newcastle Jets - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621532.m3u8?txSecret=881cc1a1de999e6174009d20401a793f&txTime=6AE0834A
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyoto%20Sanga%20FC%20Vs%20Newcastle%20Jets.jpg" group-title="Football", Kyoto Sanga FC Vs Newcastle Jets - TV + QUALITY
 http://162.251.160.53:8089/2234/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyoto%20Sanga%20FC%20Vs%20Newcastle%20Jets.jpg" group-title="Football", Kyoto Sanga FC Vs Newcastle Jets - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel15.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyoto%20Sanga%20FC%20Vs%20Newcastle%20Jets.jpg" group-title="Football", Kyoto Sanga FC Vs Newcastle Jets - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/O555AAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="Cricket", Pakistan Vs Sri Lanka - WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
