@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-27 07:32:47 AM (BD Time)
-#  Live Channels Count: 28
+#  Last Updated: 2026-10-27 08:02:39 AM (BD Time)
+#  Live Channels Count: 26
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampa%20Bay%20Rays%20Vs%20Milwaukee%20Brewers.jpg" group-title="Baseball", Tampa Bay Rays Vs Milwaukee Brewers - TNT1UK SPORTS FHD
@@ -74,6 +74,11 @@ https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/mlkijfezag65.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Edmonton%20Oilers%20Vs%20Detroit%20Red%20Wings.jpg" group-title="Hockey", Edmonton Oilers Vs Detroit Red Wings - HD QUALITY
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream3.pro/hls/lmdsjkfgv52.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calgary%20Flames%20Vs%20Toronto%20Maple%20Leafs.jpg" group-title="Hockey", Calgary Flames Vs Toronto Maple Leafs - HD QUALITY
 #EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -128,23 +133,7 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedcenter.st/
 https://edgestream2.pro/hls/zeuryuegn48.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Flamengo%20Vs%20Atl%C3%A9tico%20Mineiro.jpg" group-title="Football", Flamengo Vs Atlético Mineiro - SPORT TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Flamengo%20Vs%20Atl%C3%A9tico%20Mineiro.jpg" group-title="Football", Flamengo Vs Atlético Mineiro - PREMIERER1 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Golden%20State%20Warriors.jpg" group-title="Basketball", Denver Nuggets Vs Golden State Warriors - HD QUALITY
 #EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/fdgsqdfawa73.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Edmonton%20Oilers%20Vs%20Detroit%20Red%20Wings.jpg" group-title="Hockey", Edmonton Oilers Vs Detroit Red Wings - HD QUALITY
-#EXTVLCOPT:http-referrer=https://embedcenter.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream3.pro/hls/lmdsjkfgv52.m3u8
