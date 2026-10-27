@@ -1,4 +1,4 @@
-# 🏏 SM Live Sports Data
+# 🏏 Live Sports Data
 
 Automatically fetches, processes and uploads live sports streaming data to JSON using Python + GitHub Actions.
 
