@@ -3,14 +3,17 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-28 05:02:51 AM (BD Time)
-#  Live Channels Count: 29
+#  Last Updated: 2026-10-28 05:32:52 AM (BD Time)
+#  Live Channels Count: 30
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Argentinos%20Juniors%20Vs%20Independiente%20Rivadavia.jpg" group-title="Football", Argentinos Juniors Vs Independiente Rivadavia - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.41/hls/GGGG.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Brooklyn%20Nets.jpg" group-title="Basketball", Boston Celtics Vs Brooklyn Nets - NBA FHD
+https://vix.cdnfan.site/event/nba1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Philadelphia%20Flyers%20Vs%20Columbus%20Blue%20Jackets.jpg" group-title="Hockey", Philadelphia Flyers Vs Columbus Blue Jackets - PREMIERE2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -85,9 +88,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Knicks%20Vs%20Detroit%20Pistons.jpg" group-title="Basketball", New York Knicks Vs Detroit Pistons - NBA FHD
 https://vix.cdnfan.site/event/nba2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Brooklyn%20Nets.jpg" group-title="Basketball", Boston Celtics Vs Brooklyn Nets - NBA FHD
-https://vix.cdnfan.site/event/nba1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chicago%20Blackhawks%20Vs%20Los%20Angeles%20Kings.jpg" group-title="Hockey", Chicago Blackhawks Vs Los Angeles Kings - NHL HD
 https://vix.cdnfan.site/event/nhl3.m3u8
 
@@ -124,4 +124,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1
 https://vix.cdnfan.site/event/nhl4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Missouri%20State%20Bears%20Vs%20Sam%20Houston%20State%20Bearkats.jpg" group-title="American football", Missouri State Bears Vs Sam Houston State Bearkats - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/JGGGAAAAQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Missouri%20State%20Bears%20Vs%20Sam%20Houston%20State%20Bearkats.jpg" group-title="American football", Missouri State Bears Vs Sam Houston State Bearkats - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/JGGGAAAAQ.m3u8
