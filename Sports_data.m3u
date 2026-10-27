@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-27 11:33:32 PM (BD Time)
-#  Live Channels Count: 56
+#  Last Updated: 2026-10-28 12:04:17 AM (BD Time)
+#  Live Channels Count: 64
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kaizer%20Chiefs%20Vs%20TS%20Galaxy.jpg" group-title="Football", Kaizer Chiefs Vs TS Galaxy - LOW QUALITY (USE VPN)
@@ -88,6 +88,20 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sassuolo%20Vs%20Lazio.jpg" group-title="Football", Sassuolo Vs Lazio - PARAMOUNT+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50e443948a57fe66c159348eae554b3b:8eda6b0e00eb21bd6de20c8e705062cc
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdafezj5nn/out/v1/b0d6db796b544f988172f7ca8d9480f6/cenc.mpd?aws_sessionId=a9cce8e5-1747-4e8d-870d-44488ca5cb31
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sassuolo%20Vs%20Lazio.jpg" group-title="Football", Sassuolo Vs Lazio - SPORT1 CZ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sassuolo%20Vs%20Lazio.jpg" group-title="Football", Sassuolo Vs Lazio - PARAMOUNT+ HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58737/load-playlist-multi?.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shabab%20Al-Ahli%20Dubai%20Vs%20Esteghlal%20FC.jpg" group-title="Football", Shabab Al-Ahli Dubai Vs Esteghlal FC - HD QUALITY
 #EXTVLCOPT:http-referrer=https://player.on8on8.com/
 https://live.vivo155.com/live/hd-en-1-4621427.m3u8?txSecret=100490eefc9c7c4903281d1f84d805fd&txTime=6AE0DD27
@@ -129,6 +143,14 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8?
 #EXTVLCOPT:http-referrer=https://player.on8on8.com/
 https://live.vivo155.com/live/sd-1-4641672.m3u8?txSecret=5df0b6bcde7535973de0228d6a9368a9&txTime=6AE0E7D2
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/VfL%20Bochum%201848%20Vs%201.%20FSV%20Mainz%2005.jpg" group-title="Football", VfL Bochum 1848 Vs 1. FSV Mainz 05 - HD QUALITY4
+https://www.rtmpcdn.com/live/df6c202d-0613-42f9-a81b-f71615bdef67.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/VfL%20Bochum%201848%20Vs%201.%20FSV%20Mainz%2005.jpg" group-title="Football", VfL Bochum 1848 Vs 1. FSV Mainz 05 - QUALITY HD
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+https://fhlsport954.tm3drop33weeps.ru/token-d05%2ByrSQIKCGu2J9x%2FY6yDiAlJrRhSvjai2uwKQaEmT24uHPHUJeCogm%2FUFAXEYbQ3%2FWy2VgwPVwdMRNXkQducNvSkO%2FZo20KjWLYrNIsxdWXNuPTddlzLNegq87jO0%3Da/cfall/s2001/v3b/8oq1qo8snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_899636/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/VfL%20Bochum%201848%20Vs%201.%20FSV%20Mainz%2005.jpg" group-title="Football", VfL Bochum 1848 Vs 1. FSV Mainz 05 - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
@@ -141,16 +163,30 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hamburger%20SV%20Vs%20Eintracht%20Frankfurt.jpg" group-title="Football", Hamburger SV Vs Eintracht Frankfurt - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/K444AAQQAAA.m3u8
+https://fhlsport954.tm3drop33weeps.ru/token-cUAqmbiTIKOG6mYgxfY6n22AlMOEhCzjanejlKQcQjH35LadHUJeCogm%2FUFAXEYbQ3%2FWy2VgwPVwdMRNXkQducNvSkO%2FZo20KjWLYrNIsxdWXNuASNNlzLNegq87jO0%3Da/cfall/s2001/v3b/qor72826nUE0pQbiY3EmAmphZ3umqT0lYz9hMD%3D%3D/super/3x_899124.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hamburger%20SV%20Vs%20Eintracht%20Frankfurt.jpg" group-title="Football", Hamburger SV Vs Eintracht Frankfurt - HD QUALITY4
+https://www.rtmpcdn.com/live/f6716f76-a33f-4816-8b6d-95f994648b63.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hamburger%20SV%20Vs%20Eintracht%20Frankfurt.jpg" group-title="Football", Hamburger SV Vs Eintracht Frankfurt - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.44/hls/K444AAQQAAA.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hamburger%20SV%20Vs%20Eintracht%20Frankfurt.jpg" group-title="Football", Hamburger SV Vs Eintracht Frankfurt - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/sd-1-4641673.m3u8?txSecret=6f74b1bb30fb86c36ddd53ecf1a780a2&txTime=6AE0E79E
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hamburger%20SV%20Vs%20Eintracht%20Frankfurt.jpg" group-title="Football", Hamburger SV Vs Eintracht Frankfurt - HD QUALITY 2
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel11.m3u8?
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SG%20Sonnenhof%20Gro%C3%9Faspach%20Vs%20FC%20Augsburg.jpg" group-title="Football", SG Sonnenhof Großaspach Vs FC Augsburg - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://player.on8on8.com/
 https://live.vivo155.com/live/sd-1-4641666.m3u8?txSecret=afbedbf1f80bd78aeec7e81b9d853574&txTime=6AE0E77A
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SG%20Sonnenhof%20Gro%C3%9Faspach%20Vs%20FC%20Augsburg.jpg" group-title="Football", SG Sonnenhof Großaspach Vs FC Augsburg - HD QUALITY4
+https://www.rtmpcdn.com/live/47af901c-1668-4c0f-b389-48a1bbf34b80.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SG%20Sonnenhof%20Gro%C3%9Faspach%20Vs%20FC%20Augsburg.jpg" group-title="Football", SG Sonnenhof Großaspach Vs FC Augsburg - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -162,14 +198,28 @@ http://193.47.62.44/hls/K444AAQQAA.m3u8
 https://live2.jorvakstreamcache.com/live/channel4.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rot-Weiss%20Essen%20Vs%20RB%20Leipzig.jpg" group-title="Football", Rot-Weiss Essen Vs RB Leipzig - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/sd-1-4641668.m3u8?txSecret=130920bfa3ba1ca9a6952cafcb42bfdb&txTime=6AE0E7C0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rot-Weiss%20Essen%20Vs%20RB%20Leipzig.jpg" group-title="Football", Rot-Weiss Essen Vs RB Leipzig - HD QUALITY4
+https://www.rtmpcdn.com/live/5d0bff51-7151-4cdb-89b1-4633cad493fc.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rot-Weiss%20Essen%20Vs%20RB%20Leipzig.jpg" group-title="Football", Rot-Weiss Essen Vs RB Leipzig - QUALITY HD
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/K444AAQQAAAA.m3u8
+https://fhlsport954.tm3drop33weeps.ru/token-Jhd6mOWde%2FaGuGd5kPY6yziClJvb0CHjOXSrwKcaQzfws%2BaWHUJeCogm%2FUFAXEYbQ3%2FWy2VgwPVwdMRNXkQducNvSkO%2FZo20KjWLYrNIsxdWXNuBS91lzLNegq87jO0%3Da/cfall/s2001/v3b/oo51r982nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_899634/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rot-Weiss%20Essen%20Vs%20RB%20Leipzig.jpg" group-title="Football", Rot-Weiss Essen Vs RB Leipzig - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.44/hls/K444AAQQAAAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rot-Weiss%20Essen%20Vs%20RB%20Leipzig.jpg" group-title="Football", Rot-Weiss Essen Vs RB Leipzig - HD QUALITY
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel24.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Cuarte%20Vs%20Girona%20FC.jpg" group-title="Football", CD Cuarte Vs Girona FC - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -202,53 +252,6 @@ https://www.rtmpcdn.com/live/5a8919d8-c6e7-477e-aa3f-1bcd17a44399.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.44/hls/rararaAAAAA.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fakel%20Voronezh%20Vs%20Akhmat%20Grozny.jpg" group-title="Football", Fakel Voronezh Vs Akhmat Grozny - D SPORTS +2 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fakel%20Voronezh%20Vs%20Akhmat%20Grozny.jpg" group-title="Football", Fakel Voronezh Vs Akhmat Grozny - D SPORTS2+ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fakel%20Voronezh%20Vs%20Akhmat%20Grozny.jpg" group-title="Football", Fakel Voronezh Vs Akhmat Grozny - LOW QUALITY (USE VPN)LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/8IIIAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Young%20Africans%20Vs%20Mashujaa.jpg" group-title="Football", Young Africans Vs Mashujaa - Link 1
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.55/hls/VAVAVA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Progresul%20Spartac%20Vs%20Petrolul.jpg" group-title="Football", Progresul Spartac Vs Petrolul - Link 1
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/8III.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Progresul%20Spartac%20Vs%20Petrolul.jpg" group-title="Football", Progresul Spartac Vs Petrolul - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/8III.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sassuolo%20Vs%20Lazio.jpg" group-title="Football", Sassuolo Vs Lazio - SPORT1 CZ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/AFC%20Wimbledon%20Vs%20Arsenal%20U21.jpg" group-title="Football", AFC Wimbledon Vs Arsenal U21 - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Benevento%20Vs%20Catanzaro.jpg" group-title="Football", Benevento Vs Catanzaro - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calamocha%20Vs%20CE%20Europa.jpg" group-title="Football", Calamocha Vs CE Europa - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Cuarte%20Vs%20Girona%20FC.jpg" group-title="Football", CD Cuarte Vs Girona FC - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Krasnodar%20Vs%20Dynamo%20Moscow.jpg" group-title="Football", FC Krasnodar Vs Dynamo Moscow - D SPORTS +2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
@@ -258,3 +261,23 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Young%20Africans%20Vs%20Mashujaa.jpg" group-title="Football", Young Africans Vs Mashujaa - Link 1
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/VAVAVA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al%20Shamal%20SC%20Vs%20Al-Hilal.jpg" group-title="Football", Al Shamal SC Vs Al-Hilal - TV + QUALITY
+http://162.251.160.53:8089/2222/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Shorta%20Vs%20Al-Hussein%20Irbid.jpg" group-title="Football", Al-Shorta Vs Al-Hussein Irbid - TV + QUALITY
+http://162.251.160.53:8089/2189/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/AFC%20Wimbledon%20Vs%20Arsenal%20U21.jpg" group-title="Football", AFC Wimbledon Vs Arsenal U21 - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Benevento%20Vs%20Catanzaro.jpg" group-title="Football", Benevento Vs Catanzaro - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Calamocha%20Vs%20CE%20Europa.jpg" group-title="Football", Calamocha Vs CE Europa - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
