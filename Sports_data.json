@@ -2,8 +2,8 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:01:40 AM 28-10-2026",
-  "total_matches": 112,
+  "last_update_time": "12:32:05 AM 28-10-2026",
+  "total_matches": 111,
   "live_match": 44,
   "matches": [
     {
@@ -145,55 +145,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "NPL Vs NPL",
-      "eventInfo": {
-        "teamA": "NPL",
-        "teamB": "NPL",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "eventName": "Nepal Premier League",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "27/10/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STAR SPORTS HD",
-          "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "82dfca238e8c4b430a3269db71965db9",
-          "key": "a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "FANCODE SD",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "kid": "286eb7dc538143790fa9913639531920",
-          "key": "e3f5cb08d14d9e9c08438c673819540f"
-        },
-        {
-          "channel_name": "FANCODE2 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
-          "key": "22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "STAR SPORTS HD",
-          "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "channel_name": "FANCODE (IND)",
-          "stream_url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
-          "referer": "https://fancode.com/",
-          "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sassuolo Vs Lazio",
       "eventInfo": {
@@ -284,62 +235,20 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Shabab Al-Ahli Dubai Vs Esteghlal FC",
+      "event_name": "Al Shamal SC Vs Al-Hilal",
       "eventInfo": {
-        "teamA": "Shabab Al-Ahli Dubai",
-        "teamB": "Esteghlal FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+        "teamA": "Al Shamal SC",
+        "teamB": "Al-Hilal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
         "eventName": "AFC Champions League Elite",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "27/10/2026 10:00:00 PM"
+        "startTime": "28/10/2026 12:15:00 AM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621427.m3u8?txSecret=100490eefc9c7c4903281d1f84d805fd&txTime=6AE0DD27",
-          "referer": "https://player.on8on8.com/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/7e48c94c-0c49-449d-9b8c-eb67e8a85303.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/2189/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/rararaAAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY TV ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?",
-          "referer": "https://xoilac.domainkqt.cc/"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al Seeb SC Vs East Bengal FC",
-      "eventInfo": {
-        "teamA": "Al Seeb SC",
-        "teamB": "East Bengal FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40655/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "27/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621345.m3u8?txSecret=d5fd989a0df451d22039b860839b6347&txTime=6AE0DD03",
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621466.m3u8?txSecret=4953221d9dc60bccd98c1ad5032ff924&txTime=6AE0FC13",
           "referer": "https://player.on8on8.com/"
         },
         {
@@ -348,14 +257,55 @@
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/rararaAAAAAQ.m3u8",
+          "stream_url": "http://193.47.62.44/hls/DADADAAAAQQQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
-          "channel_name": "HD QUALITY TV",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?",
-          "referer": "https://xoilac.domainkqt.cc/"
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "DISNEY HD ",
+          "stream_url": ""
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DADADAAAAQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Shorta Vs Al-Hussein Irbid",
+      "eventInfo": {
+        "teamA": "Al-Shorta",
+        "teamB": "Al-Hussein Irbid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/61532/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "28/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/2189/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DADADAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ]
     },
@@ -624,6 +574,26 @@
       },
       "streams": [
         {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4658616.m3u8?txSecret=af3c800710b8a93172783721ec44a64c&txTime=6AE0FBC2",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/1529e7a1-c0a2-4a32-8726-2bd3faf50584.m3u8"
+        },
+        {
+          "channel_name": "Copa del Rey + HD",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-IBR9nrKcKvWG72IvkfY6mzjVlJrW1nvjbCKvxqAaQjCg4%2BKeHUJeCogm%2FUFAXEYbQ3%2FWy2VgwPVwdMRNXkQducNvSkO%2FZo20KjWLYrNIsxdWXN6FT9NlzLNegq87jO0%3Da/cfall/s2001/v3b/r91s7o59nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_901233/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/DADADAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -663,6 +633,21 @@
       },
       "streams": [
         {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4658618.m3u8?txSecret=18e0979317653ffe3707a7b2e1ed0f94&txTime=6AE0FB12",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/01996b1f-9cd2-4c3d-81b6-fef6374d1040.m3u8"
+        },
+        {
+          "channel_name": "Copa del Rey",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-IEUoyLHBKfKG62AuxvY6yz6FlJqHgCnjanask%2FNIFTT747ecHUJeCogm%2FUFAXEYbQ3%2FWy2VgwPVwdMRNXkQducNvSkO%2FZo20KjWLYrNIsxdWXN6ET9ZlzLNegq87jO0%3Da/cfall/s2001/v3b/54n3r8pqnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_901232/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/DADADAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -679,26 +664,6 @@
         {
           "channel_name": "DISNEY ",
           "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Calamocha Vs CE Europa",
-      "eventInfo": {
-        "teamA": "Calamocha",
-        "teamB": "CE Europa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/295634/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/135672/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "28/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ]
     },
@@ -796,6 +761,12 @@
       },
       "streams": [
         {
+          "channel_name": "D SPORTS +2 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "kid": "83f81c4cc1443991543de4e22eea7586",
+          "key": "ddfd7ca653d6f35543d8edb3c688e20f"
+        },
+        {
           "channel_name": "STREAM TV + HD ",
           "stream_url": "https://www.rtmpcdn.com/live/5a8919d8-c6e7-477e-aa3f-1bcd17a44399.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -823,6 +794,10 @@
         "startTime": "28/10/2026 12:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/a44ca04d-9af6-4820-b4e6-9e9c24de4e5c.m3u8"
+        },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.44/hls/VVVVQQ.m3u8",
@@ -887,6 +862,26 @@
         },
         {
           "channel_name": "TNT SPORTS HD2",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Boca Juniors Vs Flamengo",
+      "eventInfo": {
+        "teamA": "Boca Juniors",
+        "teamB": "Flamengo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/125874/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+        "eventName": "Messi Cup 2026",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/31185/image",
+        "startTime": "28/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN TV HD",
           "stream_url": ""
         }
       ]
@@ -1524,62 +1519,6 @@
       ]
     },
     {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al Shamal SC Vs Al-Hilal",
-      "eventInfo": {
-        "teamA": "Al Shamal SC",
-        "teamB": "Al-Hilal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "28/10/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/2222/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DADADAAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "DISNEY HD ",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Shorta Vs Al-Hussein Irbid",
-      "eventInfo": {
-        "teamA": "Al-Shorta",
-        "teamB": "Al-Hussein Irbid",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "28/10/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/2189/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DADADAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ]
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Bradford City Vs Peterborough United",
@@ -2139,7 +2078,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Don Benito Vs CD Extremadura",
       "eventInfo": {
@@ -2159,7 +2098,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CE Manresa Vs UE Sant Andreu",
       "eventInfo": {
@@ -2748,7 +2687,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Valencia Basket Vs Fenerbahçe Tarfin",
       "eventInfo": {
@@ -2768,7 +2707,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Panathinaikos BC Vs EA7 Emporio Armani Milano",
       "eventInfo": {
@@ -2879,26 +2818,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "kid": "d9623774ac5c8c351aafe97c5fe70267",
           "key": "5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ]
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Boca Juniors Vs Flamengo",
-      "eventInfo": {
-        "teamA": "Boca Juniors",
-        "teamB": "Flamengo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/125874/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-        "eventName": "Messi Cup 2026",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/31185/image",
-        "startTime": "28/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN TV HD",
-          "stream_url": ""
         }
       ]
     },
@@ -3082,6 +3001,55 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "kid": "69a5aa835a061ce64a630d1046727e40",
           "key": "d02feac8a999bd06bf4059bf33411749"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "NPL Vs NPL",
+      "eventInfo": {
+        "teamA": "NPL",
+        "teamB": "NPL",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "eventName": "Nepal Premier League",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "27/10/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STAR SPORTS HD",
+          "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "82dfca238e8c4b430a3269db71965db9",
+          "key": "a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE SD",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "kid": "286eb7dc538143790fa9913639531920",
+          "key": "e3f5cb08d14d9e9c08438c673819540f"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "kid": "1994b1df7dfd2e8a8d7b9bf3fb900285",
+          "key": "22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "STAR SPORTS HD",
+          "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "channel_name": "FANCODE (IND)",
+          "stream_url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
+          "referer": "https://fancode.com/",
+          "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
         }
       ]
     },
@@ -3322,6 +3290,48 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Shabab Al-Ahli Dubai Vs Esteghlal FC",
+      "eventInfo": {
+        "teamA": "Shabab Al-Ahli Dubai",
+        "teamB": "Esteghlal FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "27/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621427.m3u8?txSecret=100490eefc9c7c4903281d1f84d805fd&txTime=6AE0DD27",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/7e48c94c-0c49-449d-9b8c-eb67e8a85303.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/2189/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/rararaAAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY TV ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Beijing Guoan Vs Jeonbuk Hyundai Motors",
       "eventInfo": {
         "teamA": "Beijing Guoan",
@@ -3353,6 +3363,42 @@
           "channel_name": "HD QUALITY ",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?",
           "referer": "https://xlz.domainkqt.cc/"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Al Seeb SC Vs East Bengal FC",
+      "eventInfo": {
+        "teamA": "Al Seeb SC",
+        "teamB": "East Bengal FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40655/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "27/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621345.m3u8?txSecret=d5fd989a0df451d22039b860839b6347&txTime=6AE0DD03",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/2222/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/rararaAAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY TV",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/"
         }
       ]
     },
