@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-27 08:26:21 PM (BD Time)
-#  Live Channels Count: 25
+#  Last Updated: 2026-10-27 08:47:17 PM (BD Time)
+#  Live Channels Count: 21
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - WILLOW FHD
@@ -74,34 +74,20 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ratchaburi%20Vs%20Kashiwa%20Reysol.jpg" group-title="Football", Ratchaburi Vs Kashiwa Reysol - TV + QUALITY
-http://162.251.160.53:8089/2189/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - WILLOW FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85e95a4fae22e02459252a03faaf3166:29334fa5e1d5708ed994f8bf74687933
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ratchaburi%20Vs%20Kashiwa%20Reysol.jpg" group-title="Football", Ratchaburi Vs Kashiwa Reysol - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel24.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - SPORTSCAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ratchaburi%20Vs%20Kashiwa%20Reysol.jpg" group-title="Football", Ratchaburi Vs Kashiwa Reysol - LOW QUALITY (USE VPN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.50/hls/JYYYA.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Beijing%20Guoan%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="Football", Beijing Guoan Vs Jeonbuk Hyundai Motors - TV + QUALITY
-http://162.251.160.53:8089/2222/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Beijing%20Guoan%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="Football", Beijing Guoan Vs Jeonbuk Hyundai Motors - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.50/hls/JYYY.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Beijing%20Guoan%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="Football", Beijing Guoan Vs Jeonbuk Hyundai Motors - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.50/hls/JYYY.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Beijing%20Guoan%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="Football", Beijing Guoan Vs Jeonbuk Hyundai Motors - HD QUALITY
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel2.m3u8?
+http://193.47.62.44/hls/XAXAXAXW.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - T SPORTS HD
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
