@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-27 02:33:25 PM (BD Time)
-#  Live Channels Count: 40
+#  Last Updated: 2026-10-27 03:25:15 PM (BD Time)
+#  Live Channels Count: 47
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg" group-title="Other", GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD
@@ -22,8 +22,8 @@ http://193.47.62.44/hls/CTTTT.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - FANCODE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,8 +36,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - WILLOW ALT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Australia.jpg" group-title="Cricket", South Africa Vs Australia - WILLOW SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -191,3 +191,28 @@ https://live.msnetworks.net/ptv-sports/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="Cricket", Pakistan Vs Sri Lanka - T SPORTS HD
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Johor%20Darul%20Ta%27zim%20Vs%20Port%20FC.jpg" group-title="Football", Johor Darul Ta'zim Vs Port FC - TV + QUALITY
+http://162.251.160.53:8089/2399/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Johor%20Darul%20Ta%27zim%20Vs%20Port%20FC.jpg" group-title="Football", Johor Darul Ta'zim Vs Port FC - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel16.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Daejeon%20Hana%20Citizen%20Vs%20Vissel%20Kobe.jpg" group-title="Football", Daejeon Hana Citizen Vs Vissel Kobe - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shanghai%20Port%20Vs%20C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i.jpg" group-title="Football", Shanghai Port Vs Công An Hà Nội - TV + QUALITY
+http://162.251.160.53:8089/2189/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shanghai%20Port%20Vs%20C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i.jpg" group-title="Football", Shanghai Port Vs Công An Hà Nội - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel5.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyoto%20Sanga%20FC%20Vs%20Newcastle%20Jets.jpg" group-title="Football", Kyoto Sanga FC Vs Newcastle Jets - TV + QUALITY
+http://162.251.160.53:8089/2234/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyoto%20Sanga%20FC%20Vs%20Newcastle%20Jets.jpg" group-title="Football", Kyoto Sanga FC Vs Newcastle Jets - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://xoilac.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel15.m3u8?
