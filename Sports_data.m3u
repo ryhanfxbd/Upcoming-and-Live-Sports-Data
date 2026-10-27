@@ -3,8 +3,8 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Telegram channel : https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-28 03:03:02 AM (BD Time)
-#  Live Channels Count: 67
+#  Last Updated: 2026-10-28 03:33:01 AM (BD Time)
+#  Live Channels Count: 62
 #=================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Torino%20Vs%20Como.jpg" group-title="Football", Torino Vs Como - PARAMOUNT+ FHD
@@ -50,6 +50,16 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dyevprfztl/
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bradford%20City%20Vs%20Peterborough%20United.jpg" group-title="Football", Bradford City Vs Peterborough United - HD QUALITY
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+https://www.rtmpcdn.com/live/5762bb65-17c1-4288-9f1a-d72a18a05cc1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bradford%20City%20Vs%20Peterborough%20United.jpg" group-title="Football", Bradford City Vs Peterborough United - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/VTVTVT.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fleetwood%20Town%20Vs%20Arsenal.jpg" group-title="Football", Fleetwood Town Vs Arsenal - PARAMOUNT+ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89e180f3a77c5faa64a36a412942d1ba:deb699210c75c34a0537526fedcd0e51
@@ -66,17 +76,25 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Port%20Vale%20Vs%20Manchester%20City%20U21.jpg" group-title="Football", Port Vale Vs Manchester City U21 - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fleetwood%20Town%20Vs%20Arsenal.jpg" group-title="Football", Fleetwood Town Vs Arsenal - HD QUALITY
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58740/load-playlist?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Blackpool%20Vs%20Aston%20Villa%20U21.jpg" group-title="Football", Blackpool Vs Aston Villa U21 - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fleetwood%20Town%20Vs%20Arsenal.jpg" group-title="Football", Fleetwood Town Vs Arsenal - HD QUALITY
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+https://www.rtmpcdn.com/live/00322d73-6436-46aa-84c6-d48e0723d82b.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shrewsbury%20Town%20Vs%20Everton%20U21.jpg" group-title="Football", Shrewsbury Town Vs Everton U21 - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Fleetwood%20Town%20Vs%20Arsenal.jpg" group-title="Football", Fleetwood Town Vs Arsenal - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.50/hls/VTVTVTAX.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SV%2007%20Elversberg%20Vs%20Darmstadt%2098.jpg" group-title="Football", SV 07 Elversberg Vs Darmstadt 98 - TV + QUALITY
 http://162.251.160.53:8089/1599/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SV%2007%20Elversberg%20Vs%20Darmstadt%2098.jpg" group-title="Football", SV 07 Elversberg Vs Darmstadt 98 - HD QUALITY
+https://www.rtmpcdn.com/live/3b3d54a7-7b78-42af-b58d-afb16b685d4a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/SV%2007%20Elversberg%20Vs%20Darmstadt%2098.jpg" group-title="Football", SV 07 Elversberg Vs Darmstadt 98 - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -91,6 +109,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Borussia%20Dortmund%20Vs%20SV%20Werder%20Bremen.jpg" group-title="Football", Borussia Dortmund Vs SV Werder Bremen - TV + QUALITY
 http://162.251.160.53:8089/1476/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Borussia%20Dortmund%20Vs%20SV%20Werder%20Bremen.jpg" group-title="Football", Borussia Dortmund Vs SV Werder Bremen - HD QUALITY
+https://www.rtmpcdn.com/live/c87c40e9-5b7d-4120-8060-c3b6bff84fd0.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Borussia%20Dortmund%20Vs%20SV%20Werder%20Bremen.jpg" group-title="Football", Borussia Dortmund Vs SV Werder Bremen - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -99,10 +120,16 @@ http://193.47.62.59/hls/J777AA.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/1.%20FC%20K%C3%B6ln%20Vs%201.%20FC%20Union%20Berlin.jpg" group-title="Football", 1. FC Köln Vs 1. FC Union Berlin - TV + QUALITY
 http://162.251.160.53:8089/1672/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/1.%20FC%20K%C3%B6ln%20Vs%201.%20FC%20Union%20Berlin.jpg" group-title="Football", 1. FC Köln Vs 1. FC Union Berlin - HD QUALITY
+https://www.rtmpcdn.com/live/cd533f8b-1ada-40e4-a77c-47588e2ee15e.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/1.%20FC%20K%C3%B6ln%20Vs%201.%20FC%20Union%20Berlin.jpg" group-title="Football", 1. FC Köln Vs 1. FC Union Berlin - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/J777AAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Borussia%20M%27gladbach%20Vs%20Karlsruher%20SC.jpg" group-title="Football", Borussia M'gladbach Vs Karlsruher SC - HD QUALITY
+https://www.rtmpcdn.com/live/8ac64648-a3b1-4f14-880e-b5b9dd314e32.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Borussia%20M%27gladbach%20Vs%20Karlsruher%20SC.jpg" group-title="Football", Borussia M'gladbach Vs Karlsruher SC - TV + QUALITY
 http://162.251.160.53:8089/1388/index.m3u8
@@ -112,49 +139,11 @@ http://162.251.160.53:8089/1388/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/J777.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Padova%20Vs%20S%C3%BCdtirol.jpg" group-title="Football", Padova Vs Südtirol - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cesena%20Vs%20Empoli.jpg" group-title="Football", Cesena Vs Empoli - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ascoli%20Vs%20Sampdoria.jpg" group-title="Football", Ascoli Vs Sampdoria - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Virtus%20Entella%20Vs%20US%20Avellino%201912.jpg" group-title="Football", Virtus Entella Vs US Avellino 1912 - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/L.R.%20Vicenza%20Vs%20Modena.jpg" group-title="Football", L.R. Vicenza Vs Modena - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mantova%20Vs%20Cremonese.jpg" group-title="Football", Mantova Vs Cremonese - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UD%20Castellonense%20Vs%20Almer%C3%ADa.jpg" group-title="Football", UD Castellonense Vs Almería - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Ciudad%20de%20Lucena%20Vs%20Rayo%20Majadahonda.jpg" group-title="Football", CD Ciudad de Lucena Vs Rayo Majadahonda - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/RSD%20Alcal%C3%A1%20Vs%20UD%20Las%20Palmas.jpg" group-title="Football", RSD Alcalá Vs UD Las Palmas - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gimn%C3%A1stica%20Segoviana%20Vs%20Cultural%20Leonesa.jpg" group-title="Football", Gimnástica Segoviana Vs Cultural Leonesa - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Tordesillas%20Vs%20Mirand%C3%A9s.jpg" group-title="Football", Atlético Tordesillas Vs Mirandés - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UD%20Llanera%20Vs%20SD%20Ponferradina.jpg" group-title="Football", UD Llanera Vs SD Ponferradina - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Arosa%20SC%20Vs%20Pontevedra%20CF.jpg" group-title="Football", Arosa SC Vs Pontevedra CF - STREAM TV + HD
 https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Manacor%20Vs%20Villarreal.jpg" group-title="Football", CD Manacor Vs Villarreal - STREAM TV + HD
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/JBBBBAAQQ.m3u8
+https://www.rtmpcdn.com/live/0d20d2c0-ed2a-427e-ac31-def8dff668c2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Manacor%20Vs%20Villarreal.jpg" group-title="Football", CD Manacor Vs Villarreal - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -162,20 +151,12 @@ http://193.47.62.59/hls/JBBBBAAQQ.m3u8
 http://193.47.62.59/hls/JBBBBAAQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20de%20Alc%C3%A1zar%20CF%20Vs%20M%C3%A1laga%20CF.jpg" group-title="Football", Sporting de Alcázar CF Vs Málaga CF - STREAM TV + HD
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/JBBBBAAQ.m3u8
+https://www.rtmpcdn.com/live/6ba9fe09-75d0-4921-8980-a521ce2fe7f6.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20de%20Alc%C3%A1zar%20CF%20Vs%20M%C3%A1laga%20CF.jpg" group-title="Football", Sporting de Alcázar CF Vs Málaga CF - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/JBBBBAAQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Don%20Benito%20Vs%20CD%20Extremadura.jpg" group-title="Football", Don Benito Vs CD Extremadura - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CE%20Manresa%20Vs%20UE%20Sant%20Andreu.jpg" group-title="Football", CE Manresa Vs UE Sant Andreu - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Tudelano%20Vs%20Real%20Zaragoza.jpg" group-title="Football", CD Tudelano Vs Real Zaragoza - STREAM TV + HD
 https://file.genoads.com/ch1.m3u8
@@ -184,35 +165,12 @@ https://file.genoads.com/ch1.m3u8
 https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Recreativo%20de%20Huelva%20Vs%20Rayo%20Vallecano.jpg" group-title="Football", Recreativo de Huelva Vs Rayo Vallecano - STREAM TV + HD
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/JBBBBAAQQQ.m3u8
+https://www.rtmpcdn.com/live/78c46333-058a-4211-8ee3-f5acaeaa5277.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Recreativo%20de%20Huelva%20Vs%20Rayo%20Vallecano.jpg" group-title="Football", Recreativo de Huelva Vs Rayo Vallecano - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/JBBBBAAQQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - WILLOW FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85e95a4fae22e02459252a03faaf3166:29334fa5e1d5708ed994f8bf74687933
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - SPORTSCAST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://193.47.62.44/hls/XAXAXAXW.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - T SPORTS HD
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg" group-title="Cricket", Afghanistan Vs Zimbabwe - STAR SPORTS HD
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kosner%20Baskonia%20Vs%20Real%20Madrid.jpg" group-title="Basketball", Kosner Baskonia Vs Real Madrid - STREAM TV + HD
 https://www.rtmpcdn.com/live/5dfc6d87-e328-4279-926c-f8fc616db3aa.m3u8
@@ -223,22 +181,59 @@ https://www.rtmpcdn.com/live/5dfc6d87-e328-4279-926c-f8fc616db3aa.m3u8
 http://193.47.62.41/hls/B111AAAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/KK%20Crvena%20zvezda%20Vs%20Maccabi%20Tel%20Aviv.jpg" group-title="Basketball", KK Crvena zvezda Vs Maccabi Tel Aviv - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+https://www.rtmpcdn.com/live/1dff9a1d-0a16-4e20-bddb-9eaafc8b8fa9.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/KK%20Crvena%20zvezda%20Vs%20Maccabi%20Tel%20Aviv.jpg" group-title="Basketball", KK Crvena zvezda Vs Maccabi Tel Aviv - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/B111A.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bayern%20M%C3%BCnchen%20Vs%20Bar%C3%A7a%20Basket.jpg" group-title="Basketball", Bayern München Vs Barça Basket - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+https://www.rtmpcdn.com/live/65de08f3-99ef-4f4b-86c3-70ced904d111.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bayern%20M%C3%BCnchen%20Vs%20Bar%C3%A7a%20Basket.jpg" group-title="Basketball", Bayern München Vs Barça Basket - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/B111.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Valencia%20Basket%20Vs%20Fenerbah%C3%A7e%20Tarfin.jpg" group-title="Basketball", Valencia Basket Vs Fenerbahçe Tarfin - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+https://www.rtmpcdn.com/live/48984db9-1265-4dce-94e3-d03255fd020f.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Valencia%20Basket%20Vs%20Fenerbah%C3%A7e%20Tarfin.jpg" group-title="Basketball", Valencia Basket Vs Fenerbahçe Tarfin - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/B111AAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Panathinaikos%20BC%20Vs%20EA7%20Emporio%20Armani%20Milano.jpg" group-title="Basketball", Panathinaikos BC Vs EA7 Emporio Armani Milano - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+https://www.rtmpcdn.com/live/eb5f4ca0-b888-4852-acae-ef8aa53f6f1a.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Panathinaikos%20BC%20Vs%20EA7%20Emporio%20Armani%20Milano.jpg" group-title="Basketball", Panathinaikos BC Vs EA7 Emporio Armani Milano - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/B111AA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20Cp%20Vs%20Mart%C3%ADmo.jpg" group-title="Football", Sporting Cp Vs Martímo - D SPORTS + FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20Cp%20Vs%20Mart%C3%ADmo.jpg" group-title="Football", Sporting Cp Vs Martímo - HD QUALITY 4
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+https://www.rtmpcdn.com/live/8d054e08-e4de-4653-8296-80199a795c69.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20Cp%20Vs%20Mart%C3%ADmo.jpg" group-title="Football", Sporting Cp Vs Martímo - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.59/hls/JBBBBAAQQQQQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Altrincham%20FC%20Vs%20Kidderminster%20Harriers.jpg" group-title="Football", Altrincham FC Vs Kidderminster Harriers - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.59/hls/DFFFAAA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oxford%20United%20Vs%20Stockport%20County.jpg" group-title="Football", Oxford United Vs Stockport County - PARAMOUNT+ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -284,3 +279,8 @@ http://193.47.62.59/hls/ajjj.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/ajjj.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Argentinos%20Juniors%20Vs%20Independiente%20Rivadavia.jpg" group-title="Football", Argentinos Juniors Vs Independiente Rivadavia - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/GGGG.m3u8
