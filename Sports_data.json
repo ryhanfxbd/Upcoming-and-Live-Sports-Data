@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:31:11 AM 28-10-2026",
-  "total_matches": 69,
-  "live_match": 7,
+  "last_update_time": "05:01:14 AM 28-10-2026",
+  "total_matches": 68,
+  "live_match": 15,
   "matches": [
     {
       "status": "LIVE",
@@ -42,62 +42,68 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Kosner Baskonia Vs Real Madrid",
+      "Category": "Hockey",
+      "event_name": "Philadelphia Flyers Vs Columbus Blue Jackets",
       "eventInfo": {
-        "teamA": "Kosner Baskonia",
-        "teamB": "Real Madrid",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3553/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "28/10/2026 02:00:00 AM"
+        "teamA": "Philadelphia Flyers",
+        "teamB": "Columbus Blue Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/10/2026 05:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://www.rtmpcdn.com/live/5dfc6d87-e328-4279-926c-f8fc616db3aa.m3u8"
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "1a5df53609ebc9857898c490f4724918",
+          "key": "77f62980d582ec541280796acf8b2d19"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/B111AAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58742/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58741/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NHL HD",
+          "stream_url": "https://vix.cdnfan.site/event/nhl1.m3u8"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
         }
       ]
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sporting Cp Vs Martímo",
+      "Category": "American football",
+      "event_name": "Western Kentucky Hilltoppers Vs Delaware Blue Hens",
       "eventInfo": {
-        "teamA": "Sporting Cp",
-        "teamB": "Martímo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
-        "eventName": "Taça de Portugal",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
-        "startTime": "28/10/2026 02:15:00 AM"
+        "teamA": "Western Kentucky Hilltoppers",
+        "teamB": "Delaware Blue Hens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/86009/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/46643/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "28/10/2026 05:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "f836853d8eac19446ed9535f5fc568b1",
-          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58743/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "HD QUALITY 4",
-          "stream_url": "https://www.rtmpcdn.com/live/8d054e08-e4de-4653-8296-80199a795c69.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/JBBBBAAQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "HD + SD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58743/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ]
     },
@@ -142,7 +148,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "WWE NXT Vs WWE NXT",
       "eventInfo": {
@@ -688,26 +694,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ceará Vs Goiás",
-      "eventInfo": {
-        "teamA": "Ceará",
-        "teamB": "Goiás",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2001/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1960/image",
-        "eventName": "Brasileirão Série B",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/390/image/dark",
-        "startTime": "28/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "Tampa Bay Rays Vs Milwaukee Brewers",
       "eventInfo": {
@@ -744,7 +730,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "San Antonio Spurs Vs Sacramento Kings",
       "eventInfo": {
@@ -768,7 +754,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "New York Knicks Vs Detroit Pistons",
       "eventInfo": {
@@ -870,7 +856,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs Los Angeles Kings",
       "eventInfo": {
@@ -894,7 +880,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Dallas Stars Vs New Jersey Devils",
       "eventInfo": {
@@ -926,37 +912,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Philadelphia Flyers Vs Columbus Blue Jackets",
-      "eventInfo": {
-        "teamA": "Philadelphia Flyers",
-        "teamB": "Columbus Blue Jackets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "kid": "1a5df53609ebc9857898c490f4724918",
-          "key": "77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "NHL HD",
-          "stream_url": "https://vix.cdnfan.site/event/nhl1.m3u8"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "Nashville Predators Vs New York Islanders",
       "eventInfo": {
         "teamA": "Nashville Predators",
@@ -979,7 +934,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Carolina Hurricanes Vs Boston Bruins",
       "eventInfo": {
@@ -1051,7 +1006,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Winnipeg Jets Vs Florida Panthers",
       "eventInfo": {
@@ -1137,7 +1092,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "St. Louis Blues Vs Montréal Canadiens",
       "eventInfo": {
@@ -1169,26 +1124,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Western Kentucky Hilltoppers Vs Delaware Blue Hens",
-      "eventInfo": {
-        "teamA": "Western Kentucky Hilltoppers",
-        "teamB": "Delaware Blue Hens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/86009/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/46643/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "28/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
       "Category": "American football",
       "event_name": "Missouri State Bears Vs Sam Houston State Bearkats",
       "eventInfo": {
@@ -2089,6 +2024,32 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
+      "event_name": "Kosner Baskonia Vs Real Madrid",
+      "eventInfo": {
+        "teamA": "Kosner Baskonia",
+        "teamB": "Real Madrid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3553/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "28/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://www.rtmpcdn.com/live/5dfc6d87-e328-4279-926c-f8fc616db3aa.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/B111AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
       "event_name": "KK Crvena zvezda Vs Maccabi Tel Aviv",
       "eventInfo": {
         "teamA": "KK Crvena zvezda",
@@ -2187,6 +2148,41 @@
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/B111AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ]
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sporting Cp Vs Martímo",
+      "eventInfo": {
+        "teamA": "Sporting Cp",
+        "teamB": "Martímo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+        "eventName": "Taça de Portugal",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
+        "startTime": "28/10/2026 02:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "kid": "f836853d8eac19446ed9535f5fc568b1",
+          "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/8d054e08-e4de-4653-8296-80199a795c69.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/JBBBBAAQQQQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
