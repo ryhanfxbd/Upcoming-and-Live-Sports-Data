@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:31:16 AM 28-10-2026",
+  "last_update_time": "07:01:16 AM 28-10-2026",
   "total_matches": 68,
-  "live_match": 18,
+  "live_match": 21,
   "matches": [
     {
       "status": "LIVE",
@@ -520,6 +520,34 @@
         {
           "channel_name": "SPORTSCAST FHD",
           "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0c1922f1-213e-436d-b6b6-f769afa4fb67/master.m3u8"
+        },
+        {
+          "channel_name": "XTREME + FHD",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Utah Mammoth Vs Minnesota Wild",
+      "eventInfo": {
+        "teamA": "Utah Mammoth",
+        "teamB": "Minnesota Wild",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NHL HD",
+          "stream_url": "https://vix.cdnfan.site/event/nhl8.m3u8"
+        },
+        {
+          "channel_name": "SPORTSCAST FHD ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a11b1dc9-eb27-4766-8000-6a9e40758175/master.m3u8"
         },
         {
           "channel_name": "XTREME + FHD",
@@ -1202,34 +1230,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Utah Mammoth Vs Minnesota Wild",
-      "eventInfo": {
-        "teamA": "Utah Mammoth",
-        "teamB": "Minnesota Wild",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NHL HD",
-          "stream_url": "https://vix.cdnfan.site/event/nhl8.m3u8"
-        },
-        {
-          "channel_name": "SPORTSCAST FHD ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a11b1dc9-eb27-4766-8000-6a9e40758175/master.m3u8"
-        },
-        {
-          "channel_name": "XTREME + FHD",
-          "stream_url": ""
-        }
-      ]
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "Anaheim Ducks Vs Vancouver Canucks",
       "eventInfo": {
         "teamA": "Anaheim Ducks",
@@ -1256,7 +1256,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Vegas Golden Knights Vs Ottawa Senators",
       "eventInfo": {
@@ -1347,7 +1347,7 @@
       ]
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Alianza FC Vs CD Marathon",
       "eventInfo": {
